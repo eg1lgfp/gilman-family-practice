@@ -114,7 +114,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
-        url: /docs/getting-started/installation
+        url: 'https://www.google.com/maps/@47.6728191,-117.4821896,12z'
         style: primary
 seo:
   title: Stackbit Libris Theme
