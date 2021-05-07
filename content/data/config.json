@@ -51,6 +51,17 @@
                 "has_subnav": false
             },
             {
+                "label": "Patient Portal",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "has_subnav": false,
+                "subnav_links": [],
+                "type": "action_menu"
+            },
+            {
                 "label": "509-924-4681",
                 "style": "primary",
                 "has_subnav": false,
@@ -65,17 +76,6 @@
                         "type": "action"
                     }
                 ]
-            },
-            {
-                "label": "Patient Portal",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "has_subnav": false,
-                "subnav_links": [],
-                "type": "action_menu"
             }
         ]
     },
