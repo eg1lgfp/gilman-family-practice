@@ -31,7 +31,7 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
-          - label: Here's what you should know
+          - label: Learn more
             url: /blog
             style: link
       - title: Patient Resources + Portal
