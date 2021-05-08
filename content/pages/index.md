@@ -44,7 +44,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image_position: right
+    image_position: left
     title: A Section With An Image
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
