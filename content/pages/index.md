@@ -57,6 +57,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
+    image: images/jamstack.svg
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
