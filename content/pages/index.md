@@ -10,7 +10,7 @@ sections:
       your new "landing site" / home / main page. This will set the tone, feel
       and intent/goal of the page as well.
     actions:
-      - label: Get Started
+      - label: Providers
         url: /docs
         style: primary
   - section_id: features
