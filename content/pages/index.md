@@ -23,7 +23,7 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Get Started
+          - label: Let's go
             url: /docs
             style: link
       - title: Health News + Awareness
