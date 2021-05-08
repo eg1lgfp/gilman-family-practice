@@ -5,9 +5,10 @@ sections:
     type: section_hero
     title: Welcome...
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Short introduction to where the visitor / patient has "landed' as this is
+      your new "landing site" / home / main page. This will set the tone, feel
+      and intent/goal of the page as well.
     actions:
       - label: Get Started
         url: /docs
