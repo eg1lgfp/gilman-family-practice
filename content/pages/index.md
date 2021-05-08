@@ -97,7 +97,9 @@ sections:
   - section_id: cta
     type: section_cta
     title: Contact us...
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      This is an optional text space for the contact or ?? button link to the
+      right >>>>
     actions:
       - label: Get Started
         url: 'https://www.google.com/maps/@47.6728191,-117.4821896,12z'
