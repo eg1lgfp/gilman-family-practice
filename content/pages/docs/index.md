@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: "Welcome to... [\_\_\_\_\_\_ your title across this heading\_\_\_ ]"
 seo:
   title: Welcome to Libris
   description: This is the documentation page
