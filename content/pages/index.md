@@ -18,17 +18,17 @@ sections:
     col_number: three
     grid_items:
       - title: '>> Office Information'
-        content: >+
+        content: >
           #### **Hours**
 
 
-          *   **Mon - Thurs | 8am - 5pm**
+          *   Mon - Thurs | 8am - 5pm
 
 
-          *   **Friday | 8:30am - 5pm**
+          *   Friday | 8:30am - 5pm
 
 
-          *   **Sat - Sun | Closed**
+          *   Sat - Sun | Closed
 
 
           #### **Location**
@@ -79,7 +79,6 @@ sections:
 
 
           *   Asuris Medadvantage Plan
-
         actions:
           - label: Let's go
             url: /docs
