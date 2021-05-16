@@ -119,7 +119,7 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: "*   **Diabetic Diet**\n\n*   **Allergy Info**\n\n*   [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n**COVID Info + Resource \U0001F637:**\n\n*   [**CDC's Covid 19 Home**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)\n\n*   [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n*   [**Moderna's Covid...**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n*   [**Johnson & Johnson**](https://www.jnj.com/covid-19)\n\n*   [**Astra-Zeneca**](https://www.astrazeneca.com/covid-19.html)\n\n*   **Link**\n\n*   **Link**\n\n*   **Link**\n"
+        content: "*   **Diabetic Diet**\n\n*   **Allergy Info**\n\n*   [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n\U0001F489**  COVID Info + Resource \U0001F637:**\n\n*   [**CDC's Covid 19 Home**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)\n\n*   [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n*   [**Moderna's Covid...**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n*   [**Johnson & Johnson**](https://www.jnj.com/covid-19)\n\n*   [**Astra-Zeneca**](https://www.astrazeneca.com/covid-19.html)\n\n*   **Link**\n\n*   **Link**\n\n*   **Link**\n"
         actions:
           - label: Let's go
             url: /style-guide
