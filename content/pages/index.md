@@ -216,17 +216,9 @@ sections:
       - title: Laurie
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          ![](https://via.placeholder.com/200/09f/fff.png)
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
   - section_id: cta
