@@ -31,6 +31,8 @@ This page is where you can find and download all of our forms, including helpful
 
 ***We can also embed YouTube or Vimeo videos***
 
+#### ***Most frequently used forms here: ***
+
 *   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
 
 *   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
@@ -40,3 +42,7 @@ This page is where you can find and download all of our forms, including helpful
 *   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
 
 *   [Patient Consent Form for Minor](http://drgcg.com/PrivConMinor.pdf)
+
+For more info and instructions on what we use the forms for and more:
+
+\&U+2b9c Find the applicable forms area on the list 
