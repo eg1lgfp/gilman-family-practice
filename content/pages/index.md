@@ -12,7 +12,7 @@ sections:
       growth to meet the changing needs of our community.
     actions:
       - label: About Us + Provider Info
-        url: /docs
+        url: /style-guide
         style: primary
   - section_id: features
     type: section_grid
