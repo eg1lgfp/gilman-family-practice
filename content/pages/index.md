@@ -235,7 +235,7 @@ sections:
         type: grid_item
   - section_id: cta
     type: section_cta
-    title: Contact us...
+    title: "Feel free to\_leave a message and we will return your call ASAP.\_ Calls \nreceived after\_4:30 will not be returned until the next business \nday.\_\_If you are calling after business hours and you need an on-call \nphysician for an emergency, you will be instructed\_to call\_509-622-9378.\_ If you need a refill, contact your pharmacy to fax the request to our office. \_Please contact our office for\_our fax number.\_\n In order for us to prioritize calls, we ask patients to let the \nreceptionist know the nature of your problem or questions. Genuine \nemergencies are our first priority. Urgent calls are handled as soon as \npossible, and non-emergency calls are returned as time permits \nthroughout the day and after office hours. Please give telephone numbers\n with area code where you can be reached during both business and \nevening hours."
     subtitle: '1414 N. Vercler Rd. Bldg. 4 | Spokane, Washington 99216 | (509) 924-4681'
     actions:
       - label: 'Map Directions '
