@@ -25,15 +25,17 @@ layout: docs
 ---
 ##### This page is where you can find and download all of our forms, including helpful documents and our FAQ
 
-***Note to Emily/Linda: **This can be the full list of forms*
+\*\*\*Note to Emily/Linda: \**This can be the full list of forms*
 
 *Remember in all of these "containers"/section boxes we can add photos, illustrations (graphics which I can create or get via shared libraries I have access to)*
 
 *We can also embed YouTube or Vimeo videos*
 
-#### Most frequently used forms here: 
+#### Most frequently used forms here:
 
 *   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
+
+\<a href="https://www.stackbit.com/" class="button">Join Stackbit\</a>
 
 *   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
 
