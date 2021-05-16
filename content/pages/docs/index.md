@@ -35,7 +35,7 @@ layout: docs
 
 *   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
 
-\<a href="https://www.stackbit.com/" class="button">Join Stackbit\</a>
+<!---->
 
 *   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
 
