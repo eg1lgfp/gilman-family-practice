@@ -94,7 +94,7 @@ sections:
           ##### **Contact:  (509)-924-4681**
 
 
-          #### **Holiday Hours:**
+          ##### **Holiday Hours:**
 
 
           *   day - day | hh:mm
