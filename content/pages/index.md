@@ -130,10 +130,11 @@ sections:
     type: section_content
     image_position: left
     title: COVID Vaccine Information
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      ***Blurb about whether people should get it, safety concerns, etc,
+      etc,.... ***Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh,
+      dapibus sit amet cursus quis, fringilla nec sapien. Vestibulum imperdiet
+      nunc bibendum consectetur lobortis.
     actions:
       - label: View Demo
         url: /docs/getting-started
