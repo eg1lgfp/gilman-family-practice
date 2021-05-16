@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome...
+    title: Welcome to Gilman Family Practice
     content: >
       Short introduction to where the visitor / patient has "landed' as this is
       your new "landing site" / home / main page. This will set the tone, feel
