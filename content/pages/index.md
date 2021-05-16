@@ -136,7 +136,7 @@ sections:
       dapibus sit amet cursus quis, fringilla nec sapien. Vestibulum imperdiet
       nunc bibendum consectetur lobortis.
     actions:
-      - label: View Demo
+      - label: CDC Guidance
         url: /docs/getting-started
         style: primary
       - label: Get Started
