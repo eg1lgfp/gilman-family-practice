@@ -109,7 +109,7 @@ sections:
           - label: Learn more
             url: /blog
             style: link
-      - title: Patient Resources + Portal
+      - title: Patient Education
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
