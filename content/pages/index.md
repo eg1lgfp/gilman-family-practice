@@ -106,7 +106,7 @@ sections:
           - label: Providers
             url: /style-guide
             style: link
-          - label: lorem-ipsum
+          - label: News + Announcements
             url: '#'
             style: link
             icon_class: dev
