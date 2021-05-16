@@ -189,9 +189,7 @@ sections:
     grid_items:
       - title: Bryce H. Gilman
         content: >
-
-
-          ![](https://via.placeholder.com/200/09f/fff.png)****
+          ![](https://via.placeholder.com/200/09f/fff.png)
 
 
           **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
