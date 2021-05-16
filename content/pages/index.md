@@ -94,7 +94,7 @@ sections:
             no_follow: false
             type: action
             url: 'https://myhealthrecord.com/'
-      - title: Clinic News & Announcements
+      - title: Clinic News & Updates
         content: |
           ##### **Holiday Hours:**
 
