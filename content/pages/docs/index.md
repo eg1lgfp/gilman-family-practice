@@ -21,15 +21,21 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
+This page is where you can find and download all of our forms, including helpful documents and our FAQ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+***\*This can be the full list of forms***
 
-***
+***\*\*Remember in all of these "containers"/section boxes we can add photos, illustrations (graphics which I can create or get via shared libraries I have access to)***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+***\*\*\*We can also embed YouTube or Vimeo videos***
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+*   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
 
-[Morbi ac vulputate enim](https://stackbit.com)
+*   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+*   [Medication List Form](http://drgcg.com/MedicationList.pdf)
+
+*   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
+
+*   [Patient Consent Form for Minor](http://drgcg.com/PrivConMinor.pdf)
+
