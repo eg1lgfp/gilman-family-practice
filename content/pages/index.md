@@ -23,7 +23,7 @@ sections:
     grid_items:
       - title: Office Information
         content: >
-          ### **Hours:**
+          #### **Hours:**
 
 
           Mon - Thurs | 8am - 5pm
@@ -35,7 +35,7 @@ sections:
           Sat - Sun | Closed
 
 
-          ### **Location:**
+          #### **Location:**
 
 
           [**ICON
@@ -43,7 +43,7 @@ sections:
           (erik put a travel/locale icon here or a minimap that's clickable)\*\*
 
 
-          ### **Insurance Accepted:**
+          #### **Insurance Accepted:**
 
 
           *   Asuris
