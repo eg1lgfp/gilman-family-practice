@@ -95,8 +95,8 @@ sections:
             type: action
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Updates
-        content: |+
-          ##### **Holiday Hours:**
+        content: |
+          ### Holiday Hours:
 
           *   day - day | hh:mm
 
@@ -106,6 +106,7 @@ sections:
           *   Laurie LastName, PA-C | On-Leave until DD MMM YY
           *   Kristina A. Stewart, PA-C | Available by appointment
 
+          ### Announcements & Updates:
         actions:
           - label: News + Announcements
             url: /blog
