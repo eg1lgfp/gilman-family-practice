@@ -1,7 +1,7 @@
 ---
 title: Gilman Family Practice
 subtitle: 'Welcome to the family! Please take a moment to get to know us better :)'
-image: images/5.jpg
+image: images/magenta-mahogany.jpg
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
