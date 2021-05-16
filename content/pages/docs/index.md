@@ -1,5 +1,7 @@
 ---
-title: 'Welcome to our Forms, Docs? & _____?_____ page'
+title: >-
+  This is your one-stop-shop for our patient information forms, consent & other
+  helpful forms & resources
 seo:
   title: Welcome to Libris
   description: This is the documentation page
