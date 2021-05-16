@@ -1,5 +1,5 @@
 ---
-title: "Welcome to... [\_\_\_\_\_\_ your title across this heading\_\_\_ ]"
+title: 'Welcome to our Forms, Docs? & _____?_____ page'
 seo:
   title: Welcome to Libris
   description: This is the documentation page
