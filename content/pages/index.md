@@ -185,7 +185,7 @@ sections:
     subtitle: >-
       All our providers are [board certified/state licensed? -need correct
       wording]
-    col_number: two
+    col_number: three
     grid_items:
       - title: Bryce H. Gilman
         content: >
