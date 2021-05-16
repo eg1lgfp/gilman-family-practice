@@ -177,7 +177,8 @@ sections:
     subtitle: '1414 N. Vercler Rd. Bldg. 4 | Spokane, Washington 99216 | (509) 924-4681'
     actions:
       - label: Contact ???
-        url: 'https://www.google.com/maps/@47.6728191,-117.4821896,12z'
+        url: >-
+          https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.235621,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427
         style: primary
 seo:
   title: Stackbit Libris Theme
