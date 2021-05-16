@@ -84,19 +84,18 @@ sections:
             url: /docs
             style: link
       - title: Clinic News & Practice Updates
-        content: >+
+        content: >
           #### **Holiday Hours:**
 
 
-          *   day - day | hh:mm 
+          *   day - day | hh:mm
 
 
-          ##### **Providers** (on leave > this is a placeholder to determine
-          better as a link to another page or calendar??)
+          **Providers** (on leave > this is a placeholder to determine better as
+          a link to another page or calendar??)
 
 
           *   Calendar(s)
-
         actions:
           - label: Learn more
             url: /blog
