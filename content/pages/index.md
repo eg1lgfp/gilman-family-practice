@@ -92,21 +92,16 @@ sections:
             type: action
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Practice Updates
-        content: >
-          ##### **Contact:  (509)-924-4681**
-
-
+        content: |
           ##### **Holiday Hours:**
-
 
           *   day - day | hh:mm
 
+          **Provider Availability:**
 
-          **Providers** (on leave > this is a placeholder to determine better as
-          a link to another page or calendar??)
-
-
-          *   Calendar(s)
+          *   Bryce H. Gilman, D.O. | Available by appointment
+          *   Laurie LastName, PA-C | On-Leave until DD MMM YY
+          *   Kristina A. Stewart, PA-C | Available by appointment
         actions:
           - label: Learn more
             url: /blog
