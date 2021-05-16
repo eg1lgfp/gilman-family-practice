@@ -142,7 +142,7 @@ sections:
       - label: State / Local Guidance?
         url: /docs/getting-started
         style: secondary
-    image: images/jamstack.svg
+    image: images/diana-polekhina-1SutQMy6UVU-unsplash.jpg
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image (or with if you want?)
