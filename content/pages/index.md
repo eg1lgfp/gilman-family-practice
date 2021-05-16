@@ -114,18 +114,40 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: |
+        content: >+
           *   Diabetic Diet
+
 
           *   Allergy Info
 
-          *   Link
+
+          *   [American Academy of Family
+          Physicians](https://www.aafp.org/home.html)
+
+
+          *   CDC
+
+
+          *   Pfizer
+
+
+          *   Moderna
+
+
+          *   Johnson & Johnson
+
+
+          *   Astra-Zeneca
+
 
           *   Link
 
-          *   Link
 
           *   Link
+
+
+          *   Link
+
         actions:
           - label: Let's go
             url: /style-guide
