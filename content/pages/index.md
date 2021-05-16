@@ -82,6 +82,13 @@ sections:
           - label: Let's go to FORMS
             url: /docs
             style: link
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
       - title: Clinic News & Practice Updates
         content: >
           #### **Holiday Hours:**
