@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Gilman Family Practice
 subtitle: The style guide provides you with a blueprint of default post and page styles.
 image: images/5.jpg
 seo:
