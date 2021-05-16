@@ -84,7 +84,7 @@ sections:
           - label: Let's go to PATIENT FORMS
             url: /docs
             style: link
-          - label: Let's go PATIENT PORTAL
+          - label: Let's go to PATIENT PORTAL
             style: link
             icon_class: dev
             new_window: false
