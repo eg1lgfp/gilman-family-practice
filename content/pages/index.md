@@ -174,11 +174,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Contact us...
-    subtitle: |-
-      Whether you are a new patient or there are changes in your insurance or 
-      contact information, please complete the Patient Information form and 
-      the Medication information form as accurately as possible. Bring the 
-      forms and your insurance card on your next visit
+    subtitle: '1414 N. Vercler Rd. Bldg. 4 | Spokane, Washington 99216 | (509) 924-4681'
     actions:
       - label: Contact ???
         url: 'https://www.google.com/maps/@47.6728191,-117.4821896,12z'
