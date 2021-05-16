@@ -23,7 +23,8 @@ sections:
     grid_items:
       - title: Office Information
         content: >
-          #### **Hours:**
+          #### **Hours \[scroll down page for after hours & emergency
+          instructions]:**
 
 
           Mon - Thurs | 8am - 5pm
