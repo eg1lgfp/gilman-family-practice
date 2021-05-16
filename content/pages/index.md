@@ -141,7 +141,7 @@ sections:
       nunc bibendum consectetur lobortis.
     actions:
       - label: CDC Guidance
-        url: /docs/getting-started
+        url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
         style: primary
       - label: State / Local Guidance?
         url: /docs/getting-started
