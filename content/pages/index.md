@@ -104,7 +104,7 @@ sections:
           *   Kristina A. Stewart, PA-C | Available by appointment
         actions:
           - label: Learn more
-            url: /blog
+            url: /style-tile
             style: link
           - label: lorem-ipsum
             url: '#'
