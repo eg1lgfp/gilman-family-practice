@@ -149,7 +149,7 @@ sections:
       wording]
     col_number: three
     grid_items:
-      - title: Bryce H. Gilman
+      - title: "\U0001FA7A\_ Bryce H. Gilman"
         content: >
           ![](https://via.placeholder.com/200/09f/fff.png)
 
