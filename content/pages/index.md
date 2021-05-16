@@ -122,7 +122,7 @@ sections:
 
 
           *   [**American Academy of Family
-          Physicians**](https://www.aafp.org/home.html)\*\*\*\*
+          Physicians**](https://www.aafp.org/home.html)
 
 
           ###### **COVID Info + Resources:**
