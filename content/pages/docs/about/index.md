@@ -1,5 +1,5 @@
 ---
-title: Patient Enrollment
+title: New Patient Enrollment
 excerpt: >-
   Libris is a Unibit theme created for project documentations. You can use it
   for your project.
