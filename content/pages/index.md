@@ -103,7 +103,7 @@ sections:
           *   Laurie LastName, PA-C | On-Leave until DD MMM YY
           *   Kristina A. Stewart, PA-C | Available by appointment
         actions:
-          - label: Learn more
+          - label: Providers
             url: /style-guide
             style: link
           - label: lorem-ipsum
