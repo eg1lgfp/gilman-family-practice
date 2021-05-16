@@ -46,7 +46,7 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
@@ -58,7 +58,7 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
@@ -66,19 +66,19 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
@@ -86,29 +86,27 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. 
-
-##### **Name, Title**
-
-****![](https://via.placeholder.com/100/09f/fff.png)
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. 
-
-##### **Name, Title**
-
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Name, Title**
 
-****![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
+##### **Name, Title**
 
+![](https://via.placeholder.com/100/09f/fff.png)
+
+Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+
+##### **Name, Title**
+
+![](https://via.placeholder.com/100/09f/fff.png)
+
+Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ## Video Embeds
 
