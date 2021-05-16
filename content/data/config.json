@@ -52,7 +52,7 @@
             },
             {
                 "label": "Patient Portal",
-                "url": "#",
+                "url": "#https://myhealthrecord.com/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
