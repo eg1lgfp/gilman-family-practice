@@ -95,7 +95,7 @@ sections:
             type: action
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Updates
-        content: |
+        content: |+
           ##### **Holiday Hours:**
 
           *   day - day | hh:mm
@@ -106,33 +106,6 @@ sections:
           *   Laurie LastName, PA-C | On-Leave until DD MMM YY
           *   Kristina A. Stewart, PA-C | Available by appointment
 
-          ##### **Insurance Accepted:**
-
-          *   Asuris
-
-          *   Premera BC
-
-          *   Lifewise
-
-          *   LLHC
-
-          *   Cigna
-
-          *   Aetna
-
-          *   First Choice
-
-          *   Regence Blueshield
-
-          *   Medicare Advantage Plan
-
-          *   AARP Med Advantage
-
-          *   Aetna Medadvantage
-
-          *   Kaiser Access PPO
-
-          *   Asuris Medadvantage Plan
         actions:
           - label: News + Announcements
             url: /blog
