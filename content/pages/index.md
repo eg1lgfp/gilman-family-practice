@@ -19,8 +19,23 @@ sections:
     grid_items:
       - title: '>> Office Information'
         content: >
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. 
+          # **Hours**
+
+
+          *   **Mon - Thurs | 8am - 5pm**
+
+
+          *   **Friday | 8:30am - 5pm**
+
+
+          *   **Sat - Sun | Closed**
+
+
+          # **Location**
+
+
+          [**ICON HERE**](https://goo.gl/maps/bErNdAE7oRY64f3j8)** (erik put a
+          travel/locale icon here or a minimap that's clickable)**
         actions:
           - label: Let's go
             url: /docs
