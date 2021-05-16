@@ -11,7 +11,7 @@ sections:
       efforts on patient wellness, continuous improvement of our services and
       growth to meet the changing needs of our community.
     actions:
-      - label: About Us >
+      - label: About Us + Provider Info
         url: /docs
         style: primary
   - section_id: features
