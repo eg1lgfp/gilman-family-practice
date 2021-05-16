@@ -23,11 +23,11 @@ layout: docs
 ---
 This page is where you can find and download all of our forms, including helpful documents and our FAQ
 
-***\*This can be the full list of forms***
+***This can be the full list of forms***
 
-***\*\*Remember in all of these "containers"/section boxes we can add photos, illustrations (graphics which I can create or get via shared libraries I have access to)***
+***Remember in all of these "containers"/section boxes we can add photos, illustrations (graphics which I can create or get via shared libraries I have access to)***
 
-***\*\*\*We can also embed YouTube or Vimeo videos***
+***We can also embed YouTube or Vimeo videos***
 
 *   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
 
@@ -38,4 +38,3 @@ This page is where you can find and download all of our forms, including helpful
 *   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
 
 *   [Patient Consent Form for Minor](http://drgcg.com/PrivConMinor.pdf)
-
