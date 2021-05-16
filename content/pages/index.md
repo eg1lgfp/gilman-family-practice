@@ -17,7 +17,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: '>> Office Information'
+      - title: Office Information
         content: >
           #### **Hours**
 
