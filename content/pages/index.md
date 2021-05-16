@@ -237,17 +237,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Feel free to\_leave a message and we will return your call ASAP.\_ \n\nCalls received after\_4:30 will not be returned until the next business day.\_\_\n\nIf you are calling after business hours and you need an on-call physician for an emergency, you will be instructed\_to call\_509-622-9378.\_ \n\nIf you need a refill, contact your pharmacy to fax the request to our office. \_Please contact our office for\_our fax number.\_\n\nIn order for us to prioritize calls, we ask patients to let the receptionist know the nature of your problem or questions. Genuine emergencies are our first priority. Urgent calls are handled as soon as possible, and non-emergency calls are returned as time permits throughout the day and after office hours. Please give telephone numbers with area code where you can be reached during both business and evening hours.\n"
     actions: []
     type: section_content
   - section_id: cta
