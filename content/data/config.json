@@ -1,7 +1,7 @@
 {
     "title": "Stackbit Libris Theme",
     "path_prefix": "/",
-    "palette": "violet",
+    "palette": "green",
     "header": {
         "title": "Libris",
         "logo_img": "images/logo.svg",
