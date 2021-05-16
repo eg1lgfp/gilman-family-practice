@@ -22,13 +22,13 @@ sections:
           #### **Hours**
 
 
-          *   Mon - Thurs | 8am - 5pm
+          ###### **Mon - Thurs | 8am - 5pm**
 
 
-          *   Friday | 8:30am - 5pm
+          ###### **Friday | 8:30am - 5pm**
 
 
-          *   Sat - Sun | Closed
+          ###### **Sat - Sun | Closed**
 
 
           #### **Location**
