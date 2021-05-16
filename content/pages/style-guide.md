@@ -1,6 +1,6 @@
 ---
 title: Gilman Family Practice
-subtitle: The style guide provides you with a blueprint of default post and page styles.
+subtitle: 'Welcome to the family! Please take a moment to get to know us better :)'
 image: images/5.jpg
 seo:
   title: Theme Style Guide
