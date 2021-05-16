@@ -201,10 +201,9 @@ sections:
             url: /overview
             style: link
       - title: Kristina A. Stewart
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |+
+          ![](https://via.placeholder.com/200/09f/fff.png)
+
         actions:
           - label: Learn More
             url: /showcase
