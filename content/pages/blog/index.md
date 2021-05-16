@@ -1,6 +1,8 @@
 ---
 title: 'Medical News, Info & Insights'
-subtitle: This is an optional subtitle for the blog page
+subtitle: >-
+  Come to this page periodically to stay informed on local, state & national
+  medical news, including: insightful articles, journals & videos
 image: images/5.jpg
 has_more_link: true
 more_link_text: Read more
