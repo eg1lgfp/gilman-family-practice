@@ -242,6 +242,23 @@ sections:
         url: >-
           https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.235621,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427
         style: primary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
