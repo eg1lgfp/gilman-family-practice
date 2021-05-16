@@ -80,7 +80,7 @@ sections:
 
           *   Asuris Medadvantage Plan
         actions:
-          - label: Let's go
+          - label: Let's go to FORMS
             url: /docs
             style: link
       - title: Clinic News & Practice Updates
