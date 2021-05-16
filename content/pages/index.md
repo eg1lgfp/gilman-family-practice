@@ -107,7 +107,7 @@ sections:
             url: /style-guide
             style: link
           - label: News + Announcements
-            url: '#'
+            url: /blog
             style: link
             icon_class: dev
             new_window: false
