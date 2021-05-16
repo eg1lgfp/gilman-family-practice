@@ -83,7 +83,6 @@ sections:
             url: /docs
             style: link
           - label: Let's go PATIENT PORTAL
-            url: '#'
             style: link
             icon_class: dev
             new_window: false
