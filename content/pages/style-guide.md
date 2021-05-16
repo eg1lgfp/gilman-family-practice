@@ -36,19 +36,11 @@ layout: page
 ---
 \<hr>
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+##### **A short history of the clinic** **& Gilman family **(background summary/early years/getting established/father-son DOs/family info... 
 
-## Unordered Lists
+Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
 
-*   Donec non tortor in arcu mollis feugiat
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-*   Donec id eros eget quam aliquam gravida
-
-## Ordered Lists
-
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
+Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
 
 ## Video Embeds
 
