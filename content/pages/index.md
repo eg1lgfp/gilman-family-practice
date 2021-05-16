@@ -114,40 +114,45 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: >+
-          *   Diabetic Diet
+        content: >
+          *   **Diabetic Diet**
 
 
-          *   Allergy Info
+          *   **Allergy Info**
 
 
-          *   [American Academy of Family
-          Physicians](https://www.aafp.org/home.html)
+          *   [**American Academy of Family
+          Physicians**](https://www.aafp.org/home.html)****
 
 
-          *   CDC
+          ##### **COVID Info + Resources:**
 
 
-          *   Pfizer
+          *   [**CDC's Covid 19
+          Home**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
 
-          *   Moderna
+          *   [**Pfizer's Covid 19
+          Hub**](https://www.pfizer.com/science/coronavirus)
 
 
-          *   Johnson & Johnson
+          *   [**Moderna's
+          Covid...**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
 
-          *   Astra-Zeneca
+          *   [**Johnson & Johnson**](https://www.jnj.com/covid-19)
 
 
-          *   Link
+          *   [**Astra-Zeneca**](https://www.astrazeneca.com/covid-19.html)
 
 
-          *   Link
+          *   **Link**
 
 
-          *   Link
+          *   **Link**
 
+
+          *   **Link**
         actions:
           - label: Let's go
             url: /style-guide
