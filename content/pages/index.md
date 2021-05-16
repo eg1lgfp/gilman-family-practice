@@ -82,7 +82,7 @@ sections:
           - label: Let's go to FORMS
             url: /docs
             style: link
-          - label: lorem-ipsum
+          - label: Let's go PATIENT PORTAL
             url: '#'
             style: link
             icon_class: dev
