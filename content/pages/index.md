@@ -83,7 +83,7 @@ sections:
           - label: Let's go
             url: /docs
             style: link
-      - title: Health News + Awareness
+      - title: Clinic News & Practice Updates
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
