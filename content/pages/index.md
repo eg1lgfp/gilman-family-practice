@@ -129,7 +129,7 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: A Section With An Image
+    title: COVID Vaccine Information
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
