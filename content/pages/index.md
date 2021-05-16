@@ -182,7 +182,9 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Meet our providers!
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      All our providers are [board certified/state licensed? -need correct
+      wording]
     col_number: two
     grid_items:
       - title: Overview
