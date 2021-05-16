@@ -139,7 +139,7 @@ sections:
       - label: CDC Guidance
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: State / Local Guidance?
         url: /docs/getting-started
         style: secondary
     image: images/jamstack.svg
