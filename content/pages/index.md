@@ -172,9 +172,11 @@ sections:
   - section_id: cta
     type: section_cta
     title: Contact us...
-    subtitle: >-
-      This is an optional text space for the contact or ?? button link to the
-      right >>>>
+    subtitle: |-
+      Whether you are a new patient or there are changes in your insurance or 
+      contact information, please complete the Patient Information form and 
+      the Medication information form as accurately as possible. Bring the 
+      forms and your insurance card on your next visit
     actions:
       - label: Contact ???
         url: 'https://www.google.com/maps/@47.6728191,-117.4821896,12z'
