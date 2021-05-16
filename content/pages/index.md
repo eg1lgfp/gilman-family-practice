@@ -103,9 +103,6 @@ sections:
           *   Laurie LastName, PA-C | On-Leave until DD MMM YY
           *   Kristina A. Stewart, PA-C | Available by appointment
         actions:
-          - label: Providers
-            url: /style-guide
-            style: link
           - label: News + Announcements
             url: /blog
             style: link
@@ -113,6 +110,9 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: Providers
+            url: /style-guide
+            style: link
       - title: Patient Education
         content: |
           *   Diabetic Diet
