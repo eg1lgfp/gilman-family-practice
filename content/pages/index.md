@@ -162,7 +162,7 @@ sections:
           - label: Learn More
             url: /overview
             style: link
-      - title: "\U0001FA7A\_ Kristina A. Stewart"
+      - title: "Kristina A. Stewart \U0001FA7A"
         content: >
           ![](https://via.placeholder.com/200/09f/fff.png)
 
