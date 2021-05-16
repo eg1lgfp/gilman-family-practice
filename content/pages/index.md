@@ -91,7 +91,7 @@ sections:
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Practice Updates
         content: >
-          ### **Contact:    (509)-924-4681**
+          #### **Contact:    (509)-924-4681**
 
 
           #### **Holiday Hours:**
