@@ -36,8 +36,6 @@ layout: page
 ---
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
-
-
 ## Unordered Lists
 
 *   Donec non tortor in arcu mollis feugiat
@@ -89,4 +87,4 @@ layout: page
 
 <div class="note"><strong>Note:</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.</div>
 
-<div class="important"><strong>Important:</strong> In this article, try entering the example code lines into your JavaScript console to see what happens. For more details on JavaScript consoles, see Discover browser developer tools.</div>
+<div class="important"><strong>Important:</strong> We can use this code snippet for adding emphasis or visual variation of your written content on this website.</div>
