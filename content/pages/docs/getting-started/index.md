@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Title
 excerpt: In this section you'll find basic information about Libris and how to use it.
 seo:
   title: Getting Started
