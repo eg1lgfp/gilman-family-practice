@@ -144,7 +144,7 @@ sections:
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
         style: primary
       - label: State / Local Guidance?
-        url: /docs/getting-started
+        url: 'https://coronavirus.wa.gov/'
         style: secondary
     image: images/diana-polekhina-1SutQMy6UVU-unsplash.jpg
   - section_id: features-two-col
