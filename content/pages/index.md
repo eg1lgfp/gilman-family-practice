@@ -175,7 +175,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-      - title: Laurie
+      - title: "\U0001FA7A\_ Laurie"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
