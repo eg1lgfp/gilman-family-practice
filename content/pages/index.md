@@ -91,6 +91,9 @@ sections:
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Practice Updates
         content: >
+          #### **Contact: 509.**
+
+
           #### **Holiday Hours:**
 
 
