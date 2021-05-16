@@ -34,9 +34,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-## **Title ***(A short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info...)*
+## \*\*Title \*\**(A short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info...)*
 
-**
+
 
 **Intro & summary text here.**.. Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
 
@@ -98,8 +98,6 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ```javascript
 ```
-
-
 
 <div class="note"><strong>Note:</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.</div>
 
