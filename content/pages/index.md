@@ -225,7 +225,7 @@ sections:
           euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
           varius.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             icon_class: dev
