@@ -165,7 +165,7 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: COVID Vaccine Information
+    title: "COVID Vaccine Information \U0001F637"
     content: >
       ***Blurb about whether people should get it, safety concerns, etc,
       etc,.... ***Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh,
