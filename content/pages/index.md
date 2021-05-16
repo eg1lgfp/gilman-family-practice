@@ -110,10 +110,18 @@ sections:
             url: /blog
             style: link
       - title: Patient Education
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          *   Diabetic Diet
+
+          *   Allergy Info
+
+          *   Link
+
+          *   Link
+
+          *   Link
+
+          *   Link
         actions:
           - label: Let's go
             url: /style-guide
