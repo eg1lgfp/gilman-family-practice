@@ -18,8 +18,8 @@ sections:
     col_number: three
     grid_items:
       - title: '>> Office Information'
-        content: >
-          # **Hours**
+        content: >+
+          #### **Hours**
 
 
           *   **Mon - Thurs | 8am - 5pm**
@@ -31,12 +31,55 @@ sections:
           *   **Sat - Sun | Closed**
 
 
-          # **Location**
+          #### **Location**
 
 
           [**ICON
           HERE**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.235621,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en)\*\*
           (erik put a travel/locale icon here or a minimap that's clickable)\*\*
+
+
+          #### **Insurance**
+
+
+          *   Asuris
+
+
+          *   Premera BC
+
+
+          *   Lifewise
+
+
+          *   LLHC
+
+
+          *   Cigna
+
+
+          *   Aetna
+
+
+          *   First Choice
+
+
+          *   Regence Blueshield
+
+
+          *   Medicare Advantage Plan
+
+
+          *   AARP Med Advantage
+
+
+          *   Aetna Medadvantage
+
+
+          *   Kaiser Access PPO
+
+
+          *   Asuris Medadvantage Plan
+
         actions:
           - label: Let's go
             url: /docs
