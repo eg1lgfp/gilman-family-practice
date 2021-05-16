@@ -24,8 +24,5 @@ seo:
       value: This is the about page
 layout: docs
 ---
-Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit. 
+Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
 
-***
-
-Here are the articles in this section:
