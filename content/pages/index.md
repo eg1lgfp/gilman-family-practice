@@ -5,9 +5,11 @@ sections:
     type: section_hero
     title: Welcome to Gilman Family Practice
     content: >
-      Short introduction to where the visitor / patient has "landed' as this is
-      your new "landing site" / home / main page. This will set the tone, feel
-      and intent/goal of the page as well.
+      Our goal is to deliver caring and comprehensive care in an atmosphere of
+      respect between the patient and our staff. We are a dedicated team
+      committed to high quality and cost effective health care by focusing our
+      efforts on patient wellness, continuous improvement of our services and
+      growth to meet the changing needs of our community.
     actions:
       - label: About Us >
         url: /docs
