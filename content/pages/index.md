@@ -144,6 +144,7 @@ sections:
         url: 'https://coronavirus.wa.gov/'
         style: secondary
     image: images/diana-polekhina-1SutQMy6UVU-unsplash.jpg
+    image_alt: 'Photo by Clayton on Unsplash '
   - section_id: features-two-col
     type: section_grid
     title: Meet our providers!
