@@ -165,7 +165,7 @@ sections:
           - label: Learn More
             url: /overview
             style: link
-      - title: "Kristina A. Stewart \U0001FA7A"
+      - title: "Kristina A. Stewart, PA-C \U0001FA7A"
         content: >
           ![](https://via.placeholder.com/200/09f/fff.png)
 
