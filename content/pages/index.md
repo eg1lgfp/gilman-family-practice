@@ -178,7 +178,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-      - title: "Laurie _ ________\_ \U0001FA7A"
+      - title: "Laurie _ _______, PA-C\_ \U0001FA7A"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
