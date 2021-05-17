@@ -1,11 +1,11 @@
 {
-    "title": "Stackbit Libris Theme",
+    "title": "Gilman Family Practice",
     "path_prefix": "/",
     "palette": "blue",
     "header": {
         "title": "Libris",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Libris logo",
+        "logo_img_alt": "Gilman Family Practice Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -106,5 +106,6 @@
             }
         ]
     },
-    "domain": "https://amazing-apple-57461.netlify.app"
+    "domain": "https://amazing-apple-57461.netlify.app",
+    "favicon": "images/MedClinic_GenericIcon.svg"
 }
