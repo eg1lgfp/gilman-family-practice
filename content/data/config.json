@@ -106,5 +106,6 @@
             }
         ]
     },
-    "domain": "https://amazing-apple-57461.netlify.app"
+    "domain": "https://amazing-apple-57461.netlify.app",
+    "favicon": "images/MedClinic_GenericIcon.svg"
 }
