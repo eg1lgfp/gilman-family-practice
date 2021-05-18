@@ -72,7 +72,10 @@ sections:
           **Provider Availability:**
 
           *   Bryce H. Gilman, D.O. | Available by appointment
-          *   Laurie Dimler, NP | On-Leave until DD MMM YY
+          *   Laurie Dimler, NP | On-Leave until \[date]
+
+
+
           *   Kristina A. Stewart, PA-C | Available by appointment
 
           #### Announcements & Updates:
