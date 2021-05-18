@@ -143,7 +143,7 @@ sections:
       - label: WA State Covid Guidance
         url: 'https://coronavirus.wa.gov/'
         style: secondary
-    image: images/diana-polekhina-1SutQMy6UVU-unsplash.jpg
+    image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
   - title: "\U0001F915 Services \U0001FA79 \U0001F912"
     section_id: lorem-ipsum
