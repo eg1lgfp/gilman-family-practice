@@ -145,7 +145,7 @@ sections:
         style: secondary
     image: images/diana-polekhina-1SutQMy6UVU-unsplash.jpg
     image_alt: 'Photo by Clayton on Unsplash '
-  - title: "Services \U0001FA79\U0001F912"
+  - title: "\U0001F915 Services \U0001FA79 \U0001F912"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
