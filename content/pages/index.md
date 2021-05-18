@@ -155,9 +155,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Meet our providers!
-    subtitle: >-
-      All our providers are [board certified/state licensed? -need correct
-      wording]
+    subtitle: \
     col_number: three
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
