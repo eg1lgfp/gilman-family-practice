@@ -154,7 +154,7 @@ sections:
     type: section_content
   - section_id: features-two-col
     type: section_grid
-    title: "\U0001FA7A\_\_\_\_\_ Meet our providers!"
+    title: "\U0001FA7A\_ Meet our providers!"
     col_number: three
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
