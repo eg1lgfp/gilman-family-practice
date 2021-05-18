@@ -212,7 +212,7 @@ sections:
     type: section_content
   - section_id: cta
     type: section_cta
-    title: 'Contact:'
+    title: "Contact  \U0001F3E5:"
     subtitle: '1414 N. Vercler Rd. Bldg. 4 | Spokane, Washington 99216 | (509) 924-4681'
     actions:
       - label: 'Map Directions '
