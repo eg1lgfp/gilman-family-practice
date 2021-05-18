@@ -149,17 +149,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "##### **A few of the Services Provided by Gilman Family Practice:**      \n\n*   Primary Family Care\n\n*   Well- Child Care\n\n*   Women\x92s Health\n\n*   Sick Care\n\n*   Growth Removal\n\n*   Complete Physicals\n\n*   DOT Physicals\n\n*   Sports Physicals\n\n*   EKGs\n\n*   Vaccines\n\n*   Manipulations (OMT)\n\n*   General Health Issues\n\n*   Referrals\n\n*   Pediatric Care\n\n*   Pregnancy Test\n\n*   Health Education\n\n*   Diet Consultation\n\n*   Surgical Procedures ( ex: circumcisions, biopsies)\n\n*   Diagnosis & Treatment of Acute and Chronic Illness\n\n*   [Immunizations](http://www.cdc.gov/vaccines/recs/schedules)\n"
     actions: []
     type: section_content
   - section_id: features-two-col
