@@ -149,7 +149,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "**A snapshot of the Services Provided by Gilman Family Practice:**\n\nPrimary Family Care | Well- Child Care | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs |  Vaccines | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Pregnancy Test | Health Education | Diet Consultation | Surgical Procedures ( ex: circumcisions, biopsies) | Diagnosis & Treatment of Acute and Chronic Illness[ | Immunizations](http://www.cdc.gov/vaccines/recs/schedules)\n"
+    content: "**A snapshot of the Services Provided by Gilman Family Practice:**\n\nPrimary Family Care | Well- Child Care | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs |  Vaccines | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Pregnancy Test | Health Education | Diet Consultation | Surgical Procedures ( ex: circumcisions, biopsies) | Diagnosis & Treatment of Acute and Chronic Illness[ | Immunizations ](http://www.cdc.gov/vaccines/recs/schedules)and more.....\n"
     actions: []
     type: section_content
   - section_id: features-two-col
