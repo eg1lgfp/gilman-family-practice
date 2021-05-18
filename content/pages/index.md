@@ -186,7 +186,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-      - title: "Laurie __ Dimler, NP\_ \U0001FA7A"
+      - title: "Laurie Dimler, NP\_ \U0001FA7A"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
