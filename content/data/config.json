@@ -4,7 +4,7 @@
     "palette": "blue",
     "header": {
         "title": "Libris",
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/blue-anemone.svg",
         "logo_img_alt": "Gilman Family Practice Logo",
         "has_nav": true,
         "nav_links": [
@@ -107,5 +107,5 @@
         ]
     },
     "domain": "https://amazing-apple-57461.netlify.app",
-    "favicon": "images/MedClinic_GenericIcon.svg"
+    "favicon": "images/Asset 1GilmanFP_Logo_IterationR1 2.svg"
 }
