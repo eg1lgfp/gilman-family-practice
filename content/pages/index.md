@@ -49,43 +49,9 @@ sections:
           #### **Insurance Accepted:**
 
 
-          *   Asuris
-
-
-          *   Premera BC
-
-
-          *   Lifewise
-
-
-          *   LLHC
-
-
-          *   Cigna
-
-
-          *   Aetna
-
-
-          *   First Choice
-
-
-          *   Regence Blueshield
-
-
-          *   Medicare Advantage Plan
-
-
-          *   AARP Med Advantage
-
-
-          *   Aetna Medadvantage
-
-
-          *   Kaiser Access PPO
-
-
-          *   Asuris Medadvantage Plan
+          Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice |
+          Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage |
+          Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
         actions:
           - label: Let's go to PATIENT FORMS
             url: /docs
