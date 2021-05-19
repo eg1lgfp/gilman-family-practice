@@ -65,9 +65,7 @@ sections:
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Updates
         content: |
-          #### Holiday Hours: ![](undefined)
-
-          *   day - day | hh:mm
+          #### **Holiday Hours:**
 
           **Provider Availability:**
 
