@@ -65,16 +65,15 @@ sections:
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Updates
         content: |
-          #### Holiday Hours:
+          #### Holiday Hours: ![](undefined)
 
           *   day - day | hh:mm
 
           **Provider Availability:**
 
           *   Bryce H. Gilman, D.O. | Available by appointment
+
           *   Laurie Dimler, NP | On-Leave until \[date]
-
-
 
           *   Kristina A. Stewart, PA-C | Available by appointment
 
