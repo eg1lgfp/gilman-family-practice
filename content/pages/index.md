@@ -23,7 +23,7 @@ sections:
     grid_items:
       - title: Office Information
         content: >
-          #### **\*Hours:**
+          ##### **\*Hours:**
 
 
           Mon - Thurs | 8am - 5pm
@@ -38,7 +38,7 @@ sections:
           **\*Scroll down ⬇️ page for after hours & emergency instructions**
 
 
-          #### **Location:**
+          ##### **Location:**
 
 
           [**ICON
@@ -46,7 +46,7 @@ sections:
           (erik put a travel/locale icon here or a minimap that's clickable)\*\*
 
 
-          #### **Insurance Accepted:**
+          ##### **Insurance Accepted:**
 
 
           Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice |
