@@ -4,7 +4,6 @@
     "palette": "blue",
     "header": {
         "title": "Libris",
-        "logo_img": "images/logo.svg",
         "logo_img_alt": "GFP Logo will be here!",
         "has_nav": true,
         "nav_links": [
