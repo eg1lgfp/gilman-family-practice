@@ -65,7 +65,7 @@ sections:
             url: 'https://myhealthrecord.com/'
       - title: Clinic News & Updates
         content: |
-          #### **Holiday Hours:**
+          ##### **Holiday Hours:**
 
           **Provider Availability:**
 
@@ -75,7 +75,7 @@ sections:
 
           *   Kristina A. Stewart, PA-C | Available by appointment
 
-          #### Announcements & Updates:
+          ##### **Announcements & Updates:**
         actions:
           - label: News + Announcements
             url: /blog
