@@ -3,8 +3,8 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Libris",
-        "logo_img_alt": "GFP Logo",
+        "title": "Gilman Family Practice",
+        "logo_img_alt": "GFP Logo + Wordmark",
         "has_nav": true,
         "nav_links": [
             {
@@ -107,5 +107,5 @@
         ]
     },
     "domain": "https://amazing-apple-57461.netlify.app",
-    "favicon": "images/Asset 1GilmanFP_Logo_IterationR1 2.svg"
+    "favicon": "images/Asset 7GilmanFP Favicon.png"
 }
