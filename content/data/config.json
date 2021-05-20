@@ -77,7 +77,7 @@
                 ]
             }
         ],
-        "logo_img": "images/Asset 6GilmanFP Logo+WordMark V3.svg"
+        "logo_img": "images/remarkable-cabbage.svg"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=libris&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
