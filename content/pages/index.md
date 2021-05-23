@@ -111,7 +111,7 @@ sections:
         style: secondary
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
-  - title: "\U0001F915\_\_\_ Our Services\_ \_ \U0001F912"
+  - title: Our Services
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
