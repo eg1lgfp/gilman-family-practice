@@ -22,36 +22,7 @@ sections:
     col_number: three
     grid_items:
       - title: Office Information
-        content: >
-          ##### **\*Hours:**
-
-
-          Mon - Thurs | 8am - 5pm
-
-
-          Friday | 8:30am - 5pm
-
-
-          Sat - Sun | Closed
-
-
-          **\*Scroll down ⬇️ page for after hours & emergency instructions**
-
-
-          ##### **Location:**
-
-
-          [**ICON
-          HERE**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.235621,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en)\*\*
-          (erik put a travel/locale icon here or a minimap that's clickable)\*\*
-
-
-          ##### **Insurance Accepted:**
-
-
-          Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice |
-          Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage |
-          Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
+        content: "##### **\\*Hours:**\n\nMon - Thurs | 8am - 5pm\n\nFriday | 8:30am - 5pm\n\n*Sat - Sun | Closed*\n\n***Scroll down ⬇️ page for Routine/After Hour Call & Emergency > Please follow instructions!***\n\n##### **Location:**\n\n\U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n\n##### **Insurance Accepted:**\n\nAsuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan\n\n*⚠️ Important note on insurance: before scheduling an appointment, it is the patients’ responsibility\nto verify that we are in-network with their particular insurance plan.\_Please verify this before making your first appointment, thank you!*\n"
         actions:
           - label: Let's go to PATIENT FORMS
             url: /docs
@@ -96,7 +67,7 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: COVID Vaccine Information
+    title: "\U0001F489 COVID Vaccine Information \U0001F637"
     content: >
       ***Blurb about whether people should get it, safety concerns, etc,
       etc,.... ***Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh,
@@ -125,7 +96,7 @@ sections:
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
         content: >
-          ![](https://via.placeholder.com/200/09f/fff.png)
+          ![](/\_static/app-assets/DrGilman_forGFP-WebsiteProfile_byESS\_200x200px.png)
 
 
           **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
@@ -173,7 +144,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "#### FOR ROUTINE CALLS\n\nFeel free to\_leave a message and we will return your call ASAP.\_\n\nCalls received after\_4:30 will not be returned until the next business day.\_\_\n\n**If you are calling after business hours and you need an on-call physician for an emergency, you will be instructed\_to call\_509-622-9378.**\n\n**If you need a refill, contact your pharmacy to fax the request to our office.** \_Please contact our office for\_our fax number.\_\n\nIn order for us to prioritize calls, we ask patients to let the receptionist know the nature of your problem or questions. Genuine emergencies are our first priority. Urgent calls are handled as soon as possible, and non-emergency calls are returned as time permits throughout the day and after office hours. Please give telephone numbers with area code where you can be reached during both business and evening hours.\n\n#### \U0001F6A8    FOR EMERGENCIES    \U0001F6A8\n\nIn the event of a life threatening medical emergency, call medical emergency services at 911 immediately, **DO NOT WAIT!** Inform the emergency room staff that you are a patient of Bryce H. Gilman, D.O., Kristina A. Stewart, PA-C, or Lauri Dimler, NP and they will contact us.\n"
+    content: "### \U0001F914  FOR ROUTINE CALLS  \U0001F912\n\nFeel free to\_leave a message and we will return your call ASAP.\_\n\nCalls received after\_4:30 will not be returned until the next business day.\_\_\n\n**If you are calling after business hours and you need an on-call physician for an emergency, you will be instructed\_to call\_509-622-9378.**\n\n**If you need a refill, contact your pharmacy to fax the request to our office.** \_Please contact our office for\_our fax number.\_\n\nIn order for us to prioritize calls, we ask patients to let the receptionist know the nature of your problem or questions. Genuine emergencies are our first priority. Urgent calls are handled as soon as possible, and non-emergency calls are returned as time permits throughout the day and after office hours. Please give telephone numbers with area code where you can be reached during both business and evening hours.\n\n### \U0001F691  \U0001F6A8    **FOR EMERGENCIES**    \U0001F6A8  \U0001F691\n\nIn the event of a life threatening medical emergency, call medical emergency services at 911 immediately **DO NOT WAIT!** Inform the emergency room staff that you are a patient of Bryce H. Gilman, D.O., Kristina A. Stewart, PA-C, or Lauri Dimler, NP and they will contact us.\n"
     actions: []
     type: section_content
   - section_id: cta

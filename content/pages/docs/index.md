@@ -1,7 +1,7 @@
 ---
 title: >-
-  This is your one-stop-shop for our patient information forms, consent & other
-  helpful forms & resources
+  This is your one-stop-shop for our patient information forms, consent + other
+  helpful forms and resources
 seo:
   title: Welcome to Libris
   description: This is the documentation page
@@ -23,17 +23,18 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-##### This page is where you can find and download all of our forms, including helpful documents and our FAQ
+##### **This page is where you can find and download all of our forms, including helpful documents and our FAQ**
 
-###### Attention: Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
+**Attention: **Whether you are a new patient or there are changes in your insurance or contact information, please complete:
 
-\*\*\*Note to Emily/Linda: \**This can be the full list of forms*
+*   Patient Information form and the Medication information form as accurately as possible.
 
-*Remember in all of these "containers"/section boxes we can add photos, illustrations (graphics which I can create or get via shared libraries I have access to)*
+*   Bring the forms and your insurance card on your next visit.
 
-*We can also embed YouTube or Vimeo videos*
+*⚠️ **Important note on insurance: **before scheduling an appointment, it is the patients’ responsibility
+to verify that we are in-network with their particular insurance plan. Please verify this before making your first appointment, thank you!*
 
-#### Most frequently used forms here:
+#### **Most frequently used forms here (Linda sending me the most current forms to replace these old ones):**
 
 *   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
 *   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
