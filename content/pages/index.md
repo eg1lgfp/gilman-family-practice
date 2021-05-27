@@ -22,35 +22,7 @@ sections:
     col_number: three
     grid_items:
       - title: Office Information
-        content: >
-          ##### **\*Hours:**
-
-
-          Mon - Thurs | 8am - 5pm
-
-
-          Friday | 8:30am - 5pm
-
-
-          *Sat - Sun | Closed*
-
-
-          ***\*Scroll down ⬇️ page for Routine/After Hour Call & Emergency >
-          Please follow instructions!***
-
-
-          ##### **Location:**
-
-
-          ****
-
-
-          ##### **Insurance Accepted:**
-
-
-          Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice |
-          Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage |
-          Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
+        content: "##### **\\*Hours:**\n\nMon - Thurs | 8am - 5pm\n\nFriday | 8:30am - 5pm\n\n*Sat - Sun | Closed*\n\n***\\*Scroll down ⬇️ page for Routine/After Hour Call & Emergency > Please follow instructions!***\n\n##### **Location:**\n\n\U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n\n##### **Insurance Accepted:**\n\nAsuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan\n"
         actions:
           - label: Let's go to PATIENT FORMS
             url: /docs
