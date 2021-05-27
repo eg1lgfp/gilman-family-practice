@@ -34,9 +34,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# Title \[ e.g., Origins & History of the Clinic ]
+# **Some information about the clinic & our provider family**
 
-###### **(A short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info you wish to share...)**
+###### (Can include a short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info you wish to share... >>> although, this is totally optional, it could be interesting & more "inclusive" of your patients)
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
@@ -46,12 +46,12 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ##### **What is a D.O.? (this can go here or a linked page from the "services" listed section of the Home Page)**
 
-Doctors of Osteopathy are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.  
+Doctors of Osteopathy are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
 
 Doctors of Osteopathy, or Osteopathic Physicians, perform surgery, deliver babies, treat patients and prescribe medicine in hospitals and offices across the country, and in all branches of the Armed Services.
 
 Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
- 
+
 An Osteopathic Physician is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
 
 ## **Our Provider Family**
