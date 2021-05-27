@@ -44,7 +44,7 @@ layout: page
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
-##### **What is a D.O.? (this can go here or a linked page from the "services" listed section of the Home Page)**
+##### **What is a D.O.? (All of this is copy/pasted from www.drgcg.com. This can go here or a linked page from the "services" listed section of the Home Page)**
 
 Doctors of Osteopathy are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
 
