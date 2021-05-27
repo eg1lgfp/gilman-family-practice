@@ -29,7 +29,7 @@
                 "label": "TEMP-Addl Services",
                 "url": "#",
                 "style": "link",
-                "has_subnav": true,
+                "has_subnav": false,
                 "subnav_links": [
                     {
                         "label": "Overview",
