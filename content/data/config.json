@@ -35,11 +35,6 @@
                         "label": "Overview",
                         "url": "/overview",
                         "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
                     }
                 ]
             },
