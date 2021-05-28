@@ -64,4 +64,4 @@ your body.
 
 Like DOs, naturopathic practitioners are trained, but the type of training varies. Naturopathic doctors complete a 4-year graduate-level program at a naturopathic medical school. Naturopaths aren’t licensed and take training programs that aren’t certified by the U.S. Department of Education.  
 
-DOs focus on hands-on diagnosis and treatment along with prescription medicine, surgery, and technology. A naturopathic practitioner’s goal is to heal you through natural substances like food, herbs, and water, plus lifestyle changes such as exercise and lowering your stress.
+###### >>> For more on this article visit:: https://www.webmd.com/pain-management/osteopathic-medicine
