@@ -102,10 +102,9 @@ sections:
             url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
-        content: |
+        content: |+
           ![](https://via.placeholder.com/200/09f/fff.png)
 
-          **Short ? here..**. 
         actions:
           - label: Learn More
             url: /style-guide
