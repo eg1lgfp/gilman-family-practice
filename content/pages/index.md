@@ -34,6 +34,13 @@ sections:
             no_follow: false
             type: action
             url: 'https://myhealthrecord.com/'
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
       - title: Clinic News & Updates
         content: |
           ##### **Holiday Hours:**
