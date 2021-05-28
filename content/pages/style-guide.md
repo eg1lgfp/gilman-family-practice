@@ -70,7 +70,7 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 [**Doctors of Osteopathy**](https://osteopathic.org/what-is-osteopathic-medicine/what-is-a-do/) are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
 
-**Doctors of Osteopathy, or **[**Osteopathic Physicians**](https://www.verywellhealth.com/do-doctors-vs-md-doctors-whats-the-difference-3157310)**,** perform surgery, deliver babies, treat patients and prescribe medicine in hospitals and offices across the country, and in all branches of the Armed Services.
+**Doctors of Osteopathy, or **[**Osteopathic Physicians**](https://www.verywellhealth.com/do-doctors-vs-md-doctors-whats-the-difference-3157310), perform surgery, deliver babies, treat patients and prescribe medicine in hospitals and offices across the country, and in all branches of the Armed Services.
 
 Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
 
