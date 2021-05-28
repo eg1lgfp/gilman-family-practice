@@ -28,7 +28,7 @@ sections:
             url: /docs
             style: link
           - label: Let's go to PATIENT PORTAL
-            style: link
+            style: primary
             icon_class: dev
             new_window: false
             no_follow: false
