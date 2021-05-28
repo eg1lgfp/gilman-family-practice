@@ -44,7 +44,7 @@ layout: page
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://www.dropbox.com/s/lvxbd3bicmmbnze/DrGilman_forGFP-WebsiteProfile_byESS\_100x100.png?dl=1)
+![](https://www.dropbox.com/s/fv2crvyy8rzycv1/DrGilman_Portrait_forGFP-WebsiteProfile_ESS\_100x100.png?dl=1)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
