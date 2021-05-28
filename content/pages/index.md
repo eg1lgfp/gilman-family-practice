@@ -26,7 +26,7 @@ sections:
         actions:
           - label: Let's go to PATIENT FORMS
             url: /docs
-            style: link
+            style: primary
           - label: Let's go to PATIENT PORTAL
             style: primary
             icon_class: dev
