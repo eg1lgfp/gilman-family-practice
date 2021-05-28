@@ -86,7 +86,7 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: "\U0001F489 COVID Vaccine Information \U0001F637"
+    title: "\U0001F489 COVID-19 Information \U0001F637"
     content: >
       Short spiel about whether people should get it, safety concerns, etc,
       etc,.... Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus
