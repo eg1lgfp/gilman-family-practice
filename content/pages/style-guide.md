@@ -34,9 +34,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# **Some information about the clinic & our provider family**
+# **Some information about the clinic & providers**
 
-###### (Can include a short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info you wish to share... >>> although, this is totally optional, it could be interesting, even fun if share photos perhaps of clinic interior + staff at work, other doctors, and whatever you want or keep super minimal & short >> you can always change it later as many times as you want)
+###### \[ Can include a short history / origins of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family / fav pics around the area over the years, etc >>> although, this is totally optional, it could be interesting &  fun if share photos perhaps of clinic interior + staff at work (before & now?), and whatever you want or keep super minimal & short >> either way, you can always change it later as many times as you want ]
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
@@ -56,13 +56,13 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+**Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 ##### **Laurie Dimler, ARNP**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+**Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 ## **What is a D.O.?**
 
