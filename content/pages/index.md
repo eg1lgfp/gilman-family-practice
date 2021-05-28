@@ -111,7 +111,7 @@ sections:
         url: 'https://coronavirus.wa.gov/'
         style: secondary
       - label: Spokane Regional Health Dept
-        url: 'https//:www.srd.org'
+        url: 'https//:www.srhd.org'
         style: link
         icon_class: dev
         new_window: false
