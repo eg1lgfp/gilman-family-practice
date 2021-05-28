@@ -86,7 +86,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well- Child Care | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs |  Vaccines | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Pregnancy Test | Health Education | Diet Consultation | Surgical Procedures | Diagnosis & Treatment of Acute and Chronic Illness[ | Immunizations ](http://www.cdc.gov/vaccines/recs/schedules)and more...\n"
+    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well- Child Care | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs |  Vaccines | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Pregnancy Test | Health Education | Diet Consultation | Surgical Procedures | Diagnosis & Treatment of Acute and Chronic Illness[ ](http://www.cdc.gov/vaccines/recs/schedules)| [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm), and more...\n"
     actions: []
     type: section_content
   - section_id: features-two-col
