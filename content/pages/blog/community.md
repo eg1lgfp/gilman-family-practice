@@ -1,9 +1,12 @@
 ---
 title: What is Osteopathic Medicine?
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
+excerpt: |-
+  Osteopathic
+   medicine is based on the idea that all the body’s systems are 
+  interrelated. Osteopaths focus on treating the whole person. There are 
+  more than 114,000 DOs in the U.S. And more than 1 in 4 U.S. medical 
+  students are on the path to becoming a doctor of osteopathic medicine 
+  (DO).
 date: '2020-08-11'
 image: images/2.jpg
 seo:
