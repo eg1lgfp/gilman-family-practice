@@ -114,8 +114,6 @@ sections:
         image_alt: lorem-ipsum
         content: |
           ![](https://via.placeholder.com/200/09f/fff.png)
-
-          ****
         actions:
           - label: Learn More
             url: /style-guide
