@@ -107,7 +107,7 @@ sections:
       - label: CDC Guidance
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
         style: primary
-      - label: WA State Covid Guidance
+      - label: 'WA State '
         url: 'https://coronavirus.wa.gov/'
         style: primary
       - label: Spokane Regional Health Dept
