@@ -14,9 +14,7 @@ sections:
       - label: About Us + Provider Info
         url: /style-guide
         style: primary
-    image: >-
-      images/Canva - Washington Water Power Building and the Monroe Street
-      Bridge in Spokane_Purchased-NoRestrictions_ESS.jpg
+    image: images/Clinic_FrontView-Pathway_byWG.jpg
   - section_id: features
     type: section_grid
     col_number: three
