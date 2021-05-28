@@ -35,7 +35,7 @@ sections:
             type: action
             url: 'https://myhealthrecord.com/'
           - label: Let's go to INSURANCE INFO
-            url: '#'
+            url: /docs
             style: primary
             icon_class: dev
             new_window: false
