@@ -36,7 +36,7 @@ sections:
             url: 'https://myhealthrecord.com/'
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: primary
             icon_class: dev
             new_window: false
             no_follow: false
