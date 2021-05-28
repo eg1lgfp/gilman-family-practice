@@ -44,15 +44,7 @@ layout: page
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
-##### **What is a D.O.? (All of this is copy/pasted from www.drgcg.com. This can go here or a linked page from the "services" listed section of the Home Page)**
 
-Doctors of Osteopathy are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
-
-Doctors of Osteopathy, or Osteopathic Physicians, perform surgery, deliver babies, treat patients and prescribe medicine in hospitals and offices across the country, and in all branches of the Armed Services.
-
-Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
-
-An Osteopathic Physician is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
 
 ## **Our Provider Family**
 
@@ -74,30 +66,15 @@ An Osteopathic Physician is a physician whose training and experience qualify hi
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
-##### ***\*\*\*Everything below the Providers is optional as Linda mentioned not wishing to listed here & probably others too so we can remove these Friday, 5/29 meeting if you want\*\*\****
 
-# **Our Nurses, Medical Assistants & Staff**
 
-##### **Name, Title**
+## **What is a D.O.? (All of this is copy/pasted from www.drgcg.com. This can go here or a linked page from the "services" listed section of the Home Page)**
 
-![](https://via.placeholder.com/100/09f/fff.png)
+Doctors of Osteopathy are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
 
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+Doctors of Osteopathy, or Osteopathic Physicians, perform surgery, deliver babies, treat patients and prescribe medicine in hospitals and offices across the country, and in all branches of the Armed Services.
 
-##### **Name, Title**
+Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
 
-![](https://via.placeholder.com/100/09f/fff.png)
+An Osteopathic Physician is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
 
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
-
-##### **Name, Title**
-
-![](https://via.placeholder.com/100/09f/fff.png)
-
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
-
-##### **Name, Title**
-
-![](https://via.placeholder.com/100/09f/fff.png)
-
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
