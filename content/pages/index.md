@@ -124,7 +124,7 @@ sections:
           **Short ? here..**
         actions:
           - label: Learn More
-            url: '#'
+            url: /style-guide
             style: link
             icon_class: dev
             new_window: false
