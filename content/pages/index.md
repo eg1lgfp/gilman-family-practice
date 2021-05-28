@@ -110,6 +110,13 @@ sections:
       - label: WA State Covid Guidance
         url: 'https://coronavirus.wa.gov/'
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
   - title: "☤\_Our Services ☤"
