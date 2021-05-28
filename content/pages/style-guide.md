@@ -36,7 +36,7 @@ layout: page
 ---
 # **Some information about the clinic & providers**
 
-###### \[ Can include a short history / origins of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family / fav pics around the area over the years, etc >>> although, this is totally optional, it could be interesting &  fun if share photos perhaps of clinic interior + staff at work (before & now?), and whatever you want or keep super minimal & short >> either way, you can always change it later as many times as you want ]
+###### \[ Can include a short history / origins of the clinic, or not, your choice ]
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
