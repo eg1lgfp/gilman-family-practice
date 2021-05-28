@@ -88,9 +88,21 @@ sections:
     image_position: left
     title: "\U0001F489 COVID-19 Information \U0001F637"
     content: >
-      Short spiel about whether people should get it, safety concerns, etc,
-      etc,.... Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus
-      sit amet cursus quis, fringilla nec sapien.
+
+
+      *   [**CDC's Covid 19
+      Home**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+
+
+      *   [**Pfizer's Covid 19
+      Hub**](https://www.pfizer.com/science/coronavirus)
+
+
+      *   [**Moderna's
+      Covid...**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+
+
+      *   [**Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
       - label: CDC Guidance
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
