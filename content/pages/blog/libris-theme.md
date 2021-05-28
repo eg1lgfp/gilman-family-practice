@@ -5,7 +5,6 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
   accumsan vis phasellus adipiscing. 
 date: '2019-04-24'
-thumb_image: images/4.jpg
 image: images/3.jpg
 seo:
   title: Introducing The Libris Theme
