@@ -113,7 +113,7 @@ sections:
           **Short ? here..**. 
         actions:
           - label: Learn More
-            url: /showcase
+            url: /style-guide
             style: link
       - title: "Laurie Dimler, NP\_ \U0001FA7A"
         title_url: lorem-ipsum
