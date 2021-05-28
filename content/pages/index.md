@@ -96,7 +96,7 @@ sections:
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
         content: >
-          ****![](/\_static/app-assets/green-coriander.jpg)
+          ![](/\_static/app-assets/green-coriander.jpg)
 
 
           **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
