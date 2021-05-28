@@ -104,7 +104,7 @@ sections:
           is best (there's placeholders now for bios if used)*
         actions:
           - label: Learn More
-            url: /overview
+            url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
         content: |
