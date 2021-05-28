@@ -118,14 +118,10 @@ sections:
       - title: "Laurie Dimler, NP\_ \U0001FA7A"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
+        content: |
           ![](https://via.placeholder.com/200/09f/fff.png)
 
-
-          **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
-          non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin
-          euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
-          varius.
+          **Short ? here..**
         actions:
           - label: Learn More
             url: '#'
