@@ -58,7 +58,7 @@ An Osteopathic Physician is a physician whose training and experience qualify hi
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://via.placeholder.com/100/09f/fff.png)
+![](/\_static/app-assets/DrGilman_forGFP-WebsiteProfile_byESS\_100x100.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
