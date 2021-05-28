@@ -107,8 +107,7 @@ sections:
       - label: CDC Guidance
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
         style: primary
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         icon_class: dev
         new_window: false
