@@ -38,6 +38,10 @@ sections:
         content: |
           ##### **Holiday Hours:**
 
+          *   HH : MM / Dates...
+
+          *   HH : MM / Dates...
+
           **Provider Availability:**
 
           *   Bryce H. Gilman, D.O. | Available by appointment
