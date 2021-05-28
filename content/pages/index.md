@@ -115,7 +115,7 @@ sections:
         content: |
           ![](https://via.placeholder.com/200/09f/fff.png)
 
-          **Short ? here..**
+          ****
         actions:
           - label: Learn More
             url: /style-guide
