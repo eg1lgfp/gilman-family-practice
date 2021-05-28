@@ -107,6 +107,13 @@ sections:
       - label: CDC Guidance
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
       - label: WA State Covid Guidance
         url: 'https://coronavirus.wa.gov/'
         style: secondary
