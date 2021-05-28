@@ -23,18 +23,13 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-##### **This page is where you can find and download all of our forms, including helpful documents and our FAQ**
+##### **Insurance Information:**
 
-**Attention: **Whether you are a new patient or there are changes in your insurance or contact information, please complete:
+Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
 
-*   Patient Information form and the Medication information form as accurately as possible.
+*⚠️ Please verify with your insurance that we are an  in-network provider with your insurance plan, thank you*
 
-*   Bring the forms and your insurance card on your next visit.
-
-*⚠️ **Important note on insurance: **before scheduling an appointment, it is the patients’ responsibility
-to verify that we are in-network with their particular insurance plan. Please verify this before making your first appointment, thank you!*
-
-#### **Most frequently used forms here (Linda sending me the most current forms to replace these old ones):**
+#### **PRACTICE FORMS:**
 
 *   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
 *   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
@@ -42,6 +37,4 @@ to verify that we are in-network with their particular insurance plan. Please v
 *   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
 *   [Patient Consent Form for Minor](http://drgcg.com/PrivConMinor.pdf)
 
-##### For more info and instructions on what we use the forms for and more:
-
-##### ⭠ *Find the applicable forms area on the list on the left* ⮐
+#####
