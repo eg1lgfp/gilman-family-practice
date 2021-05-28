@@ -69,9 +69,9 @@ sections:
     image_position: left
     title: "\U0001F489 COVID Vaccine Information \U0001F637"
     content: >
-      \*\*\*Blurb about whether people should get it, safety concerns, etc,
-      etc,.... \*\*\*Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh,
-      dapibus sit amet cursus quis, fringilla nec sapien. 
+      Short spiel about whether people should get it, safety concerns, etc,
+      etc,.... Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus
+      sit amet cursus quis, fringilla nec sapien.
     actions:
       - label: CDC Guidance
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
