@@ -109,7 +109,7 @@ sections:
         style: primary
       - label: WA State Covid Guidance
         url: 'https://coronavirus.wa.gov/'
-        style: secondary
+        style: primary
       - label: Spokane Regional Health Dept
         url: 'https//:www.srhd.org'
         style: primary
