@@ -4,12 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to Gilman Family Practice
-    content: >
-      Our goal is to deliver caring and comprehensive care in an atmosphere of
-      respect between the patient and our staff. We are a dedicated team
-      committed to high quality and cost effective health care by focusing our
-      efforts on patient wellness, continuous improvement of our services and
-      growth to meet the changing needs of our community.
     actions:
       - label: About Us + Provider Info
         url: /style-guide
