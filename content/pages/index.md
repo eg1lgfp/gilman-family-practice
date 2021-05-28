@@ -22,18 +22,25 @@ sections:
     col_number: three
     grid_items:
       - title: Office Information
-        content: "##### **Hours:**\n\n*   Mon - Thurs | 8am - 5pm\n\n*   Friday | 8:30am - 5pm\n\n*   *Sat - Sun | Closed*\n\n⚠️  ***Scroll down ⬇️ page for Routine/After Hour Call & Emergency > Please follow instructions!***\n\n##### **Location:**\n\n\U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n\n##### **Insurance Accepted:**\n\nAsuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan\n\n*⚠️ Important note on insurance: before scheduling an appointment, it is the patients’ responsibility\nto verify that we are in-network with their particular insurance plan.\_Please verify this before making your first appointment, thank you!*\n"
+        content: "##### **Hours:**\n\n*   Mon - Thurs | 8am - 5pm\n\n*   Friday | 8:30am - 5pm\n\n*   *Sat - Sun | Closed*\n\n⚠️  ***Scroll down ⬇️ page for Routine/After Hour Call & Emergency > Please follow instructions!***\n\n##### **Location:**\n\n\U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n"
         actions:
           - label: Let's go to PATIENT FORMS
             url: /docs
-            style: link
+            style: primary
           - label: Let's go to PATIENT PORTAL
-            style: link
+            style: primary
             icon_class: dev
             new_window: false
             no_follow: false
             type: action
             url: 'https://myhealthrecord.com/'
+          - label: Let's go to INSURANCE INFO
+            url: /docs
+            style: primary
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
       - title: Clinic News & Updates
         content: |
           ##### **Holiday Hours:**
@@ -63,7 +70,22 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: "*   **Diabetic Diet**\n\n*   **Allergy Info**\n\n*   [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n##### \U0001F489  **COVID Info + Resource** \U0001F637:\n\n*   [**CDC's Covid 19 Home**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)\n\n*   [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n*   [**Moderna's Covid...**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n*   [**Johnson & Johnson**](https://www.jnj.com/covid-19)\n\n*   [**Astra-Zeneca**](https://www.astrazeneca.com/covid-19.html)\n\n*   **Link**\n\n*   **Link**\n\n*   **Link**\n"
+        content: >
+          *   **Diabetic Diet**
+
+
+          *   **Allergy Info**
+
+
+          *   [**American Academy of Family
+          Physicians**](https://www.aafp.org/home.html)
+
+
+
+
+
+
+          ****
         actions:
           - label: Let's go
             url: /style-guide
@@ -71,18 +93,31 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: "\U0001F489 COVID Vaccine Information \U0001F637"
+    title: "\U0001F489 COVID-19 Information \U0001F637"
     content: >
-      Short spiel about whether people should get it, safety concerns, etc,
-      etc,.... Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus
-      sit amet cursus quis, fringilla nec sapien.
+      *   [**Pfizer's Covid 19
+      Hub**](https://www.pfizer.com/science/coronavirus)
+
+
+      *   [**Moderna's
+      Covid...**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+
+
+      *   [**Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
+      - label: Spokane Regional Health Dept
+        url: 'https//:www.srhd.org'
+        style: primary
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
       - label: CDC Guidance
         url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
         style: primary
-      - label: WA State Covid Guidance
+      - label: WA State Dept of Health
         url: 'https://coronavirus.wa.gov/'
-        style: secondary
+        style: primary
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
   - title: "☤\_Our Services ☤"
