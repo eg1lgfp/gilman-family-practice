@@ -99,10 +99,9 @@ sections:
           ![](https://www.dropbox.com/s/u1gh9yebypwqfum/DrGilman_forGFP-WebsiteProfile_byESS\_200x200.png?dl=1)
 
 
-          **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
-          non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin
-          euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
-          varius.
+          **A short ? here.. Or, just have the "Learn More" button which will
+          take visitors to the "About Us" page where each provider's short bio
+          is best (there's placeholders now for bios if used)**
         actions:
           - label: Learn More
             url: /overview
