@@ -37,10 +37,36 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Osteopathic medicine is based on the idea that all the body’s systems are 
+interrelated. Osteopaths focus on treating the whole person. There are 
+more than 114,000 DOs in the U.S. And more than 1 in 4 U.S. medical 
+students are on the path to becoming a doctor of osteopathic medicine 
+(DO). 
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
+Osteopathic medicine dates back more than 100 years. Its founder, Andrew Taylor 
+Still, thought that correcting problems with the body's structure could 
+help the body heal itself. Still, who practiced during the Civil War, 
+believed that spine problems can send nerve signals out to all the 
+organs and make you sick. He developed osteopathic manipulation 
+treatments  with a goal of restoring the nerves to a healthy state and 
+promoting circulation so the body could heal itself.
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
+One key idea in this field is that many diseases result from, or cause, 
+problems within the body's musculoskeletal system, which includes 
+nerves, muscles, and bones. DOs pay extra attention to how all your body
+ parts work together in order to prevent or treat health issues. And 
+they get special training in that.
+
+Osteopathic
+medicine is about your whole body, not just specific parts or symptoms.
+ So if you come in with, say, knee pain, they’re likely going to look at
+ more than your knee.
+
+Osteopathic
+ doctors believe touch can be healing. All DOs are trained in 
+osteopathic manipulative treatment, sometimes called manual manipulation
+ or OMT. That's a hands-on method to help diagnose and treat illnesses. 
+Not all DOs use it regularly in their practice, though.
 
 > The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
 
