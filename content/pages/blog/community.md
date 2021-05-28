@@ -36,7 +36,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: post
-thumb_image: images/incredible-tomato.jpg
+thumb_image: images/majestic-oak.jpg
 ---
 #### **Osteopathic medicine is based on**
 
