@@ -77,3 +77,12 @@ Not all DOs use it regularly in their practice, though.
 Most students who apply to osteopathic medical school first earn a bachelor’s degree and many also have a master’s degree or doctorate. 
 
 Osteopathic doctors get extra training in the musculoskeletal system. But they also learn all the other parts of modern medicine. They can prescribe medication, do surgery, run tests, and do everything else you would  expect from a doctor.
+
+#### **Osteopathic vs. Naturopathic Practitioners**
+
+While osteopathy and naturopathy may sound similar, they’re different. Naturopathic medicine is a system that uses natural remedies to heal 
+your body. 
+
+Like DOs, naturopathic practitioners are trained, but the type of training varies. Naturopathic doctors complete a 4-year graduate-level program at a naturopathic medical school. Naturopaths aren’t licensed and take training programs that aren’t certified by the U.S. Department of Education.  
+
+DOs focus on hands-on diagnosis and treatment along with prescription medicine, surgery, and technology. A naturopathic practitioner’s goal is to heal you through natural substances like food, herbs, and water, plus lifestyle changes such as exercise and lowering your stress. 
