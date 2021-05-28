@@ -38,7 +38,7 @@ layout: page
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
-##### **Intro & summary text here \[ can include a short history of the clinic, or not, your choice ]**... Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+###### **Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.**
 
 ## **Our Provider Family**
 

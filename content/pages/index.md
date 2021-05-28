@@ -4,19 +4,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to Gilman Family Practice
-    content: >
-      Our goal is to deliver caring and comprehensive care in an atmosphere of
-      respect between the patient and our staff. We are a dedicated team
-      committed to high quality and cost effective health care by focusing our
-      efforts on patient wellness, continuous improvement of our services and
-      growth to meet the changing needs of our community.
     actions:
       - label: About Us + Provider Info
         url: /style-guide
         style: primary
-    image: >-
-      images/Canva - Washington Water Power Building and the Monroe Street
-      Bridge in Spokane_Purchased-NoRestrictions_ESS.jpg
+    image: images/Clinic_FrontView-Pathway_byWG.jpg
   - section_id: features
     type: section_grid
     col_number: three
@@ -43,21 +35,21 @@ sections:
             type: action
       - title: Clinic News & Updates
         content: |
-          ##### **Holiday Hours:**
+          ##### **Holiday Closures:**
 
-          *   HH : MM / Dates...
-
-          *   HH : MM / Dates...
+          July 5th, 2021
 
           **Provider Availability:**
 
           *   Bryce H. Gilman, D.O. | Available by appointment
 
-          *   Laurie Dimler, NP | On-Leave until \[date]
+          *   Laurie Dimler, ARNP | Available by appointment
 
           *   Kristina A. Stewart, PA-C | Available by appointment
 
           ##### **Announcements & Updates:**
+
+          ****
         actions:
           - label: News + Announcements
             url: /blog
@@ -124,7 +116,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs |  Vaccines | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Pregnancy Test | Health Education | Diet Consultation | Surgical Procedures | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
+    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Health Education | Diet Consultation | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
     actions: []
     type: section_content
   - section_id: features-two-col
@@ -161,11 +153,12 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-  - title: "⚠️\_\_ Important\_\_ ⚠️"
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "### \U0001F914  FOR ROUTINE CALLS  \U0001F912\n\nFeel free to\_leave a message and we will return your call ASAP.\_\n\nCalls received after\_4:30 will not be returned until the next business day.\_\_\n\n**If you are calling after business hours and you need an on-call physician for an emergency, you will be instructed\_to call\_509-622-9378.**\n\n**If you need a refill, contact your pharmacy to fax the request to our office.** \_Please contact our office for\_our fax number.\_\n\nIn order for us to prioritize calls, we ask patients to let the receptionist know the nature of your problem or questions. **Genuine emergencies are our first priority. Urgent calls are handled as soon as possible, and non-emergency calls are returned as time permits throughout the day and after office hours.** Please give telephone numbers with area code where you can be reached during both business and evening hours.\n\n### \U0001F691  \U0001F6A8    **FOR EMERGENCIES**    \U0001F6A8  \U0001F691\n\n**In the event of a life threatening medical emergency, call medical emergency services at 911 immediately** **DO NOT WAIT!** Inform the emergency room staff that you are a patient of Bryce H. Gilman, D.O., Kristina A. Stewart, PA-C, or Lauri Dimler, NP and they will contact us.\n"
+    content: >
+      #### **For appointments and/or more information please call our office at
+      509-924-4681**
     actions: []
     type: section_content
   - section_id: cta
