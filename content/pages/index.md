@@ -99,41 +99,32 @@ sections:
           ![](https://www.dropbox.com/s/u1gh9yebypwqfum/DrGilman_forGFP-WebsiteProfile_byESS\_200x200.png?dl=1)
 
 
-          **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
-          non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin
-          euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
-          varius.
+          *A short ? here.. Or, just have the "Learn More" button which will
+          take visitors to the "About Us" page where each provider's short bio
+          is best (there's placeholders now for bios if used)*
         actions:
           - label: Learn More
-            url: /overview
+            url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
-        content: >
+        content: |
           ![](https://via.placeholder.com/200/09f/fff.png)
 
-
-          **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
-          non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin
-          euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
-          varius.
+          **Short ? here..**. 
         actions:
           - label: Learn More
-            url: /showcase
+            url: /style-guide
             style: link
       - title: "Laurie Dimler, NP\_ \U0001FA7A"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
+        content: |
           ![](https://via.placeholder.com/200/09f/fff.png)
 
-
-          **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
-          non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin
-          euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
-          varius.
+          **Short ? here..**
         actions:
           - label: Learn More
-            url: '#'
+            url: /style-guide
             style: link
             icon_class: dev
             new_window: false
