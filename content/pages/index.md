@@ -158,8 +158,8 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: >
-      For appointments and/or more information please call our office at
-      509-924-4681
+      #### **For appointments and/or more information please call our office at
+      509-924-4681**
     actions: []
     type: section_content
   - section_id: cta
