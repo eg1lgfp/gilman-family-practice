@@ -88,12 +88,6 @@ sections:
     image_position: left
     title: "\U0001F489 COVID-19 Information \U0001F637"
     content: >
-
-
-      *   [**CDC's Covid 19
-      Home**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-
-
       *   [**Pfizer's Covid 19
       Hub**](https://www.pfizer.com/science/coronavirus)
 
