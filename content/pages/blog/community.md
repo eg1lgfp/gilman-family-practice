@@ -1,10 +1,13 @@
 ---
-title: Article/Journal Title Here
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
-date: '2019-05-27'
+title: What is Osteopathic Medicine?
+excerpt: |-
+  Osteopathic
+   medicine is based on the idea that all the body’s systems are 
+  interrelated. Osteopaths focus on treating the whole person. There are 
+  more than 114,000 DOs in the U.S. And more than 1 in 4 U.S. medical 
+  students are on the path to becoming a doctor of osteopathic medicine 
+  (DO).
+date: '2020-08-11'
 image: images/2.jpg
 seo:
   title: Community Round-up
@@ -33,14 +36,33 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: post
+thumb_image: images/majestic-oak.jpg
 ---
+#### **Osteopathic medicine is based on**
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
+the idea that all the body’s systems are interrelated. Osteopaths focus on treating the whole person. There are more than 114,000 DOs in the U.S. And more than 1 in 4 U.S. medical students are on the path to becoming a doctor of osteopathic medicine (DO).
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
+Osteopathic medicine dates back more than 100 years. Its founder, Andrew Taylor Still, thought that correcting problems with the body's structure could help the body heal itself. Still, who practiced during the Civil War, believed that spine problems can send nerve signals out to all the organs and make you sick. He developed osteopathic manipulation treatments  with a goal of restoring the nerves to a healthy state and promoting circulation so the body could heal itself.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+One key idea in this field is that many diseases result from, or cause, problems within the body's musculoskeletal system, which includes nerves, muscles, and bones. DOs pay extra attention to how all your body parts work together in order to prevent or treat health issues. And they get special training in that.
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+Osteopathic medicine is about your whole body, not just specific parts or symptoms. So if you come in with, say, knee pain, they’re likely going to look at more than your knee.
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Osteopathic doctors believe touch can be healing. All DOs are trained in osteopathic manipulative treatment, sometimes called manual manipulation or OMT. That's a hands-on method to help diagnose and treat illnesses. Not all DOs use it regularly in their practice, though.
+
+> DOs focus on hands-on diagnosis and treatment along with prescription medicine, surgery, and technology. A naturopathic practitioner’s goal is to heal you through natural substances like food, herbs, and water, plus lifestyle changes such as exercise and lowering your stress.
+
+#### **How Are Doctors of Osteopathic Medicine Trained?**
+
+Most students who apply to osteopathic medical school first earn a bachelor’s degree and many also have a master’s degree or doctorate. 
+
+Osteopathic doctors get extra training in the musculoskeletal system. But they also learn all the other parts of modern medicine. They can prescribe medication, do surgery, run tests, and do everything else you would  expect from a doctor.
+
+#### **Osteopathic vs. Naturopathic Practitioners**
+
+While osteopathy and naturopathy may sound similar, they’re different. Naturopathic medicine is a system that uses natural remedies to heal
+your body.
+
+Like DOs, naturopathic practitioners are trained, but the type of training varies. Naturopathic doctors complete a 4-year graduate-level program at a naturopathic medical school. Naturopaths aren’t licensed and take training programs that aren’t certified by the U.S. Department of Education.  
+
+###### >>> For more on this article visit:: https://www.webmd.com/pain-management/osteopathic-medicine

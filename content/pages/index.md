@@ -96,21 +96,15 @@ sections:
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
         content: >
-          ![](https://www.dropbox.com/s/u1gh9yebypwqfum/DrGilman_forGFP-WebsiteProfile_byESS\_200x200.png?dl=1)
-
-
-          *A short ? here.. Or, just have the "Learn More" button which will
-          take visitors to the "About Us" page where each provider's short bio
-          is best (there's placeholders now for bios if used)*
+          ![](https://www.dropbox.com/s/u1gh9yebypwqfum/DrGilman_forGFP-WebsiteProfile_byESS\_200x200.png?dl=1)**
         actions:
           - label: Learn More
             url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
-        content: |
+        content: |+
           ![](https://via.placeholder.com/200/09f/fff.png)
 
-          **Short ? here..**. 
         actions:
           - label: Learn More
             url: /style-guide
@@ -120,8 +114,6 @@ sections:
         image_alt: lorem-ipsum
         content: |
           ![](https://via.placeholder.com/200/09f/fff.png)
-
-          **Short ? here..**
         actions:
           - label: Learn More
             url: /style-guide

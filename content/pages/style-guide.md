@@ -34,15 +34,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# **Some information about the clinic & providers**
-
-###### \[ Can include a short history / origins of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family / fav pics around the area over the years, etc >>> although, this is totally optional, it could be interesting &  fun if share photos perhaps of clinic interior + staff at work (before & now?), and whatever you want or keep super minimal & short >> either way, you can always change it later as many times as you want ]
+# **\[ Title / Intro the Clinic / Who we are ]**
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
-##### **Intro & summary text here.**.. Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+##### **Intro & summary text here \[ can include a short history of the clinic, or not, your choice ]**... Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
 
 ## **Our Provider Family**
 
