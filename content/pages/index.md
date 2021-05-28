@@ -104,12 +104,6 @@ sections:
 
       *   [**Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
-      - label: CDC Guidance
-        url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
-        style: primary
-      - label: WA State Dept of Health
-        url: 'https://coronavirus.wa.gov/'
-        style: primary
       - label: Spokane Regional Health Dept
         url: 'https//:www.srhd.org'
         style: primary
@@ -117,6 +111,12 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: CDC Guidance
+        url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
+        style: primary
+      - label: WA State Dept of Health
+        url: 'https://coronavirus.wa.gov/'
+        style: primary
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
   - title: "☤\_Our Services ☤"
