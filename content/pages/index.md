@@ -35,21 +35,21 @@ sections:
             type: action
       - title: Clinic News & Updates
         content: |
-          ##### **Holiday Hours:**
+          ##### **Holiday Closures:**
 
-          *   HH : MM / Dates...
-
-          *   HH : MM / Dates...
+          July 5th, 2021
 
           **Provider Availability:**
 
           *   Bryce H. Gilman, D.O. | Available by appointment
 
-          *   Laurie Dimler, NP | On-Leave until \[date]
+          *   Laurie Dimler, ARNP | Available by appointment
 
           *   Kristina A. Stewart, PA-C | Available by appointment
 
           ##### **Announcements & Updates:**
+
+          ****
         actions:
           - label: News + Announcements
             url: /blog
