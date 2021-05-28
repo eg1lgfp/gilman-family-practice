@@ -49,7 +49,7 @@ Osteopathic medicine is about your whole body, not just specific parts or sympto
 
 Osteopathic doctors believe touch can be healing. All DOs are trained in osteopathic manipulative treatment, sometimes called manual manipulation or OMT. That's a hands-on method to help diagnose and treat illnesses. Not all DOs use it regularly in their practice, though.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+> ##### **DOs focus on hands-on diagnosis and treatment along with prescription medicine, surgery, and technology. A naturopathic practitioner’s goal is to heal you through natural substances like food, herbs, and water, plus lifestyle changes such as exercise and lowering your stress.**
 
 #### **How Are Doctors of Osteopathic Medicine Trained?**
 
