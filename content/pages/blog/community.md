@@ -73,3 +73,7 @@ Not all DOs use it regularly in their practice, though.
 > The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
 
 #### **How Are Doctors of Osteopathic Medicine Trained?**
+
+Most students who apply to osteopathic medical school first earn a bachelor’s degree and many also have a master’s degree or doctorate. 
+
+Osteopathic doctors get extra training in the musculoskeletal system. But they also learn all the other parts of modern medicine. They can prescribe medication, do surgery, run tests, and do everything else you would  expect from a doctor.
