@@ -36,7 +36,7 @@ layout: page
 ---
 # **Some information about the clinic & our provider family**
 
-###### (Can include a short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info you wish to share... >>> although, this is totally optional, it could be interesting & more "inclusive" of your patients)
+###### (Can include a short history of the clinic & Gilman family background summary/early years/getting established/father-son DOs/family info you wish to share... >>> although, this is totally optional, it could be interesting, even fun if share photos perhaps of clinic interior + staff at work, other doctors, and whatever you want or keep super minimal & short >> you can always change it later as many times as you want)
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
