@@ -153,8 +153,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-  - title: "\U0001F914  FOR ROUTINE CALLS  \U0001F912"
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: >
