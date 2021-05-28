@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# **\[ Title / Some information about the clinic & providers ]**
+# **\[ Title / Intro the Clinic / Who we are ]**
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
