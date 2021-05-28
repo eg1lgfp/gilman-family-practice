@@ -36,6 +36,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: post
+thumb_image: images/hush-naidoo-yo01Z-9HQAw-unsplash.jpg
 ---
 #### **Osteopathic medicine is based on**
 
