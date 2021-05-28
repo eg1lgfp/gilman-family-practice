@@ -112,7 +112,7 @@ sections:
         style: secondary
       - label: Spokane Regional Health Dept
         url: 'https//:www.srhd.org'
-        style: icon
+        style: secondary
         icon_class: dev
         new_window: false
         no_follow: false
