@@ -96,13 +96,7 @@ sections:
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
         content: >
-          ![](/\_static/app-assets/DrGilman_forGFP-WebsiteProfile_byESS\_200x200.png)
-
-
-          **Bio goes here..**. Donec lobortis velit sed suscipit lobortis. Ut
-          non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin
-          euismod euismod at, tincidunt ut tellus. Vivamus rhoncus mattis
-          varius.
+          ![](https://www.dropbox.com/s/u1gh9yebypwqfum/DrGilman_forGFP-WebsiteProfile_byESS\_200x200.png?dl=1)
         actions:
           - label: Learn More
             url: /overview
