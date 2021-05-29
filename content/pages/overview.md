@@ -18,7 +18,9 @@ sections:
         style: primary
 seo:
   title: Clinic Forms and Documentation
-  description: This is the overview page
+  description: >
+    This page and sections are all related to Gilman Family Practice clinic's
+    forms, docs for new and existing patients
   extra:
     - name: 'og:type'
       value: website
