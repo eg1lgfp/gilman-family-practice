@@ -1,10 +1,6 @@
 .block {
   padding-top: 3.75em;
 
-  &:not(.block-hero) {
-    background: $gray-100;
-  }
-
   &:last-child {
     padding-bottom: 3.75em;
   }
