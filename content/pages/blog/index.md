@@ -3,7 +3,7 @@ title: 'Medical News, Info & Insights'
 subtitle: >-
   Come to this page periodically to stay informed on local, state & national
   medical news, including: insightful articles, journals & videos
-image: images/splendid-chestnut.jpg
+image: images/interesting-wallaby.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
