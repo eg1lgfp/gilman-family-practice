@@ -157,7 +157,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: >
-      # **For appointments + more information please call our office at
+      ### **For appointments + more information please call our office at
       509-924-4681**
     actions: []
     type: section_content
