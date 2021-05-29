@@ -1,5 +1,5 @@
 ---
-title: '> Your 1-Stop-Shop for Clinic Info + Forms'
+title: '> Your One-Stop-Shop for Clinic Info + Forms'
 seo:
   title: Welcome to Libris
   description: This is the documentation page
