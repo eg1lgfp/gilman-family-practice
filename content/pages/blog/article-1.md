@@ -10,7 +10,7 @@ excerpt: |-
 date: '2020-08-11'
 image: images/2.jpg
 seo:
-  title: Community Round-up
+  title: What is Osteopathic Medicine?
   description: Commodo ante vis placerat interdum massa massa primis
   extra:
     - name: 'og:type'
