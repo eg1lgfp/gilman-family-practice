@@ -69,8 +69,10 @@ sections:
           **➡️   Allergy Info**
 
 
-          **➡️**[**   American Academy of Family
+          **➡️  **[**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
+
+
 
 
           ***
