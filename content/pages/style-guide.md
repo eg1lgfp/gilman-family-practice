@@ -1,7 +1,7 @@
 ---
 image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
 seo:
-  title: Theme Style Guide
+  title: About Gilman Family Practice
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
