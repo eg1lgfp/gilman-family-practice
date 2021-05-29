@@ -34,22 +34,7 @@ sections:
             no_follow: false
             type: action
       - title: Clinic News & Updates
-        content: |
-          ##### **Holiday Closures:**
-
-          July 5th, 2021
-
-          **Provider Availability:**
-
-          *   Bryce H. Gilman, D.O. | Available by appointment
-
-          *   Laurie Dimler, ARNP | Available by appointment
-
-          *   Kristina A. Stewart, PA-C | Available by appointment
-
-          ##### **Announcements & Updates:**
-
-          ****
+        content: "##### **Holiday Closures:**\n\nJuly 5th, 2021\n\n**Provider Availability:**\n\n\U0001FA7A Bryce H. Gilman, D.O. | Available by appointment\n\n\U0001FA7A Laurie Dimler, ARNP | Available by appointment\n\n\U0001FA7A Kristina A. Stewart, PA-C | Available by appointment\n\n##### **Announcements & Updates:**\n\n***\n"
         actions:
           - label: News + Announcements
             url: /blog
