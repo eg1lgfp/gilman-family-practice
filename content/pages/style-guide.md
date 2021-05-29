@@ -1,5 +1,5 @@
 ---
-image: images/magenta-mahogany.jpg
+image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
