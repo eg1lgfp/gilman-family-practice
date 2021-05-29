@@ -87,15 +87,15 @@ sections:
     image_position: left
     title: "\U0001F489 COVID-19 Information \U0001F637"
     content: >
-      ➡️  [**Pfizer's Covid 19
+      ➡️     [**Pfizer's Covid 19
       Hub**](https://www.pfizer.com/science/coronavirus)
 
 
-      ➡️[** 
-      Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+      ➡️[    
+      Moderna](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
 
-      ➡️  [**Johnson & Johnson**](https://www.jnj.com/covid-19)
+      ➡️     [**Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
       - label: Spokane Regional Health Dept
         url: 'https://srhd.org/'
