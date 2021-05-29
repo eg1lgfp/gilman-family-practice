@@ -5,7 +5,9 @@ excerpt: >-
   for your project.
 seo:
   title: Patient Info + Enrollment
-  description: This is the about page
+  description: >
+    This is where patients of Gilman Family Practice can find all of the
+    clinic's forms and docs required for New and Existing patients
   extra:
     - name: 'og:type'
       value: website
