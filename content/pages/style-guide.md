@@ -33,7 +33,7 @@ seo:
 layout: page
 title: Gilman Family Practice
 subtitle: >-
-  Serving the Health + Wellness of Spokane Patients & All Over the Region since
+  Serving the Health + Wellness of Spokane Patients & All Over the Region Since
   1990
 ---
 ###### Welcome to the family >>>
