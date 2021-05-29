@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: Establi
+subtitle: 'Welcome to the family '
 ---
 ###### Welcome to the family >>>
 
