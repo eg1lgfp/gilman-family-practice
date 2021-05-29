@@ -31,6 +31,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
+title: Gilman Family Practice
 ---
 ###### Welcome to the family >>>
 
