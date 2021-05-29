@@ -1,5 +1,4 @@
 ---
-title: Where To Get Support
 seo:
   title: Where To Get Support
   description: This is the community page
