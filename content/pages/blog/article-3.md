@@ -8,7 +8,7 @@ excerpt: >-
 date: '2018-01-15'
 image: images/1.jpg
 seo:
-  title: The function of design is letting design function
+  title: 'Article #3 on the Medical News & Info pages'
   description: Vestibulum sed arcu non odio euismod lacinia at quis risus
   extra:
     - name: 'og:type'
