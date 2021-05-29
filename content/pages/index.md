@@ -63,21 +63,17 @@ sections:
             style: link
       - title: Patient Education
         content: >
-          *   **Diabetic Diet**
+          ➡️ ** Diabetic Diet**
 
 
-          *   **Allergy Info**
+          ➡️  **Allergy Info**
 
 
-          *   [**American Academy of Family
+          ➡️[**  American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
 
 
-
-
-
-
-          ****
+          ***
         actions:
           - label: Let's go
             url: /style-guide
