@@ -33,7 +33,7 @@ seo:
 layout: page
 title: '>>> Gilman Family Practice'
 ---
-# ****
+#
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
