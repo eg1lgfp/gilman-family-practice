@@ -1,5 +1,5 @@
 ---
-title: 'Patient '
+title: Patient Pages
 sections:
   - section_id: hero
     type: section_hero
