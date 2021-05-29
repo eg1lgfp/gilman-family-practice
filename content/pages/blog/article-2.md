@@ -9,7 +9,8 @@ thumb_image: images/2.jpg
 image: images/2.jpg
 seo:
   title: 'Article #2 on the Medical News & Info pages'
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: |
+    Update this data once 2nd Article is published on this page
   extra:
     - name: 'og:type'
       value: article
