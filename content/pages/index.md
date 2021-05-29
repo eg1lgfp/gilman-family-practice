@@ -95,7 +95,7 @@ sections:
       **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
 
-      ➡️     [**   Johnson & Johnson**](https://www.jnj.com/covid-19)
+      ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)****
     actions:
       - label: Spokane Regional Health Dept
         url: 'https://srhd.org/'
