@@ -1,7 +1,7 @@
 ---
 title: ➡️ Your One-Stop-Shop for Clinic Info & Forms
 seo:
-  title: Welcome to Libris
+  title: Forms
   description: This is the documentation page
   extra:
     - name: 'og:type'
