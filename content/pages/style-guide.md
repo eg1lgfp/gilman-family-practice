@@ -2,7 +2,9 @@
 image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
 seo:
   title: About Gilman Family Practice
-  description: A reference for suggested typographic treatment and styles for your content
+  description: >-
+    An about page for general info about the clinic plus info about the medical
+    providers
   extra:
     - name: 'og:type'
       value: website
