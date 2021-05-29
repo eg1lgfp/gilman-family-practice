@@ -1,5 +1,5 @@
 ---
-title: Article/Journal Title Here
+title: 2nd Article/Journal Title Here
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
