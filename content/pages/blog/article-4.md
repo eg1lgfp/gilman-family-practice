@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-04-24'
 image: images/3.jpg
 seo:
-  title: 'Article #4 on the Medical News & Info pages'
+  title: 'Article #4'
   description: |
     Update this data once 4th article is published on this site
   extra:
