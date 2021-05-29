@@ -17,7 +17,7 @@ sections:
         url: /docs/getting-started
         style: primary
 seo:
-  title: Overview
+  title: Clinic Forms and Documentation
   description: This is the overview page
   extra:
     - name: 'og:type'
