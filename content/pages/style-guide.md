@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: Serving the Health + Wellness of L since 1990
+subtitle: Serving the Health + Wellness of Locals &  since 1990
 ---
 ###### Welcome to the family >>>
 
