@@ -8,7 +8,7 @@ date: '2019-03-10'
 thumb_image: images/2.jpg
 image: images/2.jpg
 seo:
-  title: New Conference
+  title: 'Article #2 on the Medical News & Info pages'
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
