@@ -26,19 +26,6 @@
                 "has_subnav": false
             },
             {
-                "label": "TEMP-Addl Services",
-                "url": "/overview",
-                "style": "link",
-                "has_subnav": false,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
                 "label": "About Us",
                 "url": "/style-guide",
                 "style": "link",
