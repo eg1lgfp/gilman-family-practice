@@ -25,7 +25,7 @@ layout: docs
 
 Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
 
-*⚠️ Please verify with your insurance that we are an  in-network provider with your insurance plan, thank you*
+> ***⚠️ Please verify with your insurance that we are an  in-network provider with your insurance plan, thank you***
 
 #### **PRACTICE FORMS:**
 
@@ -34,5 +34,3 @@ Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Bl
 *   [Medication List Form](https://www.dropbox.com/sh/jnlf6ltc7ab0do1/AACnYtYsnwy1OhPjkj_VDGWna?dl=1)
 *   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
 *   [Informed Consent for Telemedicine](https://www.dropbox.com/s/5spcgqxw5yzhhzr/Informed%20Consent%20for%20Telemedicine%20Services%281%29.pdf?dl=1)
-
-#####
