@@ -62,12 +62,15 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: |
+        content: >
           **➡️   Diabetic Diet**
+
 
           **➡️   Allergy Info**
 
-          **➡️  American Academy of Family Physicians**
+
+          **➡️  **[**American Academy of Family
+          Physicians**](https://www.aafp.org/home.html)
         actions:
           - label: Let's go
             url: /style-guide
