@@ -98,7 +98,7 @@ sections:
       *   [**Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
       - label: Spokane Regional Health Dept
-        url: 'https//:www.srhd.org'
+        url: 'https://srhd.org/'
         style: primary
         icon_class: dev
         new_window: false
