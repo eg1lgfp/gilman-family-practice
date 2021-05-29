@@ -92,7 +92,7 @@ sections:
 
 
       ➡️[ 
-      Moderna](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+      **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
 
       ➡️  [**Johnson & Johnson**](https://www.jnj.com/covid-19)
