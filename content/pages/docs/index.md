@@ -2,7 +2,8 @@
 title: ➡️ Your One-Stop-Shop for Clinic Info & Forms
 seo:
   title: Docs and Forms
-  description: This is the documentation page
+  description: |
+    This is the Documentation and Forms pages
   extra:
     - name: 'og:type'
       value: website
