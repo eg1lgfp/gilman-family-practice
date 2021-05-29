@@ -1,5 +1,5 @@
 ---
-title: Article/Journal Title Here
+title: 4th Article/Journal Title Here
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -8,8 +8,9 @@ excerpt: >-
 date: '2018-01-15'
 image: images/1.jpg
 seo:
-  title: The function of design is letting design function
-  description: Vestibulum sed arcu non odio euismod lacinia at quis risus
+  title: 'Article #3 on the Medical News & Info pages'
+  description: |
+    Update this data once 3rd article published
   extra:
     - name: 'og:type'
       value: article
@@ -34,6 +35,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+thumb_image: images/diana-polekhina-1SutQMy6UVU-unsplash.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.

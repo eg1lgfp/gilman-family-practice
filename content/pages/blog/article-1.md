@@ -10,8 +10,10 @@ excerpt: |-
 date: '2020-08-11'
 image: images/2.jpg
 seo:
-  title: Community Round-up
-  description: Commodo ante vis placerat interdum massa massa primis
+  title: What is Osteopathic Medicine?
+  description: >-
+    Based on the WebMD article here:
+    https://www.webmd.com/pain-management/osteopathic-medicine
   extra:
     - name: 'og:type'
       value: article

@@ -1,15 +1,16 @@
 ---
-title: Article/Journal Title Here
+title: 3rd Article/Journal Title Here
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
   nam libero justo laoreet sit.
 date: '2019-03-10'
-thumb_image: images/2.jpg
+thumb_image: images/splendid-chestnut.jpg
 image: images/2.jpg
 seo:
-  title: New Conference
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 'Article #2 on the Medical News & Info pages'
+  description: |
+    Update this data once 2nd Article is published on this page
   extra:
     - name: 'og:type'
       value: article

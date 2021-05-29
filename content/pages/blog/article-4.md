@@ -1,5 +1,5 @@
 ---
-title: Article/Journal Title Here
+title: 2nd Article/Journal Title Here
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
@@ -7,10 +7,9 @@ excerpt: >-
 date: '2019-04-24'
 image: images/3.jpg
 seo:
-  title: Introducing The Libris Theme
-  description: >-
-    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-    accumsan
+  title: 'Article #4 on the Medical News & Info pages'
+  description: |
+    Update this data once 4th article is published on this site
   extra:
     - name: 'og:type'
       value: article
@@ -39,6 +38,7 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: post
+thumb_image: images/interesting-wallaby.jpg
 ---
 
 **Vis accumsan feugiat** adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. 
