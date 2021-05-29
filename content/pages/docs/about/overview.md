@@ -22,7 +22,7 @@ seo:
       value: This is the overview page
 layout: docs
 ---
-##### **Form instructions: ***e.g., complete + print + bring into office on day of enrollment or as required*
+##### **Form instructions:** *e.g., complete + print + bring into office on day of enrollment or as required*
 
 ➡️ Form 1
 
@@ -33,4 +33,3 @@ layout: docs
 ➡️ Form 5
 
 ➡️ Form 6
-
