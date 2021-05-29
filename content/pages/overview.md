@@ -1,11 +1,10 @@
 ---
-title: Overview
+title: Patient Pages
 sections:
   - section_id: hero
     type: section_hero
-    title: Overview
-    image: images/5.jpg
-    content: An optional subtitle
+    title: Patient Info + Enrollment
+    image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
   - section_id: docs-overview
     type: section_docs
     col_number: three
