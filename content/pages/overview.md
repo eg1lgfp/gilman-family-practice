@@ -3,7 +3,7 @@ title: Patient Pages
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Patient '
+    title: Patient Info + Enrollment
     image: images/5.jpg
     content: An optional subtitle
   - section_id: docs-overview
