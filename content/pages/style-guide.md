@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: 'Serving the Health + Wellness of '
+subtitle: Serving the Health + Wellness of local
 ---
 ###### Welcome to the family >>>
 
