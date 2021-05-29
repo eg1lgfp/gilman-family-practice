@@ -22,9 +22,11 @@ seo:
       value: This is the features page
 layout: docs
 ---
-### **Form instructions:**
+> **Form instructions: **
+>
+> *e.g., complete + print + bring into office on day of enrollment or as required*
 
-*e.g., complete + print + bring into office on day of enrollment or as required*
+**
 
 ➡️ Form 1
 
