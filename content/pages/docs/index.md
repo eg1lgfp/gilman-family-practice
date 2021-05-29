@@ -1,7 +1,5 @@
 ---
-title: >-
-  This is your one-stop-shop for our patient information forms, consent + other
-  helpful forms and resources
+title: '> Your 1-Stop-Shop for Clinic Info + Forms'
 seo:
   title: Welcome to Libris
   description: This is the documentation page
