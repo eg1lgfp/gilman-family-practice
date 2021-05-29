@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-04-24'
 image: images/3.jpg
 seo:
-  title: Introducing The Libris Theme
+  title: 'Article #4 on the Medical News & Info pages'
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan
