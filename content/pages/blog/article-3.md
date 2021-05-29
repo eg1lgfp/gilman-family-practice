@@ -9,7 +9,8 @@ date: '2018-01-15'
 image: images/1.jpg
 seo:
   title: 'Article #3 on the Medical News & Info pages'
-  description: Vestibulum sed arcu non odio euismod lacinia at quis risus
+  description: |
+    Update this data once 3rd article published
   extra:
     - name: 'og:type'
       value: article
