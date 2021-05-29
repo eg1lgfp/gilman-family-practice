@@ -1,5 +1,4 @@
 ---
-title: Gilman Family Practice
 subtitle: 'Welcome to the family! Please take a moment to get to know us better :)'
 image: images/magenta-mahogany.jpg
 seo:
