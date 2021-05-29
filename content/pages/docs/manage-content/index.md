@@ -1,7 +1,4 @@
 ---
-excerpt: >-
-  In this section you'll learn how to add syntax highlighting, examples,
-  callouts and much more.
 seo:
   title: Manage Content
   description: This is the manage content page
