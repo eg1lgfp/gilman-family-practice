@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to Gilman Family Practice
+    title: Gilman Family Practice
     actions:
       - label: About Us + Provider Info
         url: /style-guide
@@ -14,7 +14,7 @@ sections:
     col_number: three
     grid_items:
       - title: Office Information
-        content: "##### **Hours:**\n\n*   Mon - Thurs | 8am - 5pm\n\n*   Friday | 8:30am - 5pm\n\n*   *Sat - Sun | Closed*\n\n⚠️  ***Scroll down ⬇️ page for Routine/After Hour Call & Emergency > Please follow instructions!***\n\n##### **Location:**\n\n\U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n"
+        content: "##### **Hours:**\n\n**➡️  Mon - Thurs | 8am - 5pm**\n\n**➡️  Friday | 8:30am - 5pm**\n\n**➡️  Sat - Sun | Closed**\n\n##### **☎️  509-924-4681**\n\n##### **Location:**\n\n##### \U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n"
         actions:
           - label: Let's go to PATIENT FORMS
             url: /docs
@@ -34,22 +34,7 @@ sections:
             no_follow: false
             type: action
       - title: Clinic News & Updates
-        content: |
-          ##### **Holiday Closures:**
-
-          July 5th, 2021
-
-          **Provider Availability:**
-
-          *   Bryce H. Gilman, D.O. | Available by appointment
-
-          *   Laurie Dimler, ARNP | Available by appointment
-
-          *   Kristina A. Stewart, PA-C | Available by appointment
-
-          ##### **Announcements & Updates:**
-
-          ****
+        content: "##### **Holiday Closures:**\n\nJuly 5th, 2021\n\n**Provider Availability:**\n\n\U0001FA7A Bryce H. Gilman, D.O. | Available by appointment\n\n\U0001FA7A Laurie Dimler, ARNP | Available by appointment\n\n\U0001FA7A Kristina A. Stewart, PA-C | Available by appointment\n\n##### **Announcements & Updates:**\n\n***\n"
         actions:
           - label: News + Announcements
             url: /blog
@@ -63,21 +48,14 @@ sections:
             style: link
       - title: Patient Education
         content: >
-          *   **Diabetic Diet**
+          **➡️   Diabetic Diet**
 
 
-          *   **Allergy Info**
+          **➡️   Allergy Info**
 
 
-          *   [**American Academy of Family
+          ➡️  [**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
-
-
-
-
-
-
-          ****
         actions:
           - label: Let's go
             url: /style-guide
@@ -156,9 +134,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >
-      #### **For appointments + more information please call our office at
-      509-924-4681**
+    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
     actions: []
     type: section_content
   - section_id: cta
