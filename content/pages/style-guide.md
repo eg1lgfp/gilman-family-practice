@@ -32,7 +32,6 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: 'Welcome to the clinic '
 ---
 ###### Welcome to the family >>>
 
