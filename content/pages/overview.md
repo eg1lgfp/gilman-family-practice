@@ -5,7 +5,6 @@ sections:
     type: section_hero
     title: Patient Info + Enrollment
     image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
-    content: An optional subtitle
   - section_id: docs-overview
     type: section_docs
     col_number: three
