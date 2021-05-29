@@ -11,7 +11,9 @@ date: '2020-08-11'
 image: images/2.jpg
 seo:
   title: What is Osteopathic Medicine?
-  description: Commodo ante vis placerat interdum massa massa primis
+  description: >-
+    Based on the WebMD article here:
+    https://www.webmd.com/pain-management/osteopathic-medicine
   extra:
     - name: 'og:type'
       value: article
