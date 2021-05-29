@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# **\[ Title / Intro the Clinic / Who we are ]**
+# ***Gilman Family Practice::***
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
