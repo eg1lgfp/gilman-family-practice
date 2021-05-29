@@ -156,7 +156,9 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "#### \U0001F914 **For appointments + more information please call our office at 509-924-4681 **\U0001F917\n"
+    content: >
+      #### For appointments + more information please call our office at
+      509-924-4681
     actions: []
     type: section_content
   - section_id: cta
