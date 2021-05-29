@@ -1,7 +1,5 @@
 ---
-title: Gilman Family Practice
-subtitle: 'Welcome to the family! Please take a moment to get to know us better :)'
-image: images/magenta-mahogany.jpg
+image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
@@ -33,12 +31,13 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
+title: '>>> Gilman Family Practice'
 ---
-# **\[ Title / Intro the Clinic / Who we are ]**
+###### Welcome to the family >>>
 
 ![](https://via.placeholder.com/500/09f/fff.png)
 
-###### **Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.**
+> *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
 
 ## **Our Provider Family**
 
