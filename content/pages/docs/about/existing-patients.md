@@ -2,7 +2,7 @@
 title: Existing Patients >
 weight: 2
 seo:
-  title: Existing
+  title: Existing Patients
   description: This is the features page
   extra:
     - name: 'og:type'
