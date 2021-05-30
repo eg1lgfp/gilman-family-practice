@@ -103,8 +103,8 @@ sections:
     col_number: three
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
-        content: >
-          ![](https://www.dropbox.com/s/zax0rrptazn5p1n/DrGilman_Portrait_forGFP-WebsiteProfile_ESS\_200x200.png?dl=1)
+        content: |
+          ![](https://via.placeholder.com/200/09f/fff.png)
         actions:
           - label: Learn More
             url: /style-guide
