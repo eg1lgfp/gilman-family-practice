@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Gilman Family Practice
+    title: Welcome to Gilman Family Practice
     actions:
       - label: About Us + Provider Info
         url: /style-guide
@@ -103,15 +103,15 @@ sections:
     col_number: three
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
-        content: >
-          ![](https://www.dropbox.com/s/zax0rrptazn5p1n/DrGilman_Portrait_forGFP-WebsiteProfile_ESS\_200x200.png?dl=1)
+        content: |
+          ![](https://via.placeholder.com/200/09f/fff.png)
         actions:
           - label: Learn More
             url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
-        content: >
-          ![](https://www.dropbox.com/s/cs4qwa3s0ze66dj/PAC-Stewart_Portrait_forGFP-Website\_200x200\_byESS.png?dl=1)
+        content: |
+          ![](https://via.placeholder.com/200/09f/fff.png)
         actions:
           - label: Learn More
             url: /style-guide
