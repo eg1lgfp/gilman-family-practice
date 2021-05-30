@@ -2,7 +2,7 @@
 title: New Patients >
 weight: 1
 seo:
-  title: Overview
+  title: This is for New Patients
   description: This is the overview page
   extra:
     - name: 'og:type'
