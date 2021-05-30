@@ -38,7 +38,7 @@ subtitle: Serving the Health + Wellness of Patients All Over the Region Since 19
 ---
 ###### Welcome to the family >>>
 
-![](https://via.placeholder.com/500/09f/fff.png)
+![](/\_static/app-assets/Clinic_FrontView_byWG.jpg)
 
 > *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
 
