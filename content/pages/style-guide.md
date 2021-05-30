@@ -1,7 +1,7 @@
 ---
 image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
 seo:
-  title: About Clinic 
+  title: About Clinic
   description: >-
     An about page for general info about the clinic plus info about the medical
     providers
