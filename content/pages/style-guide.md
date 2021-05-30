@@ -48,19 +48,19 @@ subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+**Qualifications, Schools, Short-Bio/WorkEthic/Philosophy or ???:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. 
 
 ##### **Kristina A. Stewart, PA-C**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+**Qualifications, Schools, Short-Bio/WorkEthic/Philosophy or ???:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. 
 
 ##### **Laurie Dimler, ARNP**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+**Qualifications, Schools, Short-Bio/WorkEthic/Philosophy or ???:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. 
 
 ## **What is a D.O.?**
 
