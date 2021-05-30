@@ -38,7 +38,7 @@ subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1
 ---
 ###### Welcome to the clinic >>>
 
-![](/\_static/app-assets/Clinic_FrontView_byWG.jpg)
+
 
 > *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
 
@@ -70,4 +70,4 @@ Doctors of Osteopathy, or [**Osteopathic Physicians**](https://osteopathic.org/w
 
 Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
 
-An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
+An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
