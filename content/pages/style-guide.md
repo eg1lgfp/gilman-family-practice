@@ -36,8 +36,6 @@ layout: page
 title: Gilman Family Practice
 subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1990
 ---
-######
-
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
 > *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
