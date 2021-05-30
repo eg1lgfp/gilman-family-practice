@@ -17,8 +17,10 @@ sections:
         url: /docs/getting-started
         style: primary
 seo:
-  title: Overview
-  description: This is the overview page
+  title: Clinic Docs and Forms
+  description: >
+    This page and sections are all related to Gilman Family Practice clinic's
+    forms, docs for new and existing patients
   extra:
     - name: 'og:type'
       value: website

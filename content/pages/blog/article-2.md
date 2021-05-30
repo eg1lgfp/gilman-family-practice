@@ -8,7 +8,7 @@ date: '2019-03-10'
 thumb_image: images/splendid-chestnut.jpg
 image: images/2.jpg
 seo:
-  title: 'Article #2 on the Medical News & Info pages'
+  title: 'Article #2'
   description: |
     Update this data once 2nd Article is published on this page
   extra:

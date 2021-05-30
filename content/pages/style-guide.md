@@ -1,8 +1,10 @@
 ---
 image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: About Clinic
+  description: >-
+    An about page for general info about the clinic plus info about the medical
+    providers
   extra:
     - name: 'og:type'
       value: website
@@ -34,9 +36,9 @@ layout: page
 title: Gilman Family Practice
 subtitle: Serving the Health + Wellness of Patients All Over the Region Since 1990
 ---
-###### Welcome to the family >>>
+###### Welcome to the clinic >>>
 
-![](https://via.placeholder.com/500/09f/fff.png)
+![](/\_static/app-assets/Clinic_FrontView_byWG.jpg)
 
 > *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
 

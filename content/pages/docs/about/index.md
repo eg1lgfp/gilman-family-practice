@@ -4,8 +4,10 @@ excerpt: >-
   Libris is a Unibit theme created for project documentations. You can use it
   for your project.
 seo:
-  title: About
-  description: This is the about page
+  title: Patient Info + Enrollment
+  description: >
+    This is where patients of Gilman Family Practice can find all of the
+    clinic's forms and docs required for New and Existing patients
   extra:
     - name: 'og:type'
       value: website

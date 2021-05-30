@@ -148,7 +148,7 @@ sections:
         style: primary
 seo:
   title: Gilman Family Practice
-  description: The preview of the Libris theme
+  description: Health Clinic site adapted from the Stackbit Libris theme
   extra:
     - name: 'og:type'
       value: website
