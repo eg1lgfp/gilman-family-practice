@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Gilman Family Practice
+    title: Welcome to Gilman Family Practice
     actions:
       - label: About Us + Provider Info
         url: /style-guide
