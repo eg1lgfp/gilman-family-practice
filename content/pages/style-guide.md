@@ -46,13 +46,13 @@ subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://www.dropbox.com/s/fv2crvyy8rzycv1/DrGilman_Portrait_forGFP-WebsiteProfile_ESS\_100x100.png?dl=1)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://www.dropbox.com/s/54sshq6juzqhvrv/PAC-Stewart_Portrait_forGFP-Website\_100x100\_byESS.png?dl=1)
+![](https://via.placeholder.com/100/09f/fff.png)
 
 **Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
