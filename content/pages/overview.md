@@ -17,7 +17,7 @@ sections:
         url: /docs/getting-started
         style: primary
 seo:
-  title: Clinic Forms and Docs
+  title: Clinic Docs and Forms
   description: >
     This page and sections are all related to Gilman Family Practice clinic's
     forms, docs for new and existing patients
