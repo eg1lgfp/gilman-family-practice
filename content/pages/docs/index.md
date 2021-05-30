@@ -32,7 +32,7 @@ Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Bl
 
 #### **PRACTICE FORMS:**
 
-*   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
+*   [Patient Information Form](https://www.dropbox.com/s/jsppq1iehwi72yw/PatientInformation.pdf?dl=1)
 *   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
 *   [Medication List Form](https://www.dropbox.com/sh/jnlf6ltc7ab0do1/AACnYtYsnwy1OhPjkj_VDGWna?dl=1)
 *   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
