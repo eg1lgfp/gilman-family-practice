@@ -32,8 +32,9 @@ Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Bl
 
 #### **PRACTICE FORMS:**
 
-*   [Patient Information Form](http://drgcg.com/PatientInformation.pdf)
-*   [Authorization to Release Form](http://drgcg.com/AuthorizationForm.pdf)
-*   [Medication List Form](https://www.dropbox.com/sh/jnlf6ltc7ab0do1/AACnYtYsnwy1OhPjkj_VDGWna?dl=1)
-*   [Patient Consent Form](http://drgcg.com/PrivConAdult.pdf)
-*   [Informed Consent for Telemedicine](https://www.dropbox.com/s/5spcgqxw5yzhhzr/Informed%20Consent%20for%20Telemedicine%20Services%281%29.pdf?dl=1)
+*   [Patient Information Form](https://www.dropbox.com/s/jsppq1iehwi72yw/PatientInformation.pdf?dl=0)
+*   [Authorization to Release Form](https://www.dropbox.com/s/x8lruhdyvcos3gm/AuthorizationForm.pdf?dl=0)
+*   [Medication List Form](https://www.dropbox.com/s/coyjdzwgtgmzfjh/MedicationList.pdf?dl=0)
+*   [Patient Consent Adult](https://www.dropbox.com/s/k0uiuyil6wmoa3s/PrivConAdult.pdf?dl=0)
+*   [Patient Consent Minor](https://www.dropbox.com/s/7m3ta3w61vv5dv2/PrivConMinor.pdf?dl=0)
+*   [Informed Consent for Telemedicine](https://www.dropbox.com/s/1pch39gahsxzu21/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)

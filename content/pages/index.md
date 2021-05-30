@@ -110,9 +110,8 @@ sections:
             url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
-        content: |+
-          ![](https://via.placeholder.com/200/09f/fff.png)
-
+        content: >
+          ![](https://www.dropbox.com/s/cs4qwa3s0ze66dj/PAC-Stewart_Portrait_forGFP-Website\_200x200\_byESS.png?dl=1)
         actions:
           - label: Learn More
             url: /style-guide

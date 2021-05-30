@@ -52,7 +52,7 @@ subtitle: Serving the Health + Wellness of Patients All Over the Region Since 19
 
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://via.placeholder.com/100/09f/fff.png)
+![](https://www.dropbox.com/s/54sshq6juzqhvrv/PAC-Stewart_Portrait_forGFP-Website\_100x100\_byESS.png?dl=1)
 
 **Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
@@ -63,8 +63,6 @@ subtitle: Serving the Health + Wellness of Patients All Over the Region Since 19
 **Qualifications, education, short Bio:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
 
 ## **What is a D.O.?**
-
-**>> All of this is copy/pasted from www.drgcg.com. This can go here or a linked page from the "services" listed section of the Home Page**
 
 [**Doctors of Osteopathy**](https://osteopathic.org/what-is-osteopathic-medicine/what-is-a-do/) are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
 

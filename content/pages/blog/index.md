@@ -7,8 +7,11 @@ image: images/interesting-wallaby.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Blog Articles
+  description: >-
+    This is the blog page for Gilman Family Practice providers to share
+    latest/greatest medical news and info from the world of healthcare &
+    preventative medicine 
   extra:
     - name: 'og:type'
       value: website
