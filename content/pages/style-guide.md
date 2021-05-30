@@ -36,7 +36,7 @@ layout: page
 title: Gilman Family Practice
 subtitle: Serving the Health + Wellness of Patients All Over the Region Since 1990
 ---
-###### Welcome to the family >>>
+###### Welcome to the clinic >>>
 
 ![](/\_static/app-assets/Clinic_FrontView_byWG.jpg)
 
