@@ -26,11 +26,23 @@ layout: docs
 ---
 ##### **Insurance Information:**
 
+Please ***bring your insurance card and picture I.D. at the time of your appointment.*** Our receptionists are eager to help and discuss all payment options with you.
+
 Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
 
-> *Please verify with your insurance that we are an  in-network provider with your insurance plan, thank you*
+> *Please verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!*
 
-#### **PRACTICE FORMS:**
+#### **PAYMENT:**
+
+Payment is required at the time of your visit and can be made in several ways. We accept :
+
+*   credit cards (MasterCard®, Visa®, Discover®, and American Express®)
+
+*   cash
+
+*   check
+
+**PRACTICE FORMS:**
 
 *   [Patient Information Form](https://www.dropbox.com/s/jsppq1iehwi72yw/PatientInformation.pdf?dl=0)
 *   [Authorization to Release Form](https://www.dropbox.com/s/x8lruhdyvcos3gm/AuthorizationForm.pdf?dl=0)
