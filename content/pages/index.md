@@ -136,7 +136,7 @@ sections:
     content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
     actions:
       - url: /docs
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
