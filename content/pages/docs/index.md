@@ -50,3 +50,9 @@ Payment is required at the time of your visit and can be made in several ways. W
 *   [Patient Consent Adult](https://www.dropbox.com/s/k0uiuyil6wmoa3s/PrivConAdult.pdf?dl=0)
 *   [Patient Consent Minor](https://www.dropbox.com/s/7m3ta3w61vv5dv2/PrivConMinor.pdf?dl=0)
 *   [Informed Consent for Telemedicine](https://www.dropbox.com/s/1pch39gahsxzu21/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
+
+#### **NOTICE OF PRIVACY PRACTICES:**
+
+> *THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.  PLEASE REVIEW IT CAREFULLY.*
+
+The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality.
