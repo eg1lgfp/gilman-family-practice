@@ -55,4 +55,4 @@ Payment is required at the time of your visit and can be made in several ways. W
 
 > *This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.*
 
-The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality.
+The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality. [***Read more >>***](http://drgcg.com/NoticePrivacyPractices.pdf)
