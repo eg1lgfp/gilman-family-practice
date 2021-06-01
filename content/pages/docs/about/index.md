@@ -28,7 +28,7 @@ layout: docs
 ---
 Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
 
-We recommend that you arriving approximately 15 minutes prior to your scheduled appointment. This allows ample time for you to be registered and complete any needed forms. And, then call the office and wait for someone will let you inside (this is a COVID-19 measure that is subject to change as new guidance is received).
+> *We recommend that you arriving approximately 15 minutes prior to your scheduled appointment. This allows ample time for you to be registered and complete any needed forms. And, then call the office and wait for someone will let you inside (this is a COVID-19 measure that is subject to change as new guidance is received).*
 
 #### Friendly Reminders:
 
