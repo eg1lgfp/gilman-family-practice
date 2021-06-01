@@ -24,7 +24,9 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-##### **Insurance Information:**
+> Welcome to our Family Practice! We are so pleased you have placed your trust in us by becoming a patient. We understand the process of selecting a new provider can be overwhelming . Our caring staff is here to help make your transition into our practice smooth and pleasant.
+
+#### **INSURANCE INFORMATION:**
 
 Please ***bring your insurance card and picture I.D. at the time of your appointment.*** Our receptionists are eager to help and discuss all payment options with you.
 
