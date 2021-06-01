@@ -135,7 +135,7 @@ sections:
     image_position: left
     content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
     actions:
-      - url: '#'
+      - url: /docs
         style: link
         icon_class: dev
         new_window: false
