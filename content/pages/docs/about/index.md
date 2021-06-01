@@ -28,4 +28,17 @@ layout: docs
 ---
 Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
 
-> *We are always accepting new patients. Our goal is to provide a superior patient experience for each and every person. We look forward to having you join our host of satisfied patients.*
+We recommend that you arriving approximately 15 minutes prior to your scheduled appointment. This allows ample time for you to be registered and complete any needed forms.
+
+
+Friendly Reminders:
+    
+
+
+    
+
+    
+
+    
+
+**
