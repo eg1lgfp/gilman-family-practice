@@ -141,6 +141,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: Let's go to
     type: section_content
   - section_id: cta
     type: section_cta
