@@ -133,7 +133,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
+    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n\n> *We are always accepting new patients. Our goal is to provide a superior patient experience for each and every person. We look forward to having you join our host of satisfied patients.*\n"
     actions:
       - url: /docs
         style: primary
