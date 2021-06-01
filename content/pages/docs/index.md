@@ -36,11 +36,11 @@ Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Bl
 
 Payment is required at the time of your visit and can be made in several ways. We accept :
 
-*   credit cards (MasterCard®, Visa®, Discover®, and American Express®)
+➡️ credit cards (MasterCard®, Visa®, Discover®, and American Express®)
 
-*   cash
+➡️ cash
 
-*   check
+➡️ check
 
 **PRACTICE FORMS:**
 
