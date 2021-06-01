@@ -134,7 +134,14 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
-    actions: []
+    actions:
+      - url: /docs
+        style: primary
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+        label: How to Become a Patient >>
     type: section_content
   - section_id: cta
     type: section_cta
