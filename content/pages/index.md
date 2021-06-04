@@ -3,12 +3,11 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to Gilman Family Practice
     actions:
       - label: About Us + Provider Info
         url: /style-guide
         style: primary
-    image: images/Clinic_FrontView-Pathway_byWG.jpg
+    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
@@ -133,7 +132,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n\n> *We are currently accepting new patients on a case-by-case basis due to our limited size & resources. Please call us to find out if this will work for you!*\n"
+    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
     actions:
       - url: /docs
         style: primary
