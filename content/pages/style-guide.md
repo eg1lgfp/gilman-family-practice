@@ -36,7 +36,7 @@ layout: page
 title: >-
   A Catchy-One-Liner Like 'Serving the Community Since 19XX' Would Work Well
   Here
-subtitle: 'Or, The Same '
+subtitle: 'Or, The Same Clinic Slogan or Tagline'
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
