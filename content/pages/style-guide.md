@@ -45,19 +45,19 @@ title: Serving our Community since 19XX
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies \[ Bee-keeping, Gardening, Hiking, Biking, Exploring ] :** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Kristina A. Stewart, PA-C**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies \[ Bee-keeping? Gardening? Hiking, Biking, Exploring ] :** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Laurie Dimler, ARNP**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies \[ Bee-keeping? Gardening? Hiking, Biking, Exploring ] :** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ## **What is a D.O.?**
 
