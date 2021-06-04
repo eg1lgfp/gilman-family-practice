@@ -51,7 +51,7 @@ sections:
 
 
           ➡️  [**American Academy of Family
-          Physicians**](https://www.aafp.org/home.html)****
+          Physicians**](https://www.aafp.org/home.html)
         actions:
           - label: COVID-19 INFO PAGE
             url: /style-guide
