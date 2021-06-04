@@ -7,7 +7,7 @@ sections:
       - label: About Us + Provider Info
         url: /style-guide
         style: primary
-    image: images/green-amaranth.png
+    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
