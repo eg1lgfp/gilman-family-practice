@@ -4,8 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     actions:
-      - label: About Us + Provider Info
-        url: /style-guide
+      - label: Let's go to Clinic Info & Forms
+        url: /docs
         style: primary
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
@@ -15,9 +15,6 @@ sections:
       - title: Office Information
         content: "##### **Hours:**\n\n**➡️  Mon - Thurs | 8am - 5pm**\n\n**➡️  Friday | 8:30am - 5pm**\n\n**➡️  Sat - Sun | Closed**\n\n##### **☎️  509-924-4681**\n\n##### **Location:**\n\n##### \U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n"
         actions:
-          - label: Let's go to PATIENT FORMS
-            url: /docs
-            style: primary
           - label: Let's go to PATIENT PORTAL
             style: primary
             icon_class: dev
@@ -54,7 +51,7 @@ sections:
 
 
           ➡️  [**American Academy of Family
-          Physicians**](https://www.aafp.org/home.html)
+          Physicians**](https://www.aafp.org/home.html)****
         actions:
           - label: Let's go
             url: /style-guide
@@ -62,17 +59,6 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: "\U0001F489 COVID-19 Information \U0001F637"
-    content: >
-      ➡️        [**Pfizer's Covid 19
-      Hub**](https://www.pfizer.com/science/coronavirus)
-
-
-      ➡️      [ 
-      **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
-
-
-      ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
       - label: Spokane Regional Health Dept
         url: 'https://srhd.org/'
@@ -89,13 +75,7 @@ sections:
         style: primary
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
-  - title: "☤\_Our Services ☤"
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Health Education | Diet Consultation | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
-    actions: []
-    type: section_content
+    content: "## **\U0001F489 COVID-19 Information \U0001F637**\n\n➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)\n"
   - section_id: features-two-col
     type: section_grid
     title: "\U0001FA7A\_ Meet our providers! \U0001F493"
@@ -129,6 +109,13 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+  - title: "☤\_Our Services ☤"
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Telemedicine | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Health Education | Diet Consultation | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
+    actions: []
+    type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
