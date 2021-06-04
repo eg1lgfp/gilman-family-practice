@@ -1,5 +1,5 @@
 ---
-title: 4th Article/Journal Title Here
+title: 3rd Article/Journal Title Here
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
