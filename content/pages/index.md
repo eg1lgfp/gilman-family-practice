@@ -86,13 +86,6 @@ sections:
         style: primary
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
-  - title: "☤\_Our Services ☤"
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Health Education | Diet Consultation | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
-    actions: []
-    type: section_content
   - section_id: features-two-col
     type: section_grid
     title: "\U0001FA7A\_ Meet our providers! \U0001F493"
@@ -126,6 +119,13 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+  - title: "☤\_Our Services ☤"
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: "> **This is a snapshot of our services, please call us to inquire on others not listed**\n\nPrimary Family Care | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Health Education | Diet Consultation | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
+    actions: []
+    type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
