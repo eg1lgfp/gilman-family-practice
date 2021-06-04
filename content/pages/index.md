@@ -56,7 +56,7 @@ sections:
           - label: COVID-19 INFO PAGE
             url: /style-guide
             style: primary
-          - label: S
+          - label: XSpokane Regional Health Dept
             url: '#'
             style: primary
             icon_class: dev
