@@ -24,13 +24,11 @@ layout: docs
 ---
 > **Form instructions:**
 >
->  
->
 > *e.g., complete + print + bring into office on day of enrollment or as required*
 
-➡️ Form 1
+[**➡️ Informed Consent for Telemedicine Services**](https://www.dropbox.com/s/fmrl5d5g1pezxub/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
 
-➡️ Form 3
+[**➡️ Medical Records Release PHI to GilmanFP**](https://www.dropbox.com/s/o927egpjwjbg5b4/Medical%20Records%20Release%20PHI%20to%20GilmanFP.pdf?dl=0)
 
 ➡️ Form 4
 
