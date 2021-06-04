@@ -59,7 +59,6 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    title: "\U0001F489 COVID-19 Information \U0001F637"
     content: >
       ➡️        [**Pfizer's Covid 19
       Hub**](https://www.pfizer.com/science/coronavirus)
