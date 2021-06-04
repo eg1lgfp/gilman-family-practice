@@ -33,7 +33,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
-title: A Catchy-One-Liner Like 'Serving the Community Since 19XX' Would Work Well
+title: A Catchy-One-Liner Like 'Serving the Community Since 19XX' Would Work Well Here
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
