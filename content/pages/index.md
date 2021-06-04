@@ -7,7 +7,7 @@ sections:
       - label: About Us + Provider Info
         url: /style-guide
         style: primary
-    image: images/Clinic_FrontView-Pathway_byWG.jpg
+    image: images/green-amaranth.png
   - section_id: features
     type: section_grid
     col_number: three
