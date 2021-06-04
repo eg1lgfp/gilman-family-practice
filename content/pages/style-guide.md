@@ -34,7 +34,6 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1990
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
