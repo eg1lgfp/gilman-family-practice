@@ -63,6 +63,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
   - section_id: text-img
     type: section_content
     image_position: left
