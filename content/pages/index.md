@@ -51,11 +51,31 @@ sections:
 
 
           ➡️  [**American Academy of Family
-          Physicians**](https://www.aafp.org/home.html)****
+          Physicians**](https://www.aafp.org/home.html)
         actions:
-          - label: Let's go
-            url: /style-guide
-            style: link
+          - label: COVID-19 INFO PAGE
+            style: primary
+          - label: Spokane Regional Health Dept
+            url: 'https://srhd.org/'
+            style: primary
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
+          - label: WA State Dept of Health
+            url: 'https://coronavirus.wa.gov/'
+            style: primary
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
+          - label: CDC Guidance
+            url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
+            style: primary
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
   - section_id: text-img
     type: section_content
     image_position: left

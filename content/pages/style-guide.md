@@ -1,5 +1,5 @@
 ---
-image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
+image: images/FrontDoor of Clinic June 2021.jpg
 seo:
   title: About Clinic
   description: >-
