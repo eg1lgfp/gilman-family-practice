@@ -56,7 +56,7 @@ sections:
           - label: COVID-19 INFO PAGE
             url: /style-guide
             style: primary
-          - label: lorem-ipsum
+          - label: S
             url: '#'
             style: primary
             icon_class: dev
