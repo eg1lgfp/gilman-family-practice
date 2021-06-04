@@ -53,7 +53,7 @@ sections:
           ➡️  [**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)****
         actions:
-          - label: Let's go
+          - label: COVID-19 INFO PAGE
             url: /style-guide
             style: primary
           - label: lorem-ipsum
