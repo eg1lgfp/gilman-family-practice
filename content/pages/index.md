@@ -54,7 +54,6 @@ sections:
           Physicians**](https://www.aafp.org/home.html)
         actions:
           - label: COVID-19 INFO PAGE
-            url: /style-guide
             style: primary
           - label: Spokane Regional Health Dept
             url: 'https://srhd.org/'
