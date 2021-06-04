@@ -133,7 +133,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n\n> *We are currently accepting new patients on a case-by-case basis due to our limited size & resources. Please call us to find out if this will work for you!*\n"
+    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
     actions:
       - url: /docs
         style: primary
