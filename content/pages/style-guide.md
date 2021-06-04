@@ -33,8 +33,12 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
-title: Gilman Family Practice
-subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1990
+title: >-
+  A Catchy-One-Liner Like 'Serving the Community Since 19XX' Would Work Well
+  Here
+subtitle: >-
+  Or, The Same Clinic Slogan or Tagline Could Go Here/Smaller as a Sub-Heading
+  Vs. Page Head Size Above
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
@@ -46,19 +50,19 @@ subtitle: Serving the Health + Wellbeing of Patients All Over the Region Since 1
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies \[ Bee-keeping, Gardening, Hiking, Biking, Exploring ] :** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Kristina A. Stewart, PA-C**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies \[ Bee-keeping? Gardening? Hiking, Biking, Exploring ] :** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Laurie Dimler, ARNP**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies \[ Bee-keeping? Gardening? Hiking, Biking, Exploring ] :** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ## **What is a D.O.?**
 
