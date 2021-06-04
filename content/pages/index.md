@@ -5,7 +5,7 @@ sections:
     type: section_hero
     actions:
       - label: Let's go to Clinic Info & Forms
-        url: /style-guide
+        url: /docs
         style: primary
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
