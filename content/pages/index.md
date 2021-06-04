@@ -43,7 +43,7 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n## **\U0001F489 COVID-19 Information \U0001F637**\n\n"
+        content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n## **\U0001F489 COVID-19 Information \U0001F637**\n\n➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)\n"
         actions:
           - label: Let's go
             url: /style-guide
