@@ -57,7 +57,7 @@ sections:
             url: /style-guide
             style: primary
           - label: Spokane Regional Health Dept
-            url: '#'
+            url: 'https://srhd.org/'
             style: primary
             icon_class: dev
             new_window: false
