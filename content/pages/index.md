@@ -63,7 +63,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: WA State Dept of Health
             url: '#'
             style: primary
             icon_class: dev
