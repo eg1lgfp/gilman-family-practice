@@ -51,16 +51,6 @@ sections:
   - section_id: text-img
     type: section_content
     image_position: left
-    content: >
-      ➡️        [**Pfizer's Covid 19
-      Hub**](https://www.pfizer.com/science/coronavirus)
-
-
-      ➡️      [ 
-      **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
-
-
-      ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
     actions:
       - label: Spokane Regional Health Dept
         url: 'https://srhd.org/'
