@@ -63,7 +63,7 @@ sections:
             no_follow: false
             type: action
           - label: WA State Dept of Health
-            url: '#'
+            url: 'https://coronavirus.wa.gov/'
             style: primary
             icon_class: dev
             new_window: false
