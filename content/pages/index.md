@@ -55,7 +55,7 @@ sections:
         actions:
           - label: Let's go
             url: /style-guide
-            style: link
+            style: primary
           - label: lorem-ipsum
             url: '#'
             style: link
