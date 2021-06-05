@@ -3,7 +3,7 @@ title: Medical News & Information
 subtitle: >-
   Come to this page periodically to stay informed on local, state & national
   medical news, including: insightful articles, journals & videos
-image: images/FrontDoor of Clinic June 2021.jpg
+image: images/SpokaneRiver_byWG-EG_June2021.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
