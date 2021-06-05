@@ -33,9 +33,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
-title: >-
-  A Catchy-One-Liner Like 'Serving the Community Since 19XX' Would Work Well
-  Here
+title: Short Phrase here or Below
 subtitle: >-
   Or, The Same Clinic Slogan or Tagline Could Go Here/Smaller as a Sub-Heading
   Vs. Page Head Size Above
