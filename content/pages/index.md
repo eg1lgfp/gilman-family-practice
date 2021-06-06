@@ -76,27 +76,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-  - section_id: COVID19
-    type: section_content
-    image_position: left
-    actions:
-      - label: Spokane Regional Health Dept
-        url: 'https://srhd.org/'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-      - label: CDC Guidance
-        url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
-        style: primary
-      - label: WA State Dept of Health
-        url: 'https://coronavirus.wa.gov/'
-        style: primary
-    image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
-    image_alt: 'Photo by Clayton on Unsplash '
-    content: "## **\U0001F489 COVID-19 Information \U0001F637**\n\n➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)\n"
-    title: COVID-19 Information
   - section_id: features-two-col
     type: section_grid
     title: "\U0001FA7A\_ Meet our providers! \U0001F493"
@@ -130,6 +109,27 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+  - section_id: COVID19
+    type: section_content
+    image_position: left
+    actions:
+      - label: Spokane Regional Health Dept
+        url: 'https://srhd.org/'
+        style: primary
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+      - label: CDC Guidance
+        url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
+        style: primary
+      - label: WA State Dept of Health
+        url: 'https://coronavirus.wa.gov/'
+        style: primary
+    image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
+    image_alt: 'Photo by Clayton on Unsplash '
+    content: "## **\U0001F489 COVID-19 Information \U0001F637**\n\n➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)\n"
+    title: COVID-19 Information
   - title: "☤\_Our Services ☤"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
