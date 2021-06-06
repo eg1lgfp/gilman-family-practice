@@ -76,7 +76,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-  - section_id: text-img
+  - section_id: COVID19
     type: section_content
     image_position: left
     actions:
