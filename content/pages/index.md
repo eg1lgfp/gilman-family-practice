@@ -8,8 +8,8 @@ sections:
         url: /docs
         style: primary
     image: images/FrontDoor of Clinic June 2021.jpg
-    content: |
-      ![](/\_static/app-assets/Asset%204GilmanFP%20Logo+WordMark%20V3.png)
+    content: >
+      ![](https://www.dropbox.com/s/4dkljwozk429m6e/Asset%204GilmanFP%20Logo%2BWordMark%20V3.png?raw=1)
   - section_id: features
     type: section_grid
     col_number: three
