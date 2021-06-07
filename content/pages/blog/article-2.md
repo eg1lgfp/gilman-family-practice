@@ -37,7 +37,7 @@ seo:
 layout: post
 subtitle: >-
   Come back here periodically to check on latest/greatest Covid-19 Info and How
-  this impact you
+  it impacts our operations at the clinic and more...
 ---
 # **Lorem ipsum dolor sit amet**, 
 
