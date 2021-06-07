@@ -5,7 +5,6 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet
   dictum sit. Duis ut diam quam nulla porttitor massa id neque.
-date: '2018-01-15'
 image: images/1.jpg
 seo:
   title: 'Article #3'
