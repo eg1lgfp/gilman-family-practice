@@ -44,6 +44,8 @@ subtitle: >-
 
 > **LOCAL, STATE AND CDC: GUIDANCE + MANDATES + NEWS UPDATES**
 
+### Current Clinic Covid-19 Counter-Measures:
+
 ***
 
 ➡️  [**Spokane Regional Health Department**](https://srhd.org/)

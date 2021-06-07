@@ -1,5 +1,5 @@
 ---
-title: ➡️ Your One-Stop-Shop for Clinic Info & Forms
+title: ✅ Your One-Stop-Shop for Clinic Info & Forms
 seo:
   title: Docs and Forms
   description: >+
@@ -24,15 +24,15 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-#### **INSURANCE INFORMATION:**
+### **INSURANCE INFORMATION:**
 
-Please ***bring your insurance card and picture I.D. at the time of your appointment.***
+✅ Please ***bring your insurance card and picture I.D. at the time of your appointment.***
 
 Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
 
-> *Please verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!*
+> *Please ✅ verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!*
 
-#### **NOTICE OF PRIVACY PRACTICES:**
+### ⚠️ **NOTICE OF PRIVACY PRACTICES:**
 
 > *The info below describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.*
 
