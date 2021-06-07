@@ -9,7 +9,7 @@ sections:
         style: primary
     image: images/FrontDoor of Clinic June 2021.jpg
     content: >
-      ![](https://www.dropbox.com/s/f2jtszflbma77up/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline%20byESS_Smaller.png?raw=1)
+      ![](https://www.dropbox.com/s/4z7215rvmaurm5f/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline-LtBlue200-letters_byESS.png?raw=1)
   - section_id: features
     type: section_grid
     col_number: three
