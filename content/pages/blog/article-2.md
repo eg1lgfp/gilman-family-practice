@@ -6,7 +6,7 @@ excerpt: >-
   nam libero justo laoreet sit.
 date: '2019-03-10'
 thumb_image: images/Clinic_FrontView-Pathway_byWG.jpg
-image: images/2.jpg
+image: images/incredible-tomato.jpg
 seo:
   title: 'Article #2'
   description: |
