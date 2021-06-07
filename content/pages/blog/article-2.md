@@ -38,7 +38,13 @@ subtitle: >-
   Come back here periodically to check on latest/greatest Covid-19 Info and How
   it impacts our operations at the clinic and more...
 ---
+****![](/\_static/app-assets/Patient_CovidVax-Decision-Graphic_ess\_20210515%20copy.png)
+
+****
+
 > **LOCAL, STATE AND CDC: GUIDANCE + MANDATES + NEWS UPDATES**
+
+****
 
 ➡️  [**Spokane Regional Health Department**](https://srhd.org/)
 
