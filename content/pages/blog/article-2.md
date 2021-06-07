@@ -3,7 +3,7 @@ title: "\U0001F489 COVID-19 Information \U0001F637"
 excerpt: |-
   Come back here periodically to check on latest/greatest Covid-19 Info 
   and How it impacts our operations at the clinic and more...
-date: '2019-06-10'
+date: '0002-06-10'
 thumb_image: images/Clinic_FrontView-Pathway_byWG.jpg
 image: images/incredible-tomato.jpg
 seo:
