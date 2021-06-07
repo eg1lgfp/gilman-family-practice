@@ -40,9 +40,9 @@ subtitle: >-
 ---
 > **Local, State, National + CDC links:**
 
-**➡️   **[**Spokane Regional Health Department**](https://srhd.org/)
 
-➡️
+
+➡️  [**Spokane Regional Health Department**](https://srhd.org/)
 
 ➡️
 
