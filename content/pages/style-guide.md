@@ -44,25 +44,25 @@ subtitle: 'And/Or, put the short phrase/tagline that patients could relate to he
 
 ##### **Bryce H. Gilman, D.O.**
 
-Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since.  
+Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
 After over 15 years, Bryce still loves family medicine—every day is different and full of interesting and wonderful people.  You never know what the day will bring.  If he won the lottery tomorrow, Bryce would definitely retire to New Zealand. However, that is a fairly unlikely occurrence as one has to play to win after all. So, keeping on here is a pretty great second prize. Outside the office, Bryce loves dogs and the water but not wet dogs. He enjoys reading scary tales, both real and imagined.  He would be hard pressed to choose between watching a monster movie, building a Lego set or playing a video game with his boys. He used to be cool, but all that’s left of that is his shoes. 
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Kristina A. Stewart, PA-C**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Laurie Dimler, ARNP**
 
 ![](https://via.placeholder.com/100/09f/fff.png)
 
-**Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ## **What is a D.O.?**
 
