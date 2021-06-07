@@ -30,7 +30,7 @@ layout: docs
 
 Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan
 
-> *Please *✅ *verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!*
+> *Please ✅ verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!*
 
 ### ⚠️ **NOTICE OF PRIVACY PRACTICES:**
 
