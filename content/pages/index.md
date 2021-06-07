@@ -45,7 +45,7 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: >+
+        content: >
           **➡️   Diabetic Diet**
 
 
@@ -56,12 +56,7 @@ sections:
           Physicians**](https://www.aafp.org/home.html)
 
 
-          # ⬇️ COVID-19 Information ⬇️
-
-
-
-
-
+          ### ⬇️ COVID-19 Information ⬇️
         actions:
           - label: COVID-19 INFO PAGE
             style: primary
