@@ -34,7 +34,9 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: 'And/Or, put the short phrase/tagline that patients could relate to here'
+subtitle: >-
+  High Quality, Modern Healthcare in a Small Setting. You are more than just a
+  number to us
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
