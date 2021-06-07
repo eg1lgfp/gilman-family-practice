@@ -40,7 +40,7 @@ subtitle: >-
 ---
 > **Local, State, National + CDC links:**
 
-➡️
+➡️ [Spokane Regional Health Department](https://srhd.org/)
 
 ➡️
 
@@ -48,8 +48,8 @@ subtitle: >-
 
 ➡️
 
-➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
+➡️  [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
 
-➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+➡️  [**Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
-➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
+➡️  [**Johnson & Johnson**](https://www.jnj.com/covid-19)
