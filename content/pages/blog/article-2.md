@@ -44,11 +44,9 @@ subtitle: >-
 
 > **LOCAL, STATE AND CDC: GUIDANCE + MANDATES + NEWS UPDATES**
 
-***
+### ****
 
-☡ Current Clinic Covid-19 Counter-Measures: 
-
-
+###  Current Clinic Covid-19 Counter-Measures:
 
 ***
 
