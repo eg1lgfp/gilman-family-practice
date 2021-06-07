@@ -38,7 +38,7 @@ subtitle: >-
   Come back here periodically to check on latest/greatest Covid-19 Info and How
   it impacts our operations at the clinic and more...
 ---
-# **Local, State, National + CDC links:**
+> **Local, State, National + CDC links:**
 
 ➡️
 
