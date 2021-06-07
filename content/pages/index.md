@@ -45,15 +45,7 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: >
-          **➡️   Diabetic Diet**
-
-
-          **➡️   Allergy Info**
-
-
-          ➡️  [**American Academy of Family
-          Physicians**](https://www.aafp.org/home.html)
+        content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n#### \U0001F489 COVID-19 ⬇️ Information \U0001F637\n"
         actions:
           - label: COVID-19 INFO PAGE
             style: primary
@@ -112,36 +104,6 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-  - section_id: COVID19
-    type: section_content
-    image_position: left
-    actions:
-      - label: Spokane Regional Health Dept
-        url: 'https://srhd.org/'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-      - label: CDC Guidance
-        url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
-        style: primary
-      - label: WA State Dept of Health
-        url: 'https://coronavirus.wa.gov/'
-        style: primary
-    image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
-    image_alt: 'Photo by Clayton on Unsplash '
-    content: >
-      ➡️        [**Pfizer's Covid 19
-      Hub**](https://www.pfizer.com/science/coronavirus)
-
-
-      ➡️      [ 
-      **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
-
-
-      ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
-    title: "\U0001F489 COVID-19 Information \U0001F637"
   - title: "☤\_Our Services ☤"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
