@@ -1,5 +1,5 @@
 ---
-title: Medical News & Information
+title: Medical News & Info
 subtitle: >-
   Come to this page periodically to stay informed on local, state & national
   medical news, including: insightful articles, journals & videos
