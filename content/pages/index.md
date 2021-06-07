@@ -130,8 +130,17 @@ sections:
         style: primary
     image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
     image_alt: 'Photo by Clayton on Unsplash '
-    content: "## **\U0001F489 COVID-19 Information \U0001F637**\n\n➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)\n\n➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)\n\n➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)\n"
-    title: COVID-19 Information
+    content: >
+      ➡️        [**Pfizer's Covid 19
+      Hub**](https://www.pfizer.com/science/coronavirus)
+
+
+      ➡️      [ 
+      **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+
+
+      ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
+    title: "\U0001F489 COVID-19 Information \U0001F637"
   - title: "☤\_Our Services ☤"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
