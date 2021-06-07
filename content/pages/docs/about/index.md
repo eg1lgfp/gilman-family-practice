@@ -40,4 +40,4 @@ Whether you are a new patient or there are changes in your insurance or contact 
 
 ✅  Bring an up to date list of all your medications or your prescription bottles with you.
 
- ➡️ [***Let's go to Medications List***](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0)*** ***📋
+➡️ [***Let's go to Medications List***](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) 📋
