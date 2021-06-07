@@ -4,7 +4,7 @@ excerpt: |-
   Come back here periodically to check on latest/greatest Covid-19 Info 
   and How it impacts our operations at the clinic and more...
 date: '2021-06-07'
-thumb_image: images/Clinic_FrontView-Pathway_byWG.jpg
+thumb_image: images/Patient_CovidVax-Decision-Graphic_ess_20210515 copy.png
 image: images/incredible-tomato.jpg
 seo:
   title: 'Article #2'
