@@ -38,4 +38,6 @@ Whether you are a new patient or there are changes in your insurance or contact 
 
 ✅  Please be ready to make your co-pay during your visit
 
-##### ✅  Bring an up to date list of all your medications or your prescription bottles with you.  📋 ***Let's go to Medications List >>***
+✅  Bring an up to date list of all your medications or your prescription bottles with you.  
+
+📋 ***Let's go to Medications List >>***
