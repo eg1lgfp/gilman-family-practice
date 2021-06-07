@@ -1,5 +1,5 @@
 ---
-title: Medical News & Information
+title: "\U0001F489 COVID-19 Information \U0001F637"
 subtitle: >-
   Come to this page periodically to stay informed on local, state & national
   medical news, including: insightful articles, journals & videos
