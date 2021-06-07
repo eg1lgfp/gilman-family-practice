@@ -35,8 +35,8 @@ seo:
 layout: page
 title: Gilman Family Practice
 subtitle: >-
-  High Quality, Modern Healthcare in a Small Setting. You are more than just a
-  number to us
+  High quality, modern healthcare in a small practice setting. You are more than
+  just a number to us. Welcome.
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
