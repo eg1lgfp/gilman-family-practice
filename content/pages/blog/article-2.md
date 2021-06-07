@@ -35,7 +35,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: post
-subtitle: 'Come back here periodically to check on latest/greatest Covid-19 '
+subtitle: Come back here periodically to check on latest/greatest Covid-19 Info
 ---
 # **Lorem ipsum dolor sit amet**, 
 
