@@ -33,7 +33,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: page
-title: Short Phrase here or Below
+title: Gilman Family Practice
 subtitle: 'And/Or, put the short phrase/tagline that patients could relate to here'
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
