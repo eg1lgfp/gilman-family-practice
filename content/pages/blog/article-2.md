@@ -46,6 +46,12 @@ subtitle: >-
 
 ***
 
+☡ Current Clinic Covid-19 Counter-Measures: 
+
+
+
+***
+
 ➡️  [**Spokane Regional Health Department**](https://srhd.org/)
 
 ➡️  [**CDC Guidance**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
