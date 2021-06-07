@@ -34,9 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 title: Short Phrase here or Below
-subtitle: >-
-  Or, put the short phrase that patients could relate to here (I'll email w/some
-  examples after my finals are complete 6/10/2021)
+subtitle: 'And/Or, put the short phrase/tagline that patients could relate to here'
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
