@@ -40,13 +40,11 @@ subtitle: >-
 ---
 > **Local, State, National + CDC links:**
 
-
-
 ➡️  [**Spokane Regional Health Department**](https://srhd.org/)
 
-➡️
+➡️  [**CDC Guidance**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
-➡️
+➡️  [**Washington State Covid-19 Hub**](https://coronavirus.wa.gov/)
 
 ➡️   [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
 
