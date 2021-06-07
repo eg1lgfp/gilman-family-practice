@@ -38,11 +38,18 @@ subtitle: >-
   Come back here periodically to check on latest/greatest Covid-19 Info and How
   it impacts our operations at the clinic and more...
 ---
-# **Lorem ipsum dolor sit amet**, 
+# **Local, State, National + CDC links:**
+
+➡️
+
+➡️
+
+➡️
+
+➡️
 
 ➡️        [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
 
 ➡️      [  **Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
 ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
-
