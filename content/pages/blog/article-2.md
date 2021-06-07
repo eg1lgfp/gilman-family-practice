@@ -1,5 +1,5 @@
 ---
-title: 2nd Article/Journal Title Here
+title: "\U0001F489 COVID-19 Information \U0001F637"
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
