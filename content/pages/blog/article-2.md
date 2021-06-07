@@ -1,9 +1,8 @@
 ---
 title: "\U0001F489 COVID-19 Information \U0001F637"
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
+excerpt: |-
+  Come back here periodically to check on latest/greatest Covid-19 Info 
+  and How it impacts our operations at the clinic and more...
 date: '2019-03-10'
 thumb_image: images/Clinic_FrontView-Pathway_byWG.jpg
 image: images/incredible-tomato.jpg
