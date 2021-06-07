@@ -40,7 +40,7 @@ subtitle: >-
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
-> *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
+> ***Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.  We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.  Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.***
 
 ## **Our Provider Family**
 
