@@ -45,7 +45,7 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n### \U0001F489 COVID-19 ⬇️ Information\n"
+        content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n#### \U0001F489 COVID-19 ⬇️ Information \U0001F637\n"
         actions:
           - label: COVID-19 INFO PAGE
             style: primary
