@@ -140,7 +140,7 @@ sections:
 
 
       ➡️     [   **Johnson & Johnson**](https://www.jnj.com/covid-19)
-    title: "\U0001F489 COVID-19 Information"
+    title: "\U0001F489 COVID-19 Information \U0001F637"
   - title: "☤\_Our Services ☤"
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
