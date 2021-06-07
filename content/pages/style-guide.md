@@ -40,29 +40,27 @@ subtitle: >-
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
-> *Our goal is to deliver caring and comprehensive care in an atmosphere of respect between the patient and our staff. We are a dedicated team committed to high quality and cost effective health care by focusing our efforts on patient wellness, continuous improvement of our services and growth to meet the changing needs of our community.*
+> ***Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.  We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.  Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.***
 
 ## **Our Provider Family**
 
 ##### **Bryce H. Gilman, D.O.**
 
+![](https://www.dropbox.com/s/kw7e9jfai86hyo5/DrGilman_Portrait_forGFP-ProviderInfo%2BBio_ess\_200x200.png?raw=1)
+
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
 After over 15 years, Bryce still loves family medicine—every day is different and full of interesting and wonderful people.  You never know what the day will bring.  If he won the lottery tomorrow, Bryce would definitely retire to New Zealand. However, that is a fairly unlikely occurrence as one has to play to win after all. So, keeping on here is a pretty great second prize. Outside the office, Bryce loves dogs and the water but not wet dogs. He enjoys reading scary tales, both real and imagined.  He would be hard pressed to choose between watching a monster movie, building a Lego set or playing a video game with his boys. He used to be cool, but all that’s left of that is his shoes. 
 
-![](https://via.placeholder.com/100/09f/fff.png)
-
-**Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
-
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/200/09f/fff.png)
 
 **Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
 ##### **Laurie Dimler, ARNP**
 
-![](https://via.placeholder.com/100/09f/fff.png)
+![](https://via.placeholder.com/200/09f/fff.png)
 
 **Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
 
