@@ -25,6 +25,6 @@ layout: docs
 ---
 > When it's time to make an appointment, please consider 🤔 if it's something a quick **telemedicine appt** is sufficient \[e.g., using your phone, tabale or computer to Zoom, Facetime, etc, to meet with your provider ] which could save you the time + travel of getting to and from the clinic, getting in-processed, etc..
 
-🏥
+# For 🏥 In-Person or 📲  🖥️ 💻 Telemedicine, just call the clinic and we'll help you determine which type of appointment is best for you and yours: 509-924-4681
 
-📲  🖥️ 💻
+#
