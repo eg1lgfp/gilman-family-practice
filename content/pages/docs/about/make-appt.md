@@ -25,9 +25,7 @@ layout: docs
 ---
 > When it's time to make an appointment, please consider 🤔 if it's something a quick **virtual / telemedicine appt** could handle \[e.g., using your phone, tablet or computer to Zoom, Facetime, etc, to meet with your provider ]. Especially if you're having Covid-19 symtoms is the safest option. And, it will save you the time + travel expenses of getting to and from the clinic, getting in-processed, etc..
 
-### ➔ For 🏥 *IN-PERSON* or,
-
-### 📲  🖥️ 💻 *TELEMEDICINE*, just call the clinic and we'll help you determine which type of appointment is best + walk you through the process: 509-924-4681
+### ➔ For 🏥 *IN-PERSON* **or** 📲  🖥️ 💻 *TELEMEDICINE*, just call the clinic and we'll help you determine which type of appointment is best + walk you through the process: 509-924-4681
 
 ☑️ **Use this form for ➡️**[**TELEMEDICINE APPOINTMENTS**](https://www.dropbox.com/s/mmf47ogm0z8fihx/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
 
