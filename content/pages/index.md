@@ -31,7 +31,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: '>>'
+          - label: COVID-19 SYMPTOMS?
             url: '#'
             style: secondary
             icon_class: dev
