@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4CB Patient Enrollment ➔ Forms ➔ Appointments \U0001F4C5"
+title: "Patient Enrollment\_ + Forms + Appointments"
 excerpt: >-
   Libris is a Unibit theme created for project documentations. You can use it
   for your project.
