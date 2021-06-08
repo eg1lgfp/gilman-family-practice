@@ -1,5 +1,5 @@
 ---
-title: Patient Enrollment ➔ Forms ➔ Appointments
+title: "Patient Enrollment\_ + Forms + Appointments"
 excerpt: >-
   Libris is a Unibit theme created for project documentations. You can use it
   for your project.
