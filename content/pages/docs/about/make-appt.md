@@ -1,5 +1,5 @@
 ---
-title: Make Appointment
+title: Schedule Appointment
 weight: 2
 excerpt: lorem-ipsum
 seo:
