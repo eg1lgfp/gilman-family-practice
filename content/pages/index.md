@@ -17,6 +17,13 @@ sections:
       - title: Office Information
         content: "##### **Hours:**\n\n**➡️  Mon - Thurs | 8am - 5pm**\n\n**➡️  Friday | 8:30am - 5pm**\n\n**➡️  Sat - Sun | Closed**\n\n##### **☎️  509-924-4681**\n\n##### **Location:**\n\n##### \U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n"
         actions:
+          - label: '> TELEMEDICINE APPT'
+            url: /docs/about/make-appt/
+            style: secondary
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
           - label: '> PATIENT PORTAL'
             style: primary
             icon_class: dev
@@ -27,13 +34,6 @@ sections:
           - label: '> INSURANCE INFO'
             url: /docs
             style: primary
-            icon_class: dev
-            new_window: false
-            no_follow: false
-            type: action
-          - label: '> TELEMEDICINE APPT'
-            url: /docs/about/make-appt/
-            style: secondary
             icon_class: dev
             new_window: false
             no_follow: false
