@@ -15,16 +15,23 @@ sections:
     col_number: three
     grid_items:
       - title: Office Information
-        content: "##### **Hours:**\n\n**➡️  Mon - Thurs | 8am - 5pm**\n\n**➡️  Friday | 8:30am - 5pm**\n\n**➡️  Sat - Sun | Closed**\n\n##### **☎️  509-924-4681**\n\n##### **Location:**\n\n##### \U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n"
+        content: "##### **Hours:**\n\n**➡️  Mon - Thurs | 8am - 5pm**\n\n**➡️  Friday | 8:30am - 5pm**\n\n**➡️  Sat - Sun | Closed**\n\n##### **☎️  509-924-4681**\n\n##### **Location:**\n\n##### \U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n\n\U0001F912 **Are you having Covid-19, Flu or Cold Symptoms? Use our TELEMEDICINE Appt Option** ⬇️\n"
         actions:
-          - label: Let's go to PATIENT PORTAL
+          - label: '> TELEMEDICINE APPT'
+            url: /docs/about/make-appt/
+            style: secondary
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
+          - label: '> PATIENT PORTAL'
             style: primary
             icon_class: dev
             new_window: false
             no_follow: false
             type: action
             url: 'https://myhealthrecord.com/'
-          - label: Let's go to INSURANCE INFO
+          - label: '> INSURANCE INFO'
             url: /docs
             style: primary
             icon_class: dev
@@ -47,24 +54,24 @@ sections:
       - title: Patient Education
         content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n#### \U0001F489 COVID-19 ⬇️ Information \U0001F637\n"
         actions:
-          - label: COVID-19 INFO PAGE
+          - label: '> COVID-19 INFO PAGE'
             style: primary
             url: /blog/article-2/
-          - label: Spokane Regional Health Dept
+          - label: '> Spokane Regional Health Dept'
             url: 'https://srhd.org/'
             style: primary
             icon_class: dev
             new_window: false
             no_follow: false
             type: action
-          - label: WA State Dept of Health
+          - label: '> WA State Dept of Health'
             url: 'https://coronavirus.wa.gov/'
             style: primary
             icon_class: dev
             new_window: false
             no_follow: false
             type: action
-          - label: CDC Guidance
+          - label: '> CDC Guidance'
             url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
             style: primary
             icon_class: dev
