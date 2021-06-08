@@ -27,4 +27,8 @@ layout: docs
 
 # For 🏥 In-Person or 📲  🖥️ 💻 Telemedicine, just call the clinic and we'll help you determine which type of appointment is best + walk you through the process: 509-924-4681
 
-☑️ Reminder: Please ***bring your insurance card and picture I.D. at the time of your appointment if in-person.***
+
+
+☑️ ***Use this form***
+
+☑️ **Reminder if you get an IN-PERSON Appt: **Please ***bring your insurance card and picture I.D. at the time of your appointment.***
