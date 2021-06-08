@@ -57,7 +57,7 @@ sections:
           - label: '> COVID-19 INFO PAGE'
             style: primary
             url: /blog/article-2/
-          - label: Spokane Regional Health Dept
+          - label: '> Spokane Regional Health Dept'
             url: 'https://srhd.org/'
             style: primary
             icon_class: dev
