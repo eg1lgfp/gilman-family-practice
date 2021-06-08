@@ -34,10 +34,10 @@ layout: docs
 
 #### *Friendly Reminders:*
 
-✅  Don't forget to bring your insurance card with you
+☑️  Don't forget to bring your insurance card with you
 
-✅  Please be ready to make your co-pay during your visit
+☑️  Please be ready to make your co-pay during your visit
 
-✅  Bring an up to date [**list of all your medications**](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) or your prescription bottles with you.
+☑️  Bring an up to date [**list of all your medications**](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) or your prescription bottles with you.
 
 ➡️ [***Let's go to Medications List***](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) 📋
