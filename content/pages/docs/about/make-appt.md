@@ -23,7 +23,7 @@ seo:
       value: This is the features page
 layout: docs
 ---
-> **When it's time to make an appointment, please consider 🤔 if it's something a quick telemedicine appt is sufficient [e.g., using your phone, tabale or computer to Zoom, Facetime, etc, to meet with your provider ] which could save you the time + travel of getting to and from the clinic, getting in-processed, etc..**
+> When it's time to make an appointment, please consider 🤔 if it's something a quick **telemedicine appt** is sufficient \[e.g., using your phone, tabale or computer to Zoom, Facetime, etc, to meet with your provider ] which could save you the time + travel of getting to and from the clinic, getting in-processed, etc..
 
 🏥
 
