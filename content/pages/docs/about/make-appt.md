@@ -29,4 +29,4 @@ layout: docs
 
 ☑️ **Use this form for ➡️TELEMEDICINE APPOINTMENTS**
 
-☑️ **Reminder if you get an IN-PERSON Appt:** Please*** bring your insurance card and picture I.D.** at the time of your appointment.*
+☑️ **Reminder if you get an IN-PERSON Appt:** Please **bring your insurance card and picture I.D.** at the time of your appointment.
