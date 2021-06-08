@@ -31,7 +31,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: COVID-19 SYMPTOMS?
+          - label: '> TELEMEDICINE APPT'
             url: /docs/about/make-appt/
             style: secondary
             icon_class: dev
