@@ -25,16 +25,6 @@ layout: docs
 ---
 > 🤔 When it's time to make an appointment please consider whether it's something a **telemedicine** 📲 *\[e.g., using your phone, tablet or computer to Zoom, Facetime, etc meet with your provider ] appointment is sufficient which will save you time and travel getting to and from the clinic.*
 
-➡️ [**EXISTING Patient History Form**](https://www.dropbox.com/s/d3d5s2ovbitn2sn/Exisingundefined20History%20Form.pdf?dl=0)
+➡️ 
 
-➡️ [**EXISTING Patient Systems Review**](https://www.dropbox.com/s/75kke0zqt17l1qs/Existingundefined20Systems%20Review.pdf?dl=0)
-
-➡️ [**Informed Consent for Telemedicine Services**](https://www.dropbox.com/s/mmf47ogm0z8fihx/Informedundefined20forundefined20Services.pdf?dl=0)
-
-➡️ [**PATIENT UPDATE Form Adult 19+**](https://www.dropbox.com/s/5q7hjdzpkmfbdoa/PATIENTundefined20FORMundefined2019%2B.pdf?dl=0)
-
-➡️ [**PATIENT UPDATE Form Child Under 12**](https://www.dropbox.com/s/hmtmvgf0j7pk6jh/PATIENTundefined20FORMundefined20under%2012.pdf?dl=0)
-
-➡️ [**PATIENT UPDATE Form Minor Age 13 to 18**](https://www.dropbox.com/s/0wpzglbwrr9wtme/PATIENTundefined20FORMundefined20ageundefined20to%2018.pdf?dl=0)
-
-➡️ [**PHQ-9**](https://www.dropbox.com/s/rcr6irclq1e2ceo/PHQ-9.pdf?dl=0)
+➡️ 
