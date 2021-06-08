@@ -1,5 +1,5 @@
 ---
-title: New Patients >
+title: New Patients
 weight: 1
 seo:
   title: New Patients
