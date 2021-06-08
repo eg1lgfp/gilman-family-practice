@@ -31,7 +31,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: L
+          - label: '>>'
             url: '#'
             style: secondary
             icon_class: dev
