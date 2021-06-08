@@ -1,5 +1,5 @@
 ---
-title: "Schedule Appointment \U0001F4C5"
+title: "☎️ Schedule Appointment \U0001F4C5"
 weight: 2
 excerpt: lorem-ipsum
 seo:
