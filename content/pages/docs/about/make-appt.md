@@ -27,3 +27,4 @@ layout: docs
 
 # For 🏥 In-Person or 📲  🖥️ 💻 Telemedicine, just call the clinic and we'll help you determine which type of appointment is best + walk you through the process: 509-924-4681
 
+☑️ If you haven't already, please go back ⬆️ to "Your One-Stop-Shop.." section & review the insurance
