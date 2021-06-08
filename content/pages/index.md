@@ -32,7 +32,7 @@ sections:
             no_follow: false
             type: action
           - label: COVID-19 SYMPTOMS?
-            url: '#'
+            url: /docs/about/make-appt/
             style: secondary
             icon_class: dev
             new_window: false
