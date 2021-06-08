@@ -23,9 +23,7 @@ seo:
       value: This is the features page
 layout: docs
 ---
-> Form instructions:
->
-> *e.g., complete + print + bring into office on day of enrollment or as required*
+> 🤔 *When it's time to make an appointment please consider whether it's something a **telemedicine** \[e.g., using your phone, tablet or computer to Zoom, Facetime, etc meet with your provider ] appointment is sufficient which will save you time and travel getting to and from the clinic.*
 
 ➡️ [**EXISTING Patient History Form**](https://www.dropbox.com/s/d3d5s2ovbitn2sn/Exisingundefined20History%20Form.pdf?dl=0)
 
