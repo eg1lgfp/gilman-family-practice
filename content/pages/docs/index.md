@@ -32,7 +32,7 @@ layout: docs
 
 > **Please ☑️ verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!**
 
-### ⚠️ **NOTICE OF PRIVACY PRACTICES:**
+### ⚠️ **NOTICE OF PRIVACY PRACTICES / HIPAA NOTICE:**
 
 > *The info below describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.*
 
