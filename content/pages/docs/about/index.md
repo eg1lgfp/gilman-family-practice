@@ -40,4 +40,4 @@ layout: docs
 
 ☑️  Bring an up to date [**list of all your medications**](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) or your prescription bottles with you.
 
-➡️ [***Let's go to Medications List***](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) 📋
+➡️ [***Let's go to Medications List***](https://www.dropbox.com/s/yyc3zrgw88epr4g/NEW%20Patient%20Medication%20List.pdf?dl=0) 📋
