@@ -32,8 +32,8 @@ layout: docs
 
 > **Please ☑️ verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verfication if your insurance is not listed, thank you!**
 
-### ⚠️ **NOTICE OF PRIVACY PRACTICES / HIPAA NOTICE:**
+## ⚠️ **NOTICE OF PRIVACY PRACTICES + HIPAA NOTICE:**
 
-> *The info below describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.*
+> [***The info below describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.***](https://www.dropbox.com/s/avgtak1omrgo6lu/NoticePrivacyPractices.pdf?dl=0)
 
 The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality. [***Read more >>***](http://drgcg.com/NoticePrivacyPractices.pdf)
