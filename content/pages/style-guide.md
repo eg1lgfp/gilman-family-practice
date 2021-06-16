@@ -40,7 +40,7 @@ subtitle: >-
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
-> ***Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.  We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.  Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.***
+> ***vOur goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.  We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.  Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.***
 
 ## **Our Provider Family**
 
@@ -56,7 +56,7 @@ wildlife, her pets and a trail to explore on. She looks forward to helping patie
 
 ##### **Laurie Dimler, ARNP**
 
-![](https://via.placeholder.com/200/09f/fff.png)
+****
 
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
@@ -66,11 +66,11 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://via.placeholder.com/200/09f/fff.png)
+![](https://www.dropbox.com/s/wbf67rw8lt4ip2p/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3.png?raw=1)
 
 Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. Her medical experience is family medicine and urgent care for the past 15 years.   
 
-Kristina doesn’t need much to be content, just the great outdoors, 
+Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on. She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend. 
 
 ## **What is a D.O.?**
 
