@@ -60,13 +60,18 @@ Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted
 
 Kristina met her spouse at her 1st Air Force assignment in Turkey in 1994. For 20+ years, they got to experience and explore many interesting overseas and stateside duty locations. However, they both knew the Spokane area was where they wanted to grow older together with their daughter, dogs and critters.   
 
-Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on.  Her medical experience is family medicine and urgent care for the past 15 years.  She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend.  
+Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on.  Her medical experience is family medicine and urgent care for the past 15 years.  She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend. 
 
 ##### **Laurie Dimler, ARNP**
 
 ![](https://via.placeholder.com/200/09f/fff.png)
 
-**Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
+
+
+Still interested in more education, she finished her Doctor of Nurse Practice degree at NDSU, Fargo, in 2015. Laurie enjoys caring for patient in family medicine with each day being a different mix of concerns. Her experience in rural nursing, urgent care and education enhances the spectrum of patients she sees at Gilman Family Practice.
+
+Laurie and her husband, Ken love to hike and spend time with family. Their 3 children, Christopher, Ryan and Macy are all grown and busy with work and school in the north Idaho area.
 
 ## **What is a D.O.?**
 
