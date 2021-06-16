@@ -56,6 +56,8 @@ wildlife, her pets and a trail to explore on. She looks forward to helping patie
 
 ##### **Laurie Dimler, ARNP**
 
+****
+
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
 Still interested in more education, she finished her Doctor of Nurse Practice degree at NDSU, Fargo, in 2015. Laurie enjoys caring for patient in family medicine with each day being a different mix of concerns. Her experience in rural nursing, urgent care and education enhances the spectrum of patients she sees at Gilman Family Practice.
