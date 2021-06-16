@@ -56,7 +56,11 @@ After over 15 years, Bryce still loves family medicine—every day is different 
 
 ![](https://via.placeholder.com/200/09f/fff.png)
 
-**Bio**
+Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. She did 12 years combined Active Duty and Reserves.
+
+Kristina met her spouse at her 1st Air Force assignment in Turkey in 1994. For 20+ years, they got to experience and explore many interesting overseas and stateside duty locations. However, they both knew the Spokane area was where they wanted to grow older together with their daughter, dogs and critters.   
+
+Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on.  Her medical experience is family medicine and urgent care for the past 15 years.  She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend.  
 
 ##### **Laurie Dimler, ARNP**
 
