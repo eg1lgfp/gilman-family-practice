@@ -52,8 +52,6 @@ Dr Bryce Gilman grew up in the Spokane Valley and after years away for school an
 
 After over 15 years, Bryce still loves family medicine—every day is different and full of interesting and wonderful people.  You never know what the day will bring.  If he won the lottery tomorrow, Bryce would definitely retire to New Zealand. However, that is a fairly unlikely occurrence as one has to play to win after all. So, keeping on here is a pretty great second prize. Outside the office, Bryce loves dogs and the water but not wet dogs. He enjoys reading scary tales, both real and imagined.  He would be hard pressed to choose between watching a monster movie, building a Lego set or playing a video game with his boys. He used to be cool, but all that’s left of that is his shoes. 
 
-wildlife, her pets and a trail to explore on. She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend. 
-
 ##### **Laurie Dimler, ARNP**
 
 ![](https://www.dropbox.com/s/zbxmtjfyz8z0coe/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy.png?raw=1)
