@@ -52,14 +52,7 @@ Dr Bryce Gilman grew up in the Spokane Valley and after years away for school an
 
 After over 15 years, Bryce still loves family medicine—every day is different and full of interesting and wonderful people.  You never know what the day will bring.  If he won the lottery tomorrow, Bryce would definitely retire to New Zealand. However, that is a fairly unlikely occurrence as one has to play to win after all. So, keeping on here is a pretty great second prize. Outside the office, Bryce loves dogs and the water but not wet dogs. He enjoys reading scary tales, both real and imagined.  He would be hard pressed to choose between watching a monster movie, building a Lego set or playing a video game with his boys. He used to be cool, but all that’s left of that is his shoes. 
 
-##### **Kristina A. Stewart, PA-C**
-
-![](https://via.placeholder.com/200/09f/fff.png)
-
-Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. Her medical experience is family medicine and urgent care for the past 15 years.   
-
-
-Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on. She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend.  
+wildlife, her pets and a trail to explore on. She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend. 
 
 ##### **Laurie Dimler, ARNP**
 
@@ -70,6 +63,14 @@ Laurie started her medical career as an RN in 1992 after completing a BSN degree
 Still interested in more education, she finished her Doctor of Nurse Practice degree at NDSU, Fargo, in 2015. Laurie enjoys caring for patient in family medicine with each day being a different mix of concerns. Her experience in rural nursing, urgent care and education enhances the spectrum of patients she sees at Gilman Family Practice.
 
 Laurie and her husband, Ken love to hike and spend time with family. Their 3 children, Christopher, Ryan and Macy are all grown and busy with work and school in the north Idaho area.
+
+##### **Kristina A. Stewart, PA-C**
+
+![](https://via.placeholder.com/200/09f/fff.png)
+
+Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. Her medical experience is family medicine and urgent care for the past 15 years.   
+
+Kristina doesn’t need much to be content, just the great outdoors, 
 
 ## **What is a D.O.?**
 
