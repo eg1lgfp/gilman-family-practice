@@ -56,7 +56,7 @@ After over 15 years, Bryce still loves family medicine—every day is different 
 
 ![](https://via.placeholder.com/200/09f/fff.png)
 
-**Bio, Qualifications, Schools > Interests + Hobbies:** Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla.
+**Bio**
 
 ##### **Laurie Dimler, ARNP**
 
