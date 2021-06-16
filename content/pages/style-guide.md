@@ -56,8 +56,6 @@ wildlife, her pets and a trail to explore on. She looks forward to helping patie
 
 ##### **Laurie Dimler, ARNP**
 
-
-
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
 Still interested in more education, she finished her Doctor of Nurse Practice degree at NDSU, Fargo, in 2015. Laurie enjoys caring for patient in family medicine with each day being a different mix of concerns. Her experience in rural nursing, urgent care and education enhances the spectrum of patients she sees at Gilman Family Practice.
@@ -65,6 +63,8 @@ Still interested in more education, she finished her Doctor of Nurse Practice de
 Laurie and her husband, Ken love to hike and spend time with family. Their 3 children, Christopher, Ryan and Macy are all grown and busy with work and school in the north Idaho area.
 
 ##### **Kristina A. Stewart, PA-C**
+
+![](https://www.dropbox.com/s/wbf67rw8lt4ip2p/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3.png?raw=1)
 
 Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. Her medical experience is family medicine and urgent care for the past 15 years.   
 
