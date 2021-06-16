@@ -66,7 +66,7 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ##### **Kristina A. Stewart, PA-C**
 
-
+****
 
 Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. Her medical experience is family medicine and urgent care for the past 15 years.   
 
