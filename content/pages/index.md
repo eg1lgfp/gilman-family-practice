@@ -85,7 +85,7 @@ sections:
     grid_items:
       - title: "Bryce H. Gilman, D.O. \U0001FA7A"
         content: >
-          ![](https://www.dropbox.com/s/kw7e9jfai86hyo5/DrGilman_Portrait_forGFP-ProviderInfo%2BBio_ess\_200x200.png?raw=1)
+          ![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
         actions:
           - label: Learn More
             url: /style-guide
