@@ -18,6 +18,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/interesting-wallaby.jpg
   - section_id: hero
     type: section_hero
     actions:
