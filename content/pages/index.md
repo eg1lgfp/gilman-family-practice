@@ -17,6 +17,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
   - section_id: hero
     type: section_hero
     actions:
