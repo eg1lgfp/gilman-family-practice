@@ -50,7 +50,7 @@ subtitle: >-
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://www.dropbox.com/s/kw7e9jfai86hyo5/DrGilman_Portrait_forGFP-ProviderInfo%2BBio_ess\_200x200.png?raw=1)
+****![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
 
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
@@ -84,4 +84,4 @@ Doctors of Osteopathy, or [**Osteopathic Physicians**](https://osteopathic.org/w
 
 Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
 
-An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
+An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
