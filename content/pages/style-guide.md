@@ -40,13 +40,17 @@ subtitle: >-
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
-> ***Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.  We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.  Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.***
+> ###### *Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.*
+>
+> ###### *We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.*
+>
+> ###### *Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.*
 
 ## **Our Provider Family**
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://www.dropbox.com/s/kw7e9jfai86hyo5/DrGilman_Portrait_forGFP-ProviderInfo%2BBio_ess\_200x200.png?raw=1)
+![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
 
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
