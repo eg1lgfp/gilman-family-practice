@@ -68,7 +68,7 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://www.dropbox.com/s/wbf67rw8lt4ip2p/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3.png?raw=1)
+****![](https://www.dropbox.com/s/n361bthcn7an31s/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3-03%20copy.png?raw=1)
 
 Kristina was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
 
