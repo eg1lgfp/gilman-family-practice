@@ -91,8 +91,8 @@ sections:
             url: /style-guide
             style: link
       - title: "Kristina A. Stewart, PA-C \U0001FA7A"
-        content: |
-          ![](https://via.placeholder.com/200/09f/fff.png)
+        content: >
+          ![](https://www.dropbox.com/s/wbf67rw8lt4ip2p/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3.png?raw=1)
         actions:
           - label: Learn More
             url: /style-guide
@@ -100,8 +100,8 @@ sections:
       - title: "Laurie Dimler, NP\_ \U0001FA7A"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: |
-          ![](https://via.placeholder.com/200/09f/fff.png)
+        content: >
+          ![](https://www.dropbox.com/s/zbxmtjfyz8z0coe/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy.png?raw=1)
         actions:
           - label: Learn More
             url: /style-guide
