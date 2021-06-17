@@ -7,7 +7,6 @@ sections:
       - label: Let's go to Clinic Info & Forms
         url: /docs
         style: primary
-    image: images/FrontDoor of Clinic June 2021.jpg
     content: >
       ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
   - section_id: features
