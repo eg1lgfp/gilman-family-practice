@@ -117,7 +117,6 @@ sections:
     content: "> This is a snapshot of our services, please call us to inquire on others not listed\n\nPrimary Family Care | Telemedicine | Well-Child | Women\x92s Health | Sick Care | Growth Removal | Complete Physicals | DOT Physicals | Sports Physicals | EKGs | Manipulations (OMT) | General Health Issues | Referrals | Pediatric Care | Health Education | Diet Consultation | Diagnosis & Treatment of Acute and Chronic Illness | [Immunizations](https://www.cdc.gov/vaccines/schedules/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Frecs%2Fschedules%2Fdefault.htm) & more...\n"
     actions: []
     type: section_content
-    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
