@@ -100,8 +100,8 @@ sections:
       - title: "Laurie Dimler, NP\_ \U0001FA7A"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: |
-          ![](https://via.placeholder.com/200/09f/fff.png)
+        content: >
+          ![](https://www.dropbox.com/s/zbxmtjfyz8z0coe/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy.png?raw=1)
         actions:
           - label: Learn More
             url: /style-guide
