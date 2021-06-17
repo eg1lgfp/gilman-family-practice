@@ -1,12 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    actions: []
-    type: section_content
-    image: images/Clinic_FrontView-Pathway-Narrow_byWG.jpg
   - section_id: hero
     type: section_hero
     actions:
