@@ -58,7 +58,7 @@ After over 15 years, Bryce still loves family medicine—every day is different 
 
 ##### **Laurie Dimler, ARNP**
 
-****![](https://www.dropbox.com/s/zbxmtjfyz8z0coe/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy.png?raw=1)
+****![](https://www.dropbox.com/s/6nejp26l2fns9qn/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy-04%20copy.png?raw=1)
 
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
