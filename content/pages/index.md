@@ -1,14 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    actions:
-      - label: Let's go to Clinic Info & Forms
-        url: /docs
-        style: primary
-    content: >
-      ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -26,6 +18,14 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+  - section_id: hero
+    type: section_hero
+    actions:
+      - label: Let's go to Clinic Info & Forms
+        url: /docs
+        style: primary
+    content: >
+      ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
   - section_id: features
     type: section_grid
     col_number: three
