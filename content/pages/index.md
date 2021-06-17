@@ -11,7 +11,7 @@ sections:
       ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
 
 
-      ![](https://www.dropbox.com/s/dc3gcp4mb42nyqy/Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?raw=1)
+      ![](https://www.dropbox.com/s/v817bmcqdlum0fu/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?raw=1)
   - section_id: features
     type: section_grid
     col_number: three
