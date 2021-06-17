@@ -8,12 +8,10 @@ sections:
         url: /docs
         style: primary
     content: >
-
-
       ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
 
 
-      ![](https://www.dropbox.com/s/7n0qt5eixu5rc1z/FrontDoor%20of%20Clinic%20June%202021.jpg?raw=1)
+      ![](https://www.dropbox.com/s/aoedvg9tvd3ly58/Clinic_FrontView-Pathway-Narrow_byWG.jpg?raw=1)
   - section_id: features
     type: section_grid
     col_number: three
