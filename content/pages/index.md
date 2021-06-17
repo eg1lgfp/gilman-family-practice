@@ -8,7 +8,6 @@ sections:
         url: /docs
         style: primary
     content: >
-      ![](https://www.dropbox.com/s/7n0qt5eixu5rc1z/FrontDoor%20of%20Clinic%20June%202021.jpg?raw=1)
 
 
       ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
