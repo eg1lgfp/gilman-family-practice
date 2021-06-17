@@ -1,14 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: >
-      ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
-    actions: []
-    type: section_content
-    image: images/interesting-wallaby.jpg
   - section_id: hero
     type: section_hero
     actions:
