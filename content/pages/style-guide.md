@@ -66,7 +66,9 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ![](https://www.dropbox.com/s/wbf67rw8lt4ip2p/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3.png?raw=1)
 
-Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. She got her initial medical training in the military as a medical technician, and used her GI Bill to earn her Master's degree as a Physician Assistant in 2006 from the University of Utah’s School of Medicine. Her medical experience is family medicine and urgent care for the past 15 years.   
+Kristina Stewart was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF soon after high school. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
+
+In 1994, Kristina met her husband at her 1st Air Force assignment in Turkey. They continued serving stateside and overseas for 20+ years. Today, they are blessed with a daughter, two dogs and a nice place on the Palouse.
 
 Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on. She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend. 
 
