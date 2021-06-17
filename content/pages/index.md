@@ -9,11 +9,6 @@ sections:
         style: primary
     content: >
       ![](https://www.dropbox.com/s/cm9voybenneumxw/GFP%20Logo%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_MixedColor-forBlueBG_byESS.png?raw=1)
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
   - section_id: features
     type: section_grid
     col_number: three
