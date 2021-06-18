@@ -43,7 +43,7 @@ sections:
           ***Are you having Covid-19 or Flu symptoms? Make a TELEMEDICINE Appt
           today!***
         actions:
-          - label: '> TELEMEDICINE APPT'
+          - label: TELEMEDICINE APPT
             url: /docs/about/make-appt/
             style: secondary
             icon_class: dev
