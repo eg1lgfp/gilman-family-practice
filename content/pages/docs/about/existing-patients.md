@@ -1,5 +1,5 @@
 ---
-title: "➔\_Existing Patients"
+title: Existing Patients
 weight: 2
 seo:
   title: Existing Patients
