@@ -37,7 +37,10 @@ sections:
           clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en)
 
 
-          ***Having Covid-19 symptoms? Make a TELEMEDICINE Appt today!***
+          ***Having Covid-19 symptoms? Make a Tele-medicine appt***
+
+
+          ******
         actions:
           - label: TELEMEDICINE APPT
             url: /docs/about/make-appt/
