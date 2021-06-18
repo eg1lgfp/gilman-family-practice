@@ -178,7 +178,9 @@ sections:
   - section_id: cta
     type: section_cta
     title: Contact
-    subtitle: '1414 N. Vercler Rd. Bldg. 4 | Spokane, Washington 99216 | (509) 924-4681'
+    subtitle: >-
+      1414 N. Vercler Rd. Bldg. 4 | Spokane Valley, Washington 99216 | (509)
+      924-4681
     actions:
       - label: 'Map Directions '
         url: >-
