@@ -125,7 +125,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-      - title: "Laurie Dimler, NP\_ \U0001FA7A"
+      - title: 'Laurie Dimler, NP'
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
