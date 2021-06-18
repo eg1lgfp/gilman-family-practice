@@ -22,7 +22,7 @@ seo:
       value: This is the overview page
 layout: docs
 ---
-#### Print, complete and bring to the office on the day of your appointment.
+> Print, complete and bring to the office on the day of your appointment.
 
 [**➡️ Informed Consent for Telemedicine Services**](https://www.dropbox.com/s/fmrl5d5g1pezxub/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
 
