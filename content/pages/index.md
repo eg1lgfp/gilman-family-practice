@@ -79,17 +79,8 @@ sections:
             style: link
       - title: Patient Education
         content: >
-          **➡️   Diabetic Diet**
-
-
-          **➡️   Allergy Info**
-
-
           ➡️  [**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
-
-
-          #### COVID-19 Information 
         actions:
           - label: '> COVID-19 INFO PAGE'
             style: primary
