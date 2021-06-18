@@ -22,10 +22,6 @@ seo:
       value: This is the overview page
 layout: docs
 ---
-**Form instructions:**
-
-*Print, complete and bring to the office on the day of your appointment.*
-
 [**➡️ Informed Consent for Telemedicine Services**](https://www.dropbox.com/s/fmrl5d5g1pezxub/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
 
 [**➡️ Medical Records Release PHI to GilmanFP**](https://www.dropbox.com/s/o927egpjwjbg5b4/Medical%20Records%20Release%20PHI%20to%20GilmanFP.pdf?dl=0)
