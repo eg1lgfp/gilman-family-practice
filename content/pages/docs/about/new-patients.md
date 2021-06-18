@@ -22,9 +22,9 @@ seo:
       value: This is the overview page
 layout: docs
 ---
-> **Form instructions:**
->
-> *e.g., complete + print + bring into office on day of enrollment or as required*
+**Form instructions:**
+
+*Print, complete and bring to the office on the day of your appointment.*
 
 [**➡️ Informed Consent for Telemedicine Services**](https://www.dropbox.com/s/fmrl5d5g1pezxub/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
 
@@ -45,4 +45,3 @@ layout: docs
 ➡️ [**NEW Patient Systems Review**](https://www.dropbox.com/s/0p8h4jzlbn9kg7o/New%20Patient%20Systems%20Review.pdf?dl=0)
 
 ➡️ [**NEW Patient Medications List**](https://www.dropbox.com/s/yyc3zrgw88epr4g/NEW%20Patient%20Medication%20List.pdf?dl=0)
-
