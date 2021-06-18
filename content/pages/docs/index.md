@@ -1,5 +1,5 @@
 ---
-title: ☑️ Your One-Stop-Shop for Clinic Info & Forms
+title: Your One-Stop-Shop for Clinic Info & Forms
 seo:
   title: Docs and Forms
   description: >+
