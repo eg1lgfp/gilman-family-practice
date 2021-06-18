@@ -26,7 +26,7 @@ seo:
       value: This is the about page
 layout: docs
 ---
-**IMPORTANT!** Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
+Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
 
 *Arrive for your appointment 10 minutes early to fill out any needed paperwork. Please wear a mask, come in the office and sign in.*
 
