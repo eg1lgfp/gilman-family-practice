@@ -94,7 +94,7 @@ sections:
             style: link
       - title: Patient Education
         content: >
-          ➡️  [**American Academy of Family
+          [**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
         actions:
           - label: COVID-19 INFO PAGE
