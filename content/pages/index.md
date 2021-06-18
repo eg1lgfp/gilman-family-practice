@@ -30,9 +30,6 @@ sections:
           **Sat - Sun | Closed**
 
 
-          ##### **509-924-4681**
-
-
           ##### **Location:**
 
 
