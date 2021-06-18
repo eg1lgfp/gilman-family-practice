@@ -57,7 +57,7 @@ sections:
             no_follow: false
             type: action
             url: 'https://myhealthrecord.com/'
-          - label: '> INSURANCE INFO'
+          - label: INSURANCE INFO
             url: /docs
             style: primary
             icon_class: dev
