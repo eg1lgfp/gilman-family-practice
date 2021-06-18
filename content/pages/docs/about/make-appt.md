@@ -23,5 +23,4 @@ seo:
       value: This is the features page
 layout: docs
 ---
-> When it's time to make an appointment, please consider 🤔 if it's something a quick **virtual / telemedicine appt** could handle \[e.g., using your phone, tablet or computer to Zoom, Facetime, etc, to meet with your provider ]. Especially if you're having Covid-19 symtoms is the safest option. And, it will save you the time + travel expenses of getting to and from the clinic, getting in-processed, etc..
-
+> When it's time to make an appointment, please consider if it's something a quick **virtual / telemedicine appt** could handle \[e.g., using your phone, tablet or computer to Zoom, Facetime, etc, to meet with your provider ]. Especially if you're having Covid-19 symtoms is the safest option. And, it will save you the time + travel expenses of getting to and from the clinic, getting in-processed, etc..
