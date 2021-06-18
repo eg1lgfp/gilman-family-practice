@@ -48,14 +48,14 @@ subtitle: >-
 
 ***
 
-➡️  [**Spokane Regional Health Department**](https://srhd.org/)
+[**Spokane Regional Health Department**](https://srhd.org/)
 
-➡️  [**CDC Guidance**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+[**CDC Guidance**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
-➡️  [**Washington State Covid-19 Hub**](https://coronavirus.wa.gov/)
+[**Washington State Covid-19 Hub**](https://coronavirus.wa.gov/)
 
-➡️   [**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
+[**Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
 
-➡️   [**Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
+[**Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
-➡️   [**Johnson & Johnson**](https://www.jnj.com/covid-19)
+[**Johnson & Johnson**](https://www.jnj.com/covid-19)
