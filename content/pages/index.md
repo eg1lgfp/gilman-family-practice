@@ -8,7 +8,7 @@ sections:
         url: /docs
         style: primary
     content: >
-      ![](https://www.dropbox.com/s/wrn9uljjtnccn6t/GFP%20LogoV3%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_forBlueBG_ess.png?raw=1)
+      ![](https://www.dropbox.com/s/ocfqdqbajwdhz0f/Asset%2016GFP-Logo%2BWordmark_Centered%2BClinicTagline-WHT-letters_byESS-11-11.png?raw=1)
 
 
       ![](https://www.dropbox.com/s/v817bmcqdlum0fu/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?raw=1)
