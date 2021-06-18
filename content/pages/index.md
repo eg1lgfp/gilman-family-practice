@@ -111,7 +111,7 @@ sections:
     title: Our providers
     col_number: three
     grid_items:
-      - title: "Bryce H. Gilman, D.O. \U0001FA7A"
+      - title: 'Bryce H. Gilman, D.O.'
         content: >
           ![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
         actions:
