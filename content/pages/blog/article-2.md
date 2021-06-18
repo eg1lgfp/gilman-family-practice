@@ -1,5 +1,5 @@
 ---
-title: "\U0001F489 COVID-19 Information \U0001F637"
+title: COVID-19 Information
 excerpt: |-
   Come back here periodically to check on latest/greatest Covid-19 Info 
   and How it impacts our operations at the clinic and more...
