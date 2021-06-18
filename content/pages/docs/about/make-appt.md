@@ -23,5 +23,4 @@ seo:
       value: This is the features page
 layout: docs
 ---
-For an appointment call the office at 509-924-4681. At that time, we can decide which appointment is better for you in-person or tele-medicine.
-
+> For an appointment call the office at 509-924-4681. At that time, we can decide which appointment is better for you in-person or tele-medicine.
