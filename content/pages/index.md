@@ -97,7 +97,7 @@ sections:
           ➡️  [**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
         actions:
-          - label: '> COVID-19 INFO PAGE'
+          - label: COVID-19 INFO PAGE
             style: primary
             url: /blog/article-2/
           - label: '> Spokane Regional Health Dept'
