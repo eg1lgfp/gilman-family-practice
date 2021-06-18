@@ -72,8 +72,6 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 Kristina was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
 
-Kristina doesn’t need much to be content, just the great outdoors, wildlife, her pets and a trail to explore on. She looks forward to helping patients attain the best in health and aspires to treat them how she would treat a friend. 
-
 ## **What is a D.O.?**
 
 [**Doctors of Osteopathy**](https://osteopathic.org/what-is-osteopathic-medicine/what-is-a-do/) are fully trained and licensed to practice all  phases of medicine. They are complete doctors who offer something extra.
