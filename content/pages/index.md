@@ -11,13 +11,37 @@ sections:
       ![](https://www.dropbox.com/s/wrn9uljjtnccn6t/GFP%20LogoV3%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_forBlueBG_ess.png?raw=1)
 
 
-      ![](https://www.dropbox.com/s/v817bmcqdlum0fu/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?raw=1)![](https://www.dropbox.com/s/wrn9uljjtnccn6t/GFP%20LogoV3%2BWordmark%20Vertical%20Set%20%2B%20Clinic%20Tagline_forBlueBG_ess.png?raw=1)
+      ![](https://www.dropbox.com/s/v817bmcqdlum0fu/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?raw=1)
   - section_id: features
     type: section_grid
     col_number: three
     grid_items:
       - title: Office Information
-        content: "##### **Hours:**\n\n**➡️  Mon - Thurs | 8am - 5pm**\n\n**➡️  Friday | 8:30am - 5pm**\n\n**➡️  Sat - Sun | Closed**\n\n##### **☎️  509-924-4681**\n\n##### **Location:**\n\n##### \U0001F3E5 [**Directions to the clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en) \U0001F9ED\n\n***Are you having Covid-19 or Flu symptoms? Make a TELEMEDICINE Appt today!***\n"
+        content: >
+          ##### **Hours:**
+
+
+          **➡️  Mon - Thurs | 8am - 5pm**
+
+
+          **➡️  Friday | 8:30am - 5pm**
+
+
+          **➡️  Sat - Sun | Closed**
+
+
+          ##### **509-924-4681**
+
+
+          ##### **Location:**
+
+
+          ##### [**Directions to the
+          clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en)
+
+
+          ***Are you having Covid-19 or Flu symptoms? Make a TELEMEDICINE Appt
+          today!***
         actions:
           - label: '> TELEMEDICINE APPT'
             url: /docs/about/make-appt/
@@ -54,7 +78,9 @@ sections:
             url: /style-guide
             style: link
       - title: Patient Education
-        content: "**➡️   Diabetic Diet**\n\n**➡️   Allergy Info**\n\n➡️  [**American Academy of Family Physicians**](https://www.aafp.org/home.html)\n\n#### \U0001F489 COVID-19 ⬇️ Information \U0001F637\n"
+        content: >
+          ➡️  [**American Academy of Family
+          Physicians**](https://www.aafp.org/home.html)
         actions:
           - label: '> COVID-19 INFO PAGE'
             style: primary
@@ -113,7 +139,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-  - title: "☤\_Our Services ☤"
+  - title: Our Services
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
@@ -123,7 +149,8 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "#### \U0001F4F2 For appointments + more info please call our office at 509-924-4681 ☎️\n"
+    content: |
+      #### For appointments + more info please call our office at 509-924-4681
     actions:
       - url: /docs
         style: primary
@@ -135,7 +162,7 @@ sections:
     type: section_content
   - section_id: cta
     type: section_cta
-    title: "Contact  \U0001F3E5"
+    title: Contact
     subtitle: '1414 N. Vercler Rd. Bldg. 4 | Spokane, Washington 99216 | (509) 924-4681'
     actions:
       - label: 'Map Directions '
