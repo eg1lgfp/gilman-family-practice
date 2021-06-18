@@ -139,7 +139,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-  - title: "☤\_Our Services ☤"
+  - title: Our Services
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
