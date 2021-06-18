@@ -50,7 +50,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: '> PATIENT PORTAL'
+          - label: PATIENT PORTAL
             style: primary
             icon_class: dev
             new_window: false
