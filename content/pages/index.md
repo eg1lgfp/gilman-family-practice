@@ -173,7 +173,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: How to Become a Patient >>
+        label: How to Become a Patient
     type: section_content
   - section_id: cta
     type: section_cta
