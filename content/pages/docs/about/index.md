@@ -30,8 +30,6 @@ layout: docs
 
 *We recommend that you arrive 15 minutes prior to your scheduled appointment. And, then \*call the office and wait for someone will let you inside. This allows ample time for you to be registered and complete any needed forms.*
 
-*Note: Calling office upon arrival is a Covid-19 measure that is subject to change as guidance is received.*
-
 #### *Friendly Reminders:*
 
 Don't forget to bring your insurance card with you
