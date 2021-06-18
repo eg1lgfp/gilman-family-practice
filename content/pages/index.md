@@ -132,13 +132,6 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-      - title: 'Kristina A. Stewart, PA-C'
-        content: >
-          ![](https://www.dropbox.com/s/n361bthcn7an31s/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3-03%20copy.png?raw=1)
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
       - title: 'Laurie Dimler, ARNP'
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
@@ -153,6 +146,13 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+      - title: 'Kristina A. Stewart, PA-C'
+        content: >
+          ![](https://www.dropbox.com/s/n361bthcn7an31s/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3-03%20copy.png?raw=1)
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
   - title: Our Services
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
