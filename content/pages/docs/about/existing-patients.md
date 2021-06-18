@@ -22,9 +22,7 @@ seo:
       value: This is the features page
 layout: docs
 ---
-> Form instructions:
->
-> *e.g., complete + print + bring into office on day of enrollment or as required*
+> Print, complete and bring to the office on the day of your appointment.
 
 ➡️ [**Existing Patient History Form**](https://www.dropbox.com/s/d3d5s2ovbitn2sn/Exising%20Patient%20History%20Form.pdf?dl=0)
 
@@ -41,4 +39,3 @@ layout: docs
 ➡️ [**PHQ-9**](https://www.dropbox.com/s/rcr6irclq1e2ceo/PHQ-9.pdf?dl=0)
 
 ➡️ [**Existing Patient Blood Pressure Log**](https://www.dropbox.com/s/3xhqnd89zpylsia/EXISTING%20Patient%20BP%20Log.pdf?dl=0)
-
