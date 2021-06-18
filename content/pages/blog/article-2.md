@@ -40,9 +40,7 @@ subtitle: >-
 ---
 ![](/\_static/app-assets/Patient_CovidVax-Decision-Graphic_ess\_20210515%20copy.png)
 
-***
-
-***
+Local, state and CDC guidance, mandates and new updates.
 
 [**Spokane Regional Health Department**](https://srhd.org/)
 
