@@ -30,18 +30,17 @@ sections:
           **Sat - Sun | Closed**
 
 
-          ##### **509-924-4681**
-
-
           ##### **Location:**
 
 
-          ##### [**Directions to the
+          [**Directions to the
           clinic**](https://www.google.com/maps/place/Bryce+H.+Gilman,+D.O./@47.670007,-117.2356157,17z/data=!3m1!4b1!4m5!3m4!1s0x549e200c374da159:0xebf85226e721e5cd!8m2!3d47.670007!4d-117.233427?hl=en)
 
 
-          ***Are you having Covid-19 or Flu symptoms? Make a TELEMEDICINE Appt
-          today!***
+          ***Having Covid-19 symptoms? Make a Tele-medicine appointment***
+
+
+          ***
         actions:
           - label: TELEMEDICINE APPT
             url: /docs/about/make-appt/
@@ -94,7 +93,7 @@ sections:
             style: link
       - title: Patient Education
         content: >
-          ➡️  [**American Academy of Family
+          [**American Academy of Family
           Physicians**](https://www.aafp.org/home.html)
         actions:
           - label: COVID-19 INFO PAGE
@@ -133,14 +132,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-      - title: 'Kristina A. Stewart, PA-C'
-        content: >
-          ![](https://www.dropbox.com/s/n361bthcn7an31s/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3-03%20copy.png?raw=1)
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-      - title: 'Laurie Dimler, NP'
+      - title: 'Laurie Dimler, ARNP'
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
@@ -154,6 +146,13 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+      - title: 'Kristina A. Stewart, PA-C'
+        content: >
+          ![](https://www.dropbox.com/s/n361bthcn7an31s/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3-03%20copy.png?raw=1)
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
   - title: Our Services
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
