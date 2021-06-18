@@ -114,7 +114,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: '> CDC Guidance'
+          - label: CDC Guidance
             url: 'https://www.cdc.gov/coronavirus/2019-ncov/index.html'
             style: primary
             icon_class: dev
