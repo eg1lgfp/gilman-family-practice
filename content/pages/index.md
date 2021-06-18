@@ -165,7 +165,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      #### For appointments + more info please call our office at 509-924-4681
+      #### For appointments and more info please call our office at 509-924-4681
     actions:
       - url: /docs
         style: primary
