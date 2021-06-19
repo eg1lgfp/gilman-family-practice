@@ -1,5 +1,5 @@
 ---
-title: Your One-Stop-Shop for Clinic Info & Forms
+title: Clinic Information and Forms
 seo:
   title: Docs and Forms
   description: >+
@@ -24,7 +24,7 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-### **INSURANCE INFORMATION:**
+### **Insurance Information:**
 
 Please ***bring your insurance card and picture I.D. at the time of your appointment.***
 
