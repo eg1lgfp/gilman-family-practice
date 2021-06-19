@@ -1,5 +1,5 @@
 ---
-title: Clinic Information Hub
+title: Clinic Information Section
 seo:
   title: Docs and Forms
   description: >+
