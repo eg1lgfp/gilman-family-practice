@@ -1,5 +1,5 @@
 ---
-title: 'Clinic info, enrollment, appts, forms & more...'
+title: Clinic Information Section
 seo:
   title: Docs and Forms
   description: >+
