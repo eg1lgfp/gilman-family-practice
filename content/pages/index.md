@@ -186,29 +186,37 @@ sections:
         style: primary
 seo:
   title: Gilman Family Practice
-  description: Health Clinic site adapted from the Stackbit Libris theme
+  description: >-
+    High quality, modern healthcare in a small practice setting. Gilman Family
+    Practice is located in Spokane Valley, Washington. 
   extra:
     - name: 'og:type'
-      value: website
+      value: 'https://gilmanfamilypractice.com/'
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: Gilman Family Practice
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: >
+        High quality, modern healthcare in a small practice setting. Gilman
+        Family Practice is located in Spokane Valley, Washington. 
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /_static/app-assets/Asset%204GilmanFP%20Logo+WordMark%20V3.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
-    - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Gilman Family Practice
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /_static/app-assets/Asset%204GilmanFP%20Logo+WordMark%20V3.png
       relativeUrl: true
+    - name: 'twitter:description'
+      value: >-
+        High quality, modern healthcare in a small practice setting. Gilman
+        Family Practice is located in Spokane Valley, Washington. 
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---

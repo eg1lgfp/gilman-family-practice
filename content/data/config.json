@@ -66,22 +66,22 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Twitter? or ?? Your Choice or Remove",
+                "url": "#",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Change to ??? (e.g., Facebook acct)",
+                "url": "#",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Change to Email",
+                "url": "#",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
