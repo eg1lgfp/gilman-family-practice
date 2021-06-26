@@ -81,7 +81,7 @@
             },
             {
                 "label": "Change to Email",
-                "url": "https://github.com/",
+                "url": "#",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
