@@ -80,7 +80,7 @@
                 "new_window": true
             },
             {
-                "label": "GitHub",
+                "label": "Change to Email",
                 "url": "https://github.com/",
                 "style": "icon",
                 "icon_class": "github",
