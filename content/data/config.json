@@ -66,15 +66,15 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Twitter? or ?? Your Choice or Remove",
+                "url": "#",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Change to ??? (e.g., Facebook acct)",
-                "url": "https://www.linkedin.com/",
+                "url": "#",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
