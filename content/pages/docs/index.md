@@ -32,7 +32,7 @@ Please ***bring your insurance card and picture I.D. at the time of your appoint
 
 > **Please verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verification if your insurance is not listed, thank you.**
 
-## NOTICE OF PRIVACY PRACTICES AND HIPAA NOTICE:
+## [**NOTICE OF PRIVACY PRACTICES AND HIPAA NOTICE:**](https://www.dropbox.com/s/q60s1ocmfjnpn62/NoticePrivacyPractices%20copy.pdf?dl=0)
 
 The following is an explanation of how your medical information is used and disclosed.
 
