@@ -11,7 +11,7 @@ sections:
       ![](https://www.dropbox.com/s/n9su8gok5pvrz5q/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png?raw=1)
 
 
-      ![](/\_static/app-assets/Clinic_FrontView_byWG.jpg)
+      ![](https://www.dropbox.com/s/v817bmcqdlum0fu/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?dl=0)
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
