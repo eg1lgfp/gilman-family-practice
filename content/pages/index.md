@@ -7,9 +7,11 @@ sections:
       - label: Let's go to Clinic Info & Forms
         url: /docs
         style: primary
-    content: >+
+    content: >
       ![](https://www.dropbox.com/s/n9su8gok5pvrz5q/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png?raw=1)
 
+
+      ![](/\_static/app-assets/Clinic_FrontView_byWG.jpg)
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
