@@ -66,7 +66,7 @@ sections:
         content: |
           ##### **Holiday Closures:**
 
-          July 5th, 2021
+          Labor Day | September 6th, 2021 
 
           **Provider Availability:**
 
