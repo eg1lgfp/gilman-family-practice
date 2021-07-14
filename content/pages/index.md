@@ -100,7 +100,7 @@ sections:
             url: /blog/article-2/
           - label: Spokane Regional Health Dept
             url: 'https://srhd.org/'
-            style: primary
+            style: icon
             icon_class: dev
             new_window: false
             no_follow: false
