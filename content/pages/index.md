@@ -8,11 +8,7 @@ sections:
         url: /docs
         style: primary
     content: >
-      ![](stackbit_asset_id:static:public/images/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png)
-
-
-      ![](stackbit_asset_id:static:public/images/diligent-tiger.png)
-    image: images/FrontDoor of Clinic June 2021.jpg
+     
   - section_id: features
     type: section_grid
     col_number: three
