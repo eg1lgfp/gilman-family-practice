@@ -8,7 +8,7 @@ sections:
         url: /docs
         style: primary
     content: >
-      ![](https://www.dropbox.com/s/n9su8gok5pvrz5q/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png?raw=1)
+      ![](stackbit_asset_id:static:public/images/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png)
 
 
       ![](https://www.dropbox.com/s/v817bmcqdlum0fu/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.jpg.png?raw=1)
