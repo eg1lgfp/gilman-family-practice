@@ -7,7 +7,7 @@ sections:
       - label: Let's go to Clinic Info & Forms
         url: /docs
         style: primary
-    content: images/
+    content: images/Asset 2Clinic_FrontView-Pathway-Narrow_byWG.png
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
