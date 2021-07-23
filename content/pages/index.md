@@ -9,6 +9,7 @@ sections:
         style: primary
     content: ''
     image: images/FrontDoor of Clinic June 2021.jpg
+    title: 'TEST '
   - section_id: features
     type: section_grid
     col_number: three
