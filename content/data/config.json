@@ -59,7 +59,7 @@
                 ]
             }
         ],
-        "logo_img": "images/marvelous-squid.png"
+        "logo_img": "images/good-goose.png"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=libris&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
@@ -89,5 +89,5 @@
         ]
     },
     "domain": "https://amazing-apple-57461.netlify.app",
-    "favicon": "images/GFP_Favicon_Logo_ess_20210723.png"
+    "favicon": "images/mighty-turtle.png"
 }
