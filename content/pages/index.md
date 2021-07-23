@@ -7,8 +7,8 @@ sections:
       - label: Let's go to Clinic Info & Forms
         url: /docs
         style: primary
-    content: >
-     
+    content: ''
+    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
