@@ -8,7 +8,7 @@ sections:
         url: /docs
         style: primary
     content: >
-    ![](https://www.dropbox.com/s/r4fubbgb7v74w9g/Asset%202Clinic_FrontView-Pathway-Narrow_byWG.png?dl=1)
+
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
