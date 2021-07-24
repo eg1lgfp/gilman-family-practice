@@ -8,7 +8,7 @@ sections:
         url: /docs
         style: primary
     content: >
-
+![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
