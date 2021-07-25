@@ -5,9 +5,6 @@ sections:
     content: >
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      ![](stackbit_asset_id:static:public/images/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png)
     actions: []
     type: section_hero
     image: images/FrontDoor of Clinic June 2021.jpg
