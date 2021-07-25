@@ -6,7 +6,7 @@ sections:
       ## Lorem ipsum
 
     actions:
-      - label: lorem-ipsum
+      - label: Let's go to clinic Info and Forms!
         url: '#'
         style: link
         icon_class: dev
