@@ -14,7 +14,7 @@ sections:
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: lorem-ipsum
     content: >
-
+!
 
 ![](stackbit_asset_id:static:public/images/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png)
 
