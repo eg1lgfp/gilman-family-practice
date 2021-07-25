@@ -15,7 +15,7 @@ sections:
       - dolor sit amet
     actions:
       - label: Let's go to Clinic Info & Forms
-        url: '#'
+        url: /docs
         style: link
         icon_class: dev
         new_window: false
