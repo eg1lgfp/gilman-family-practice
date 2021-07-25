@@ -7,7 +7,9 @@ sections:
       owners from the developer/designer, apologies for any errors/links that
       don't work as we move all the forms and other content to a more secure
       location. Most features are unaffected, this mainly affects forms, and
-      some of the images.
+      some of the images. NOTE: If a link doesn't work, please try again later
+      as we continue to update the links to their new locations. Sorry for any
+      confusion.
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
