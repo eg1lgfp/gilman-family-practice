@@ -14,7 +14,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Let's go to Clinic Info & Forms
         url: '#'
         style: link
         icon_class: dev
