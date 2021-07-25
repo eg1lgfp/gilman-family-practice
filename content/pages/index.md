@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Let's go to Clinic Info & Forms
         url: /docs
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
