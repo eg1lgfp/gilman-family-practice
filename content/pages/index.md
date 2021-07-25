@@ -14,7 +14,6 @@ sections:
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: lorem-ipsum
     content: >
-
     actions: []
     type: section_hero
   - section_id: features
