@@ -13,7 +13,14 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: hero
