@@ -2,7 +2,6 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    content:
     actions:
       - label: Let's go to Clinic Info & Forms
         url: /docs
