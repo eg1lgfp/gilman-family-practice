@@ -2,8 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    content: |
-      ![](stackbit_asset_id:static:public/images/incredible-pineapple.png)
+    content:
     actions:
       - label: Let's go to Clinic Info & Forms
         url: /docs
