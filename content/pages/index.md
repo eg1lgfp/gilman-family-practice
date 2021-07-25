@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    content: >+
+    content: >
       Notice to all visitors: Site currently under maintenance for hand-off to
       owners from the developer/designer, apologies for any errors/links that
       don't work as we move all the forms and other content to a more secure
@@ -11,6 +11,8 @@ sections:
       as we continue to update the links to their new locations. Sorry for any
       confusion.
 
+
+      ![](stackbit_asset_id:static:public/images/GFP_HeroSection-LogoV4\_ess\_20210725.png)
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
