@@ -2,18 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    actions:
-      - label: Let's go to Clinic Info & Forms
-        url: /docs
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_hero
-    image: images/FrontDoor of Clinic June 2021.jpg
-  - section_id: lorem-ipsum
-    content: >
+    content: ''
     actions: []
     type: section_hero
   - section_id: features
