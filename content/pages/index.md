@@ -7,7 +7,7 @@ sections:
 
     actions:
       - label: Let's go to clinic Info and Forms!
-        url: '#'
+        url: /docs
         style: link
         icon_class: dev
         new_window: false
