@@ -10,6 +10,9 @@ sections:
       some of the images. NOTE: If a link doesn't work, please try again later
       as we continue to update the links to their new locations. Sorry for any
       confusion.
+
+
+      ![](https://www.dropbox.com/s/qnismip62aq14aa/GFP_HeroSection-LogoV4\_ess\_20210725.png?raw=1)
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
