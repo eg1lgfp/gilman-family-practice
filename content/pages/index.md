@@ -15,7 +15,7 @@ sections:
   - section_id: lorem-ipsum
     content: >
 
-    
+
       ![](stackbit_asset_id:static:public/images/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png)
 
 
