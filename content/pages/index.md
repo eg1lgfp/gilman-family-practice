@@ -1,13 +1,18 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
+  - section_id: lorem-ipsum
+    content: |
+      ![](stackbit_asset_id:static:public/images/incredible-pineapple.png)
     actions:
       - label: Let's go to Clinic Info & Forms
         url: /docs
         style: primary
-    content: >
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_hero
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
