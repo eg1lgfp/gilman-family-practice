@@ -13,17 +13,12 @@ sections:
     type: section_hero
     image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ![](stackbit_asset_id:static:public/images/GilmanFP_Logo_IterationR4\_ess\_20210618-11.png)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      ![](<stackbit_asset_id:static:public/images/Asset
+      2Clinic_FrontView-Pathway-Narrow_byWG.png>)
     actions: []
     type: section_hero
   - section_id: features
