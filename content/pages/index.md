@@ -23,14 +23,6 @@ sections:
         type: action
     type: section_hero
     image: images/FrontDoor of Clinic June 2021.jpg
-  - section_id: hero
-    type: section_hero
-    actions:
-      - label: Let's go to Clinic Info & Forms
-        url: /docs
-        style: primary
-    content: ''
-    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
