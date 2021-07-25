@@ -2,17 +2,9 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    content: >-
+    content: |+
       ## Lorem ipsum
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_hero
     image: images/FrontDoor of Clinic June 2021.jpg
