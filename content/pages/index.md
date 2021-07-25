@@ -12,7 +12,7 @@ sections:
       confusion.
 
 
-      ![](stackbit_asset_id:static:public/images/GFP_HeroSection-LogoV4\_ess\_20210725.png)
+      ![](stackbit_asset_id:static:public/images/GFP_HeroSection-LogoV4\_ess\_20210725.png)![](stackbit_asset_id:static:public/images/GFP_HeroSection-LogoV4\_ess\_20210725.png)
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
