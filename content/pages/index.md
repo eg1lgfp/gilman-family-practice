@@ -15,6 +15,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
