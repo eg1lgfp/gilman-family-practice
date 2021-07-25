@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     content: >
-      > Notice to all visitors: Site currently under maintenance for hand-off to
+      Notice to all visitors: Site currently under maintenance for hand-off to
       owners from the developer/designer, apologies for any errors/links that
       don't work as we move all the forms and other content to a more secure
       location. Most features are unaffected, this mainly affects forms, and
