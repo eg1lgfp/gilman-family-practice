@@ -1,10 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: lorem-ipsum
-    content: ''
-    actions: []
-    type: section_hero
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: >-
