@@ -38,7 +38,7 @@ subtitle: "Our goal at Gilman Family Practice is to provide modern, evidence-bas
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
-> **
+>
 
 ## **Our Provider Family**
 
