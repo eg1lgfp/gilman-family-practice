@@ -188,6 +188,7 @@ sections:
         type: action
         label: How to Become a Patient
     type: section_content
+    image: images/FrontDoor of Clinic June 2021.jpg
   - section_id: cta
     type: section_cta
     title: Contact
