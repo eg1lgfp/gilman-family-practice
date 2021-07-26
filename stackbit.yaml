@@ -184,10 +184,11 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: actions
         type: list
         items:
           type: string
+        hidden: true
   advanced:
     type: page
     label: Advanced Page
