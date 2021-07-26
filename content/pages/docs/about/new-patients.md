@@ -21,6 +21,14 @@ seo:
     - name: 'twitter:description'
       value: This is the overview page
 layout: docs
+actions:
+  - label: lorem-ipsum
+    url: '#'
+    style: link
+    icon_class: dev
+    new_window: false
+    no_follow: false
+    type: action
 ---
 > Print, complete and bring to the office on the day of your appointment.
 
