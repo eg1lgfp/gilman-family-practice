@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Hero Section
     content: >
       Notice to visitors: Site currently under maintenance, including upgrades
       and forms relocation:
