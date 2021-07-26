@@ -42,4 +42,4 @@ Whether you are a new patient or there are changes in your insurance or contact 
 
 ➔ Bring an up to date [**list of all your medications**](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) or your prescription bottles with you.
 
-[***Let's go to Medications List***](https://github.com/erik1968/gilman-family-practice/blob/6a3883c0ca6289015c6e94dc2979833b6eff5318/public/forms/NoticePrivacyPractices.pdf)
+[***Let's go to Medications List***](https://www.gilmanfamilypractice.com/public/forms/NoticePrivacyPractices.pdf)
