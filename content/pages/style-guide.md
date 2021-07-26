@@ -34,9 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: >-
-  High quality, modern healthcare in a small practice setting. You are more than
-  just a number to us. Welcome.
+subtitle: "Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.\_ And we do all of this in an atmosphere that we hope is reassuring and familiar."
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
