@@ -184,6 +184,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+      - name: ''
+        type: string
   advanced:
     type: page
     label: Advanced Page
