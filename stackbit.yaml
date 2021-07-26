@@ -187,7 +187,8 @@ models:
       - name: actions
         type: list
         items:
-          type: string
+          type: model
+          models: []
         label: Action Buttons
   advanced:
     type: page
