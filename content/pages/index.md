@@ -3,9 +3,8 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     content: >
-      Notice to visitors: Site currently under maintenance, including upgrades,
-      e.g., newer logo & content versions, photos and forms relocation to more
-      secure and faster access location, with some exceptions:
+      Notice to visitors: Site currently under maintenance, including upgrades
+      and forms relocation:
 
 
       *   All of this will be seamless for the most part except for FORMS. Forms
