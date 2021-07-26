@@ -188,6 +188,7 @@ models:
         type: list
         items:
           type: string
+        label: Action Buttons
   advanced:
     type: page
     label: Advanced Page
