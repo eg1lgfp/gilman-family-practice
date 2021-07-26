@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 title: Gilman Family Practice
-subtitle: High Quality M
+subtitle: High Quality Modern Healthcare in a Small Clinic
 ---
 ![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
 
