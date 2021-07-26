@@ -1,8 +1,6 @@
 ---
 title: 'Patient Enrollment, Forms and Appointments'
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+excerpt: 'All '
 seo:
   title: Patient Info + Enrollment
   description: >
