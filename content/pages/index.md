@@ -3,14 +3,14 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     content: >
-      ###### Notice to all visitors: Site currently under maintenance for
-      hand-off to owners from the developer, apologies for any errors/links that
-      don't work as we move all the forms and other content to a more secure
-      location. Most features are unaffected, this mainly affects the forms.
+      ###### Notice to all visitors: Site currently under maintenance, including
+      upgrades, e.g., newer logo & content versions, photos and forms relocation
+      to more secure and faster access location \[ all of this will be seamless
+      for visitors for the most part ]
 
 
-      NOTE: If a link doesn't work, please try again later as we continue to
-      update the links to their new locations. Sorry for any confusion.
+      If a link doesn't work, please try again later as we continue to update
+      the links to their new locations. Sorry for any confusion.
 
 
       ![](https://www.dropbox.com/s/qnismip62aq14aa/GFP_HeroSection-LogoV4\_ess\_20210725.png?raw=1)
