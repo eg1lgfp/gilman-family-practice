@@ -24,7 +24,7 @@ seo:
       value: This is the about page
 layout: docs
 actions:
-  - label: Let's Go to Medications List!
+  - label: Let's Go to Medications List
     url: '#'
     style: primary
     icon_class: dev
