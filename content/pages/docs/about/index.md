@@ -28,12 +28,12 @@ layout: docs
 ---
 Whether you are a new patient or there are changes in your insurance or contact information, please complete the Patient Information form and the Medication information form as accurately as possible. Bring the forms and your insurance card on your next visit.
 
-Arrive for your appointment 10 minutes early to fill out any needed paperwork. Please wear a mask, come in the office and sign in.
+➔ Arrive for your appointment 10 minutes early to fill out any needed paperwork. Please wear a mask, come in the office and sign in.
 
-Don't forget to bring your insurance card with you
+➔ Don't forget to bring your insurance card with you
 
-Please be ready to make your co-pay during your visit
+➔ Please be ready to make your co-pay during your visit
 
-Bring an up to date [**list of all your medications**](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) or your prescription bottles with you.
+➔ Bring an up to date [**list of all your medications**](https://www.dropbox.com/s/n2t5wtqtt2lylor/MedicationList.pdf?dl=0) or your prescription bottles with you.
 
 [***Let's go to Medications List***](https://www.dropbox.com/s/yyc3zrgw88epr4g/NEW%20Patient%20Medication%20List.pdf?dl=0)
