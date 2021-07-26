@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     content: >
-      ###### Notice to all visitors: Site currently under maintenance, including
+      Notice to all visitors: Site currently under maintenance, including
       upgrades, e.g., newer logo & content versions, photos and forms relocation
       to more secure and faster access location \[ all of this will be seamless
       for visitors for the most part ]
