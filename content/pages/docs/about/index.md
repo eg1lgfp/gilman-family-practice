@@ -1,6 +1,6 @@
 ---
 title: 'Patient Enrollment, Forms and Appointments'
-excerpt: 'All '
+excerpt: 'All Clinic Forms and '
 seo:
   title: Patient Info + Enrollment
   description: >
