@@ -7,11 +7,9 @@ sections:
       and forms relocation:
 
 
-      *   All of this will be seamless for the most part except for FORMS. Forms
-      are being moved so at times the current links will not work depending on
-      when you click/activate it. So, if a link doesn't work, please try again
-      later as we continue to update the links to their new locations. Sorry for
-      any confusion.
+      *   Forms are being moved so at times the links will not work depending on
+      when you click it. If that happens, please try again later as we update
+      the links with their new locations. 
 
 
       ![](https://www.dropbox.com/s/qnismip62aq14aa/GFP_HeroSection-LogoV4\_ess\_20210725.png?raw=1)
