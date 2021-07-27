@@ -3,13 +3,6 @@ title: Home
 sections:
   - section_id: Hero Section
     content: >
-      Notice to visitors: Site currently under maintenance, including upgrades
-      and forms relocation:
-
-
-      *   Forms are being moved so at times the links will not work depending on
-      when you click it. If that happens, please try again later as we update
-      the links with their new locations. 
 
 
       ![](https://www.dropbox.com/s/qnismip62aq14aa/GFP_HeroSection-LogoV4\_ess\_20210725.png?raw=1)
