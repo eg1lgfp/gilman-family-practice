@@ -38,7 +38,6 @@ subtitle: >-
   High Quality > Modern Healthcare in a Small Practice Setting > You are More
   than a Number to Us. Welcome...
 ---
-![](stackbit_asset_id:static:public/images/Clinic_FrontView_byWG.jpg)
 
 > Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.
 >
