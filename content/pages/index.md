@@ -9,7 +9,6 @@ sections:
       ![](https://www.dropbox.com/s/v8q9zd078h0syom/GFP_Clinic_Front_WG_June2021.png?raw=1)
 
 
-      ![](stackbit_asset_id:static:public/images/Clinic_Flower-Macro_byWG.jpg)
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
