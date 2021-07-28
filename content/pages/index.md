@@ -7,8 +7,6 @@ sections:
 
 
       ![](https://www.dropbox.com/s/v8q9zd078h0syom/GFP_Clinic_Front_WG_June2021.png?raw=1)
-
-
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
@@ -134,7 +132,7 @@ sections:
     grid_items:
       - title: 'Bryce H. Gilman, D.O.'
         content: >
-          ![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
+          ![](https://www.dropbox.com/s/wow5idlw8awyfak/GFP_BGilman_Portrait_WG_ess.png?raw=1)
         actions:
           - label: Learn More
             url: /style-guide
