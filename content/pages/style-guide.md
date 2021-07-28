@@ -50,7 +50,7 @@ subtitle: >-
 
 ##### **Bryce H. Gilman, D.O.**
 
-****![](https://www.dropbox.com/s/wow5idlw8awyfak/GFP_BGilman_Portrait_WG_ess.png?raw=1)
+![](https://www.dropbox.com/s/wow5idlw8awyfak/GFP_BGilman_Portrait_WG_ess.png?raw=1)
 
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
