@@ -38,24 +38,23 @@ subtitle: >-
   High Quality > Modern Healthcare in a Small Practice Setting > You are More
   than a Number to Us. Welcome...
 ---
+![](https://www.dropbox.com/s/p6ihvak52c9is7j/GFP_Clinic_Front\_20210615.png?raw=1)
 
 > Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.
->
+
 > We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.
->
+
 > Outside of the patient visit, we endeavor to be responsive to the outcomes from that visit, from lab and imaging results to follow up questions, leaving no one to wonder what happened.  And we do all of this in an atmosphere that we hope is reassuring and familiar.
 
 ## **Our Provider Family**
 
 ##### **Bryce H. Gilman, D.O.**
 
-
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
 After over 15 years, Bryce still loves family medicine—every day is different and full of interesting and wonderful people.  You never know what the day will bring.  If he won the lottery tomorrow, Bryce would definitely retire to New Zealand. However, that is a fairly unlikely occurrence as one has to play to win after all. So, keeping on here is a pretty great second prize. Outside the office, Bryce loves dogs and the water but not wet dogs. He enjoys reading scary tales, both real and imagined.  He would be hard pressed to choose between watching a monster movie, building a Lego set or playing a video game with his boys. He used to be cool, but all that’s left of that is his shoes. 
 
 ##### **Laurie Dimler, ARNP**
-
 
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
@@ -64,7 +63,6 @@ Still interested in more education, she finished her Doctor of Nurse Practice de
 Laurie and her husband, Ken love to hike and spend time with family. Their 3 children, Christopher, Ryan and Macy are all grown and busy with work and school in the north Idaho area.
 
 ##### **Kristina A. Stewart, PA-C**
-
 
 Kristina was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
 
@@ -76,4 +74,4 @@ Doctors of Osteopathy, or [**Osteopathic Physicians**](https://osteopathic.org/w
 
 Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
 
-An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
+An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.![](https://www.dropbox.com/s/p6ihvak52c9is7j/GFP_Clinic_Front\_20210615.png?raw=1)
