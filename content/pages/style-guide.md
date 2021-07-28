@@ -58,7 +58,7 @@ After over 15 years, Bryce still loves family medicine—every day is different 
 
 ##### **Laurie Dimler, ARNP**
 
-****![](https://www.dropbox.com/s/apevbt8vectxs61/GFP_LDimler_Portrait_LD_ess.png?raw=1)
+![](https://www.dropbox.com/s/apevbt8vectxs61/GFP_LDimler_Portrait_LD_ess.png?raw=1)
 
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
@@ -68,7 +68,7 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ##### **Kristina A. Stewart, PA-C**
 
-****![](https://www.dropbox.com/s/yoc3uze45v3ay99/GFP_KStewart_Portrait_ess.png?raw=1)
+![](https://www.dropbox.com/s/yoc3uze45v3ay99/GFP_KStewart_Portrait_ess.png?raw=1)
 
 Kristina was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
 
