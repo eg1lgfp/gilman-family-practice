@@ -38,9 +38,9 @@ subtitle: >-
   High Quality > Modern Healthcare in a Small Practice Setting > You are More
   than a Number to Us. Welcome...
 ---
-![](https://www.dropbox.com/s/4s62bienttoy9t7/Clinic_FrontView_byWG.jpg?dl=1)
+![](stackbit_asset_id:static:public/images/Clinic_FrontView_byWG.jpg)
 
-> Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion. 
+> Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.
 >
 > We believe health care has the best outcomes when decisions are made collaboratively, our providers work hard to be sure our patients understand their medical issues and buy in to our plans to help.
 >
@@ -50,7 +50,7 @@ subtitle: >-
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://www.dropbox.com/s/pey3ww1vc55fm5x/DrGilman_forGFP-WebsiteProfile_byWG_ess-02.png?raw=1)
+![](stackbit_asset_id:static:public/images/GFP_BGilman_Portrait_WG_ess.png)
 
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
@@ -58,7 +58,7 @@ After over 15 years, Bryce still loves family medicine—every day is different 
 
 ##### **Laurie Dimler, ARNP**
 
-![](https://www.dropbox.com/s/6nejp26l2fns9qn/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy-04%20copy.png?raw=1)
+![](stackbit_asset_id:static:public/images/GFP_LDimler_Portrait_LD_ess.png)
 
 Laurie started her medical career as an RN in 1992 after completing a BSN degree at Minot State University in ND. After 13 years working in ICU, medical/oncology, PACU and rural nursing, she completed her Master’s of Science in Nursing degree and started teaching in a Baccalaureate nursing program for 8 years.
 
@@ -68,7 +68,7 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://www.dropbox.com/s/n361bthcn7an31s/Kristina_Portrait_forGFP-BioPhoto_ess\_200x200v3-03%20copy.png?raw=1)
+![](stackbit_asset_id:static:public/images/GFP_KStewart_Portrait_ess.png)
 
 Kristina was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
 
