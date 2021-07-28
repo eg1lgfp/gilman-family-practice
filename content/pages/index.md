@@ -141,7 +141,7 @@ sections:
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ![](https://www.dropbox.com/s/6nejp26l2fns9qn/Laurie_forGFP-WebsiteProfile_byLD\_200x200\_noBG-05%20copy-04%20copy.png?raw=1)
+          ![](https://www.dropbox.com/s/apevbt8vectxs61/GFP_LDimler_Portrait_LD_ess.png?raw=1)
         actions:
           - label: Learn More
             url: /style-guide
