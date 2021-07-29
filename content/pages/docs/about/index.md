@@ -2,7 +2,7 @@
 title: 'Patient Enrollment, Forms and Appointments'
 excerpt: 'All Clinic Enrollment, Appointment and Forms Info'
 seo:
-  title: Patient Info + Enrollment
+  title: 'Patient Enrollment, Forms & Appts'
   description: >
     This is where patients of Gilman Family Practice can find all of the
     clinic's forms and docs required for New and Existing patients
