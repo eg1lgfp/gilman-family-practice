@@ -1,7 +1,7 @@
 ---
 title: Clinic Information Section
 seo:
-  title: Docs and Forms
+  title: 'Clinic Info, Forms & Appts'
   description: >+
     This is the Documentation and Forms pages (also includes Insurance info on
     this page)
