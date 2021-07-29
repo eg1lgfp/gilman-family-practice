@@ -7,7 +7,7 @@ image: images/SpokaneRiver_Cropped-for-TopBanner_byWG-EG_June2021.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: 'Med New, Info & Articles'
+  title: Med News Info & Articles
   description: >-
     This is the blog page for Gilman Family Practice providers to share
     latest/greatest medical news and info from the world of healthcare &
