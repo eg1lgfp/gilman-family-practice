@@ -3,9 +3,11 @@ title: Existing Patients
 weight: 2
 seo:
   title: Existing Patient Forms
-  description: |
-    All the required forms for existing
-     patients are downloadable from this page (Adobe PDF format)
+  description: >+
+    All the required forms for existing patients are downloadable from this page
+    (Adobe PDF format)
+
+
   extra:
     - name: 'og:type'
       value: website
