@@ -4,7 +4,9 @@ weight: 2
 excerpt: lorem-ipsum
 seo:
   title: Schedule Appt
-  description: This is for existing patient forms & docs
+  description: >
+    This is where patients can schedule an appt by contacting the front desk
+    main #.
   extra:
     - name: 'og:type'
       value: website
