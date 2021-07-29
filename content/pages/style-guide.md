@@ -1,7 +1,7 @@
 ---
 image: images/FrontDoor of Clinic June 2021.jpg
 seo:
-  title: About Clinic
+  title: About the Clinic
   description: >-
     An about page for general info about the clinic plus info about the medical
     providers
