@@ -3,7 +3,7 @@ title: Schedule Appointment
 weight: 2
 excerpt: lorem-ipsum
 seo:
-  title: Existing Patients
+  title: Schedule Appt
   description: This is for existing patient forms & docs
   extra:
     - name: 'og:type'
