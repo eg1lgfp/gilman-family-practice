@@ -2,7 +2,7 @@
 title: Existing Patients
 weight: 2
 seo:
-  title: Existing Patients
+  title: Existing Patient Forms
   description: This is for existing patient forms & docs
   extra:
     - name: 'og:type'
