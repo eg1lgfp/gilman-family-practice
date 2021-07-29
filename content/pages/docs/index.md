@@ -3,8 +3,8 @@ title: Clinic Information Section
 seo:
   title: 'Clinic Info, Forms & Appts'
   description: >+
-    This is the Documentation and Forms pages (also includes Insurance info on
-    this page)
+    These are the Clinic Information Page, that include Insurance info and HIPAA
+    / Privacy Info
 
   extra:
     - name: 'og:type'
