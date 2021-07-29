@@ -2,7 +2,7 @@
 title: New Patients
 weight: 1
 seo:
-  title: New Patients
+  title: New Patient Forms
   description: This is the overview page
   extra:
     - name: 'og:type'
