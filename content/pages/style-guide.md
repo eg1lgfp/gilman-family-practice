@@ -2,9 +2,9 @@
 image: images/FrontDoor of Clinic June 2021.jpg
 seo:
   title: About the Clinic
-  description: >-
-    An about page for general info about the clinic plus info about the medical
-    providers
+  description: >
+    An About page for some general background/history of the clinic, including
+    photo & Bios for each GFP provider, and more...
   extra:
     - name: 'og:type'
       value: website
