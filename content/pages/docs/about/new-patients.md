@@ -3,7 +3,9 @@ title: New Patients
 weight: 1
 seo:
   title: New Patient Forms
-  description: This is the overview page
+  description: >
+    All the required forms for new patients are downloadable from this page
+    (Adobe PDF format)
   extra:
     - name: 'og:type'
       value: website
