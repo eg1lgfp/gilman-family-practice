@@ -1,7 +1,7 @@
 ---
 title: Clinic Information Section
 seo:
-  title: 'Clinic Info, Forms & Appts'
+  title: 'Clinic Information, Insurance & HIPAA'
   description: >+
     These are the Clinic Information Page, that include Insurance info and HIPAA
     / Privacy Info
