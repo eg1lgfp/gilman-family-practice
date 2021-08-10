@@ -17,7 +17,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/FrontDoor of Clinic June 2021.jpg
+    image: images/GFP_Clinic_HeroSection_Banner_wg_Jun2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
