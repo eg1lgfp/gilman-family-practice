@@ -38,7 +38,7 @@ subtitle: >-
   High Quality > Modern Healthcare in a Small Practice Setting > You are More
   than a Number to Us. Welcome...
 ---
-![](https://www.dropbox.com/s/p6ihvak52c9is7j/GFP_Clinic_Front\_20210615.png?raw=1)
+![](images/GFP_Clinic_Front\_20210615.png)
 
 > Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.
 >
