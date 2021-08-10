@@ -1,5 +1,5 @@
 ---
-image: images/FrontDoor of Clinic June 2021.jpg
+image: images/GFP_Clinic_HeroSection_Banner_wg_Jun2021.jpg
 seo:
   title: About the Clinic
   description: >
