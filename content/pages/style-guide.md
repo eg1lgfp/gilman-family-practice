@@ -38,7 +38,7 @@ subtitle: >-
   High Quality > Modern Healthcare in a Small Practice Setting > You are More
   than a Number to Us. Welcome...
 ---
-![](images/GFP_Clinic_Front\_20210615.png)
+![](https://www.dropbox.com/s/p6ihvak52c9is7j/GFP_Clinic_Front\_20210615.png?raw=1)
 
 > Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion.
 
@@ -80,4 +80,4 @@ Doctors of Osteopathy, or [**Osteopathic Physicians**](https://osteopathic.org/w
 
 Not only do they use all of the tools of modern medicine to detect and treat disease, but Osteopathic Physicians are specially trained to perform osteopathic manipulation. Osteopathic manipulation is a technique in which osteopathic physicians use their hands to diagnose illness and treat patients. They pay particular attention to your joints, bones, muscles and nerves. As a result of manipulation, your circulation is often improved. A normal blood and nerve supply can help your body heal itself.
 
-An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.![](https://www.dropbox.com/s/p6ihvak52c9is7j/GFP_Clinic_Front\_20210615.png?raw=1)
+An [**Osteopathic Physician**](https://osteopathic.org/what-is-osteopathic-medicine/) is a physician whose training and experience qualify him or her to practice in the fields of medicine and surgery and who is able to accept the total continuing responsibility of the patient and/or family as a whole as their physician and medical advisor. Not only do they care about the part that is sick, such as the arm or leg, but Osteopathic Physicians care about the whole you.
