@@ -132,8 +132,8 @@ sections:
     col_number: three
     grid_items:
       - title: 'Bryce H. Gilman, D.O.'
-        content: >
-          ![](https://www.dropbox.com/s/wow5idlw8awyfak/GFP_BGilman_Portrait_WG_ess.png?raw=1)
+        content: |
+          ![](images/GFP_BGilman_Portrait_WG_ess.png)
         actions:
           - label: Learn More
             url: /style-guide
