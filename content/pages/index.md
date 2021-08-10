@@ -141,8 +141,8 @@ sections:
       - title: 'Laurie Dimler, ARNP'
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
-          ![](https://www.dropbox.com/s/apevbt8vectxs61/GFP_LDimler_Portrait_LD_ess.png?raw=1)
+        content: |
+          ![](images/GFP_LDimler_Portrait_LD_ess.png)
         actions:
           - label: Learn More
             url: /style-guide
