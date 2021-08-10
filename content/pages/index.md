@@ -153,8 +153,8 @@ sections:
             type: action
         type: grid_item
       - title: 'Kristina A. Stewart, PA-C'
-        content: >
-          ![](https://www.dropbox.com/s/yoc3uze45v3ay99/GFP_KStewart_Portrait_ess.png?raw=1)
+        content: |
+          ![](images/GFP_KStewart_Portrait_ess.png)
         actions:
           - label: Learn More
             url: /style-guide
