@@ -2,11 +2,12 @@
 title: Home
 sections:
   - section_id: Hero Section
-    content: >
-      ![](https://www.dropbox.com/s/qnismip62aq14aa/GFP_HeroSection-LogoV4\_ess\_20210725.png?raw=1)
+    content: |
 
 
-      ![](https://www.dropbox.com/s/v8q9zd078h0syom/GFP_Clinic_Front_WG_June2021.png?raw=1)
+      ![](images/GFP_HeroSection-LogoV4\_ess\_20210725.png)
+
+      ![](images/GFP_Clinic_Front_WG_June2021.png)
     actions:
       - label: Let's go to clinic Info and Forms!
         url: /docs
@@ -16,7 +17,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
-    image: images/FrontDoor of Clinic June 2021.jpg
+    image: images/GFP_Clinic_HeroSection_Banner_wg_Jun2021.jpg
   - section_id: features
     type: section_grid
     col_number: three
@@ -131,8 +132,8 @@ sections:
     col_number: three
     grid_items:
       - title: 'Bryce H. Gilman, D.O.'
-        content: >
-          ![](https://www.dropbox.com/s/wow5idlw8awyfak/GFP_BGilman_Portrait_WG_ess.png?raw=1)
+        content: |
+          ![](images/GFP_BGilman_Portrait_WG_ess.png)
         actions:
           - label: Learn More
             url: /style-guide
@@ -140,8 +141,8 @@ sections:
       - title: 'Laurie Dimler, ARNP'
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
-          ![](https://www.dropbox.com/s/apevbt8vectxs61/GFP_LDimler_Portrait_LD_ess.png?raw=1)
+        content: |
+          ![](images/GFP_LDimler_Portrait_LD_ess.png)
         actions:
           - label: Learn More
             url: /style-guide
@@ -152,8 +153,8 @@ sections:
             type: action
         type: grid_item
       - title: 'Kristina A. Stewart, PA-C'
-        content: >
-          ![](https://www.dropbox.com/s/yoc3uze45v3ay99/GFP_KStewart_Portrait_ess.png?raw=1)
+        content: |
+          ![](images/GFP_KStewart_Portrait_ess.png)
         actions:
           - label: Learn More
             url: /style-guide
