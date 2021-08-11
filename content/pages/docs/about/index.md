@@ -26,7 +26,8 @@ seo:
 layout: docs
 actions:
   - label: Let's Go to Medications List
-    url: '#'
+    url: >-
+      https://www.dropbox.com/s/yyc3zrgw88epr4g/New_Patient_Medications_List.pdf?dl=0
     style: primary
     icon_class: dev
     new_window: true
