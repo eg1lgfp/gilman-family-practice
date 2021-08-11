@@ -32,7 +32,7 @@ Please ***bring your insurance card and picture I.D. at the time of your appoint
 
 > **Please verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verification if your insurance is not listed, thank you.**
 
-## [**NOTICE OF PRIVACY PRACTICES AND HIPAA NOTICE:**](https://github.com/erik1968/gilman-family-practice/blob/6a3883c0ca6289015c6e94dc2979833b6eff5318/public/forms/new-patients/New%20Patient%20History%20Form.pdf)
+## [**NOTICE OF PRIVACY PRACTICES AND HIPAA NOTICE:**](https://github.com/erik1968/gilman-family-practice/blob/83f68cedc8f6d34f0a81c9ceeda50b083f626f9e/public/forms/NoticePrivacyPractices.pdf)
 
 The following is an explanation of how your medical information is used and disclosed.
 
