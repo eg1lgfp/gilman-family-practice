@@ -34,7 +34,7 @@ actions:
 ---
 > Print, complete and bring to the office on the day of your appointment.
 
-[**Informed Consent for Telemedicine Services**](https://www.dropbox.com/s/fmrl5d5g1pezxub/Informed%20Consent%20for%20Telemedicine%20Services.pdf?dl=0)
+[**Informed Consent for Telemedicine Services**](https://github.com/erik1968/gilman-family-practice/blob/efed83e71faa58d5106f7cdccc0c2af022da7779/public/forms/existing-patients/Informed_Consent_for_Telemedicine-Services.pdf)
 
 [**Medical Records Release PHI to GilmanFP**](https://www.dropbox.com/s/o927egpjwjbg5b4/Medical%20Records%20Release%20PHI%20to%20GilmanFP.pdf?dl=0)
 
