@@ -34,24 +34,22 @@ actions:
 ---
 > Print, complete and bring to the office on the day of your appointment.
 
+##### **📥  Informed Consent for Telemedicine Services**
 
+##### **📥 Medical Records Release PHI to GilmanFP**
 
-📥  Informed Consent for Telemedicine Services
+##### **📥 New Patient Form Age 0 to 12**
 
-📥 Medical Records Release PHI to GilmanFP
+##### **📥 New Patient Form 19+**
 
-📥 New Patient Form Age 0 to 12
+##### **📥 New Patient Form Minor Age 13 to 18**
 
-📥 New Patient Form 19+
+##### **📥 New Patient History Form**
 
-📥 New Patient Form Minor Age 13 to 18
+##### **📥 New Patient Medical Records Information**
 
-📥 New Patient History Form
+##### **📥 New Patient PHQ-9**
 
-📥 New Patient Medical Records Information
+##### **📥 New Patient Systems Review**
 
-📥 New Patient PHQ-9
-
-📥 New Patient Systems Review
-
-📥 New Patient Medications List
+##### **📥 New Patient Medications List**
