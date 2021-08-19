@@ -46,10 +46,10 @@ subtitle: >-
 
 [**➔ CDC Guidance**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
-**➔ Washington State Covid-19 Hub**
+[**➔ Washington State Covid-19 Hub**](https://coronavirus.wa.gov/)
 
-**➔ Pfizer's Covid 19 Hub**
+[**➔ Pfizer's Covid 19 Hub**](https://www.pfizer.com/science/coronavirus)
 
-**➔ Moderna**
+[**➔ Moderna**](https://www.modernatx.com/covid-19-resources/publications-and-external-resources)
 
-**➔ Johnson & Johnson**
+[**➔ Johnson & Johnson**](https://www.jnj.com/covid-19)
