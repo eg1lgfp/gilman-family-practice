@@ -28,9 +28,7 @@ layout: docs
 ---
 > **Click or Tap the applicable form links, then click "Download" so you can print, complete and bring to the office on the day of your appointment.**
 
-##### ****
-
-[****](https://www.dropbox.com/s/d3d5s2ovbitn2sn/Exising%20Patient%20History%20Form.pdf?dl=0)📥 **Existing Patient History Form**
+📥 **Existing Patient History Form**
 
 📥 **Existing Patient Systems Review**
 
