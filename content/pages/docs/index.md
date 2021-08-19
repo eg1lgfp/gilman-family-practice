@@ -26,7 +26,7 @@ layout: docs
 ---
 ### **Insurance Information:**
 
-Please ***bring your Insurance Card and Photo ID*** *at the time of your appointment.*
+Please ***bring your Insurance Card and Photo ID*** at the time of your appointment.
 
 ##### **Asuris | Premera BC | Lifewise | LLH | Cigna | Aetna | First Choice | Regence Blueshield | Medicare Advantage Plan | AARP Med Advantage | Aetna Medadvantage | Kaiser Access PPO | Asuris Medadvantage Plan**
 
