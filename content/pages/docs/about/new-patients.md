@@ -32,7 +32,7 @@ actions:
     no_follow: false
     type: action
 ---
-> Print, complete and bring to the office on the day of your appointment.
+> **Click or Tap the applicable form links, then click "Download" so you can print, complete and bring to the office on the day of your appointment.**
 
 ##### **📥  Informed Consent for Telemedicine Services**
 
