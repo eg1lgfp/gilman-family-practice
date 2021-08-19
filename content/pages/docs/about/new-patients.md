@@ -36,20 +36,20 @@ actions:
 
 ##### [**📥  Informed Consent for Telemedicine Services**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/Informed_Consent_for_Telemedicine_Services.pdf)
 
-##### **📥 Medical Records Release PHI to GilmanFP**
+##### [**📥 Medical Records Release PHI to GilmanFamilyPractice**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/Medical_Records_Release_PHI_to_GilmanFP.pdf)
 
-##### **📥 New Patient Form Age 0 to 12**
+##### [**📥 New Patient Form Age 0 to 12**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Form_Minor_Age\_0-12.pdf)
 
-##### **📥 New Patient Form 19+**
+##### [**📥 New Patient Form 19+**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Form_Adults_Age\_19-and-Older.pdf)
 
-##### **📥 New Patient Form Minor Age 13 to 18**
+##### [**📥 New Patient Form Minor Age 13 to 18**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Form_Minor_Age\_13-18.pdf)
 
-##### **📥 New Patient History Form**
+##### [**📥 New Patient History Form**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_History_Form.pdf)
 
-##### **📥 New Patient Medical Records Information**
+##### [**📥 New Patient Medical Records Information**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Medical_Records_Info.pdf)
 
-##### **📥 New Patient PHQ-9**
+##### [**📥 New Patient PHQ-9**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_PHQ-9.pdf)
 
-##### **📥 New Patient Systems Review**
+##### [**📥 New Patient Systems Review**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Systems_Review.pdf)
 
-##### **📥 New Patient Medications List**
+##### [**📥 New Patient Medications List**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Medication_List.pdf)
