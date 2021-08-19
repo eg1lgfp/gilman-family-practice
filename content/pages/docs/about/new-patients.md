@@ -34,22 +34,24 @@ actions:
 ---
 > Print, complete and bring to the office on the day of your appointment.
 
-[📥 Informed Consent for Telemedicine Services](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/Informed_Consent_for_Telemedicine_Services.pdf)
 
-📥[\*\*  Medical Records Release PHI to GilmanFP\*\*](https://www.dropbox.com/s/o927egpjwjbg5b4/Medical%20Records%20Release%20PHI%20to%20GilmanFP.pdf?dl=0)
 
-📥[\*\*  New Patient Form Age 0 to 12\*\*](https://www.dropbox.com/s/mzf2h24he68wr6z/NEW%20PATIENT%20FORM%20Age%200%20to%2012.pdf?dl=0)
+📥  Informed Consent for Telemedicine Services
 
-📥[\*\*  New Patient Form 19+\*\*](https://www.dropbox.com/s/3g81xccnj9n59zs/NEW%20PATIENT%20FORM%20AGE%2019%2B.pdf?dl=0)
+📥 Medical Records Release PHI to GilmanFP
 
-📥[\*\*  New Patient Form Minor Age 13 to 18\*\*](https://www.dropbox.com/s/h4fgonmuypi9yfp/NEW%20PATIENT%20FORM%20Minor%20Age%2013%20to%2018.pdf?dl=0)
+📥 New Patient Form Age 0 to 12
 
-📥[\*\*  New Patient History Form\*\*](https://www.dropbox.com/s/l27mzlsqn1yd78w/New%20Patient%20History%20Form.pdf?dl=0)
+📥 New Patient Form 19+
 
-📥[\*\*  New Patient Medical Records Information\*\*](https://www.dropbox.com/s/yvo0nwwf4cdn4y0/New%20Patient%20Medical%20Records%20Information.pdf?dl=0)
+📥 New Patient Form Minor Age 13 to 18
 
-📥[\*\*  New Patient PHQ-9\*\*](https://www.dropbox.com/s/c3y3pp7jnz4lm50/New%20Patient%20PHQ-9.pdf?dl=0)
+📥 New Patient History Form
 
-📥[\*\*  New Patient Systems Review\*\*](https://www.dropbox.com/s/0p8h4jzlbn9kg7o/New%20Patient%20Systems%20Review.pdf?dl=0)
+📥 New Patient Medical Records Information
 
-📥[\*\*  New Patient Medications List\*\*](https://www.dropbox.com/s/yyc3zrgw88epr4g/NEW%20Patient%20Medication%20List.pdf?dl=0)
+📥 New Patient PHQ-9
+
+📥 New Patient Systems Review
+
+📥 New Patient Medications List
