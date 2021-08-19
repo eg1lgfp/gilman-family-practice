@@ -28,7 +28,7 @@ layout: docs
 ---
 > **Click or Tap the applicable form links, then click "Download" so you can print, complete and bring to the office on the day of your appointment.**
 
-📥 **Existing Patient History Form**
+[📥 **Existing Patient History Form**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/existing-patients/Existing_Patient_History_Form.pdf)
 
 📥 **Existing Patient Systems Review**
 
