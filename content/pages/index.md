@@ -73,7 +73,7 @@ sections:
         content: |
           ##### **Holiday Closures:**
 
-          Martin Luther King Jr. Day | Monday, 17 Jan 2022
+          Martin Luther King Jr. Day | Monday, 30 May 2022
 
           **Provider Availability:**
 
