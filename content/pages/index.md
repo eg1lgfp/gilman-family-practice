@@ -73,7 +73,7 @@ sections:
         content: |
           ##### **Holiday Closures:**
 
-          Labor Day | September 6th, 2021 
+          Martin Luther King Jr. Day | Monday, 17 Jan 2022
 
           **Provider Availability:**
 
