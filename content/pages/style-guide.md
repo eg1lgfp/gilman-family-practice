@@ -38,7 +38,7 @@ subtitle: >-
   High Quality > Modern Healthcare in a Small Practice Setting > You are More
   than a Number to Us. Welcome...
 ---
-![](https://www.dropbox.com/s/p6ihvak52c9is7j/GFP_Clinic_Front\_20210615.png?raw=1)
+![](https://www.gilmanfamilypractice.com/images/GFP_Clinic_Front_20210615.png)
 
 > Our goal at Gilman Family Practice is to provide modern, evidence-based yet compassionate care for you and your family. With us, you will be offered important preventive care options but also access to our providers for acute issues in a timely fashion. 
 >
@@ -50,7 +50,7 @@ subtitle: >-
 
 ##### **Bryce H. Gilman, D.O.**
 
-![](https://www.dropbox.com/s/wow5idlw8awyfak/GFP_BGilman_Portrait_WG_ess.png?raw=1)
+![](https://www.gilmanfamilypractice.com/images/GFP_BGilman_Portrait_WG_ess.png)
 
 Dr Bryce Gilman grew up in the Spokane Valley and after years away for school and work he’d seen enough to know Spokane had every other place beat. Happy to move back to Washington in 2008, Dr. Gilman joined his father David Gilman and Dave’s long time partner Nick Curalli in their family practice near Valley Hospital. After many great years together, Dave and Nick retired in 2016 and Bryce has—with a lot of help—held the fort since. 
 
@@ -68,7 +68,7 @@ Laurie and her husband, Ken love to hike and spend time with family. Their 3 chi
 
 ##### **Kristina A. Stewart, PA-C**
 
-![](https://www.dropbox.com/s/yoc3uze45v3ay99/GFP_KStewart_Portrait_ess.png?raw=1)
+![](https://www.gilmanfamilypractice.com/images/GFP_KStewart_Portrait_ess.png)
 
 Kristina was born and raised in nearby Coeur d’Alene Idaho. She wanted to serve her country and see the world, so she joined the USAF. Her career in medicine began as an Aerospace Medical Technician. After she got her Bach. of Science degree, she was accepted into the University of Utah's School of Medicine where she earned her Master's of Physician Asst Studies degree. She's worked in Urgent Care and Family Medicine for the past 15 years.
 
