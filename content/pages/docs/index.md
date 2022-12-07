@@ -32,8 +32,8 @@ Please ***bring your Insurance Card and Photo ID*** at the time of your appointm
 
 > **Please verify with your insurance that we are an  in-network provider with your insurance plan, and ask us for verification if your insurance is not listed, thank you.**
 
-## [**NOTICE OF PRIVACY PRACTICES AND HIPAA NOTICE:**](https://github.com/erik1968/gilman-family-practice/blob/83f68cedc8f6d34f0a81c9ceeda50b083f626f9e/public/forms/NoticePrivacyPractices.pdf)
+## [**NOTICE OF PRIVACY PRACTICES AND HIPAA NOTICE:**](https://www.gilmanfamilypractice.com/forms/NoticePrivacyPractices.pdf)
 
 The following is an explanation of how your medical information is used and disclosed.
 
-The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality. [***Read more >>***](https://github.com/eg1lgfp/gilman-family-practice/blob/9cfaa5780e035103f251225dfa382417372acc0c/public/forms/NoticePrivacyPractices.pdf)
+The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality. [***Read more >>***](https://www.gilmanfamilypractice.com/forms/NoticePrivacyPractices.pdf)
