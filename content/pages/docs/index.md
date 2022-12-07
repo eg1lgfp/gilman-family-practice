@@ -36,4 +36,4 @@ Please ***bring your Insurance Card and Photo ID*** at the time of your appointm
 
 The following is an explanation of how your medical information is used and disclosed.
 
-The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality. [***Read more >>***](http://drgcg.com/NoticePrivacyPractices.pdf)
+The Health Insurance Portability and Accountability Act (HIPAA) of 1996, revised in 2013, requires us as your health care provider to maintain the privacy of your protected health information, and to notify affected individuals following a breach of unsecured protected health information.  We are required to maintain these records of your health care and are dedicated to maintaining confidentiality. [***Read more >>***](https://github.com/eg1lgfp/gilman-family-practice/public/forms/NoticePrivacyPractices.pdf)
