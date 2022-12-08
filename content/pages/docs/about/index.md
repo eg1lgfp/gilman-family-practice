@@ -27,7 +27,7 @@ layout: docs
 actions:
   - label: Let's Go to Medications List
     url: >-
-      https://www.dropbox.com/s/yyc3zrgw88epr4g/New_Patient_Medications_List.pdf?dl=0
+      (https://www.gilmanfamilypractice.com/forms/New_Patient_Medication_List.pdf)
     style: primary
     icon_class: dev
     new_window: true
@@ -42,4 +42,4 @@ Whether you are a new patient or there are changes in your insurance or contact 
 
 ➔ Please be ready to make your co-pay during your visit
 
-➔ Bring an up to date list of [**all your medications**](https://github.com/erik1968/gilman-family-practice/blob/347b25e12d582e63a876c8cc9d997856c86290fd/public/forms/new-patients/New_Patient_Medication_List.pdf) or your prescription bottles with you.
+➔ Bring an up to date list of [**all your medications**](https://www.gilmanfamilypractice.com/forms/New_Patient_Medication_List.pdf) or your prescription bottles with you.
