@@ -27,7 +27,7 @@ layout: docs
 actions:
   - label: Let's Go to Medications List
     url: >-
-      (https://www.gilmanfamilypractice.com/forms/New_Patient_Medication_List.pdf)
+    https://www.gilmanfamilypractice.com/forms/new-patients/New_Patient_Medication_List.pdf
     style: primary
     icon_class: dev
     new_window: true
