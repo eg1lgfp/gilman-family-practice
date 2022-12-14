@@ -1,3 +1,7 @@
 [build]
 publish = "out"
+<<<<<<< HEAD
 command = "CI='' npm run build"
+=======
+command = "CI= npm run build"
+>>>>>>> parent of e187bf8... Revert "Updated netlify.toml Build Command"
