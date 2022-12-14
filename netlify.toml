@@ -1,7 +1,11 @@
 [build]
 publish = "out"
 <<<<<<< HEAD
+<<<<<<< HEAD
 command = "CI='' npm run build"
 =======
 command = "CI= npm run build"
 >>>>>>> parent of e187bf8... Revert "Updated netlify.toml Build Command"
+=======
+command = "npm run build"
+>>>>>>> parent of 823be64... Retry Chg Env Var CI to False value
