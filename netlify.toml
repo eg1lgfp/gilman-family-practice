@@ -1,3 +1,3 @@
 [build]
 publish = "out"
-command = "CI= npm run build"
+command = "npm run build"
